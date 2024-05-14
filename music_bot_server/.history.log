@@ -1,0 +1,6708 @@
+clear
+exit
+python main.py
+pwd
+cd lofi_music/
+ls
+cat __pycache__/bot.cpython-312.pyc
+rm -rf ls
+file ls
+node app.js
+cd test_server/
+python test_server/lofi_music/main.py
+python main.py --verbose
+python bot.py --verbose
+cd ..
+node test_server/app.js
+cd bots/
+cd Repository/Discord/
+pip install python-dotenv
+
+pip uninstall dotenv
+
+pip uninstall python-dotenv
+
+touch ls
+python bot.py
+code .
+ls -lah
+sudo chown -R tyell ../../../../Discord
+sudo chown -r tyell ../../../../Discord
+ffmpeg -version
+ffmpeg --help
+ffmpeg --version
+cat .env
+sudo nvim .env
+nvim .env
+nvim bot.py
+nvim link
+nvim lofi_music/bot.py
+cat link
+touch link
+ssh terminal.shop
+python lofi_music/bot.py
+tmux
+python testbot.py
+nvim testbot.py
+nvim
+cat lofi_music/bot.py
+python ./testbot.py
+touch testbot.py
+ls node_modules/
+cat package.json
+sudo cp -r lofi_music test_server/
+cat app.js
+cat bot.py | rg "https://youtu.be/VQZrcZdvoJc"
+pip install yt-dlp
+pip uninstall youtube-dl
+pip install --upgrade youtube-dl
+
+code ../
+rm -rf token.txt
+nvim '.env'
+touch token.txt
+echo $DISCORD_BOT_TOKEN
+pip install requests
+export DISCORD_BOT_TOKEN='MTE1MzE3OTY1MTk0MjkyMDI5Mw.GRKni3.Df7QkSuwzyF2LcfOy2OT4okXii6wIpvSGmEML8'
+cat bot.py
+cd Discord/bots/
+..
+nvim app.js
+touch app.js
+npm install express
+npm init -y
+mkdir test_server
+rm -rf server
+rm -rf test
+mkdir test server
+pip install youtube_dl ffmpeg-python
+pip install -U discord.py[voice]
+pip install -U discord.py
+pip --version
+pip --versions
+touch bot.py
+mkdir lofi_music
+cd bots
+mkdir bots
+cd Discord/
+mkdir Discord
+cd Repository/
+nvim .config/nvim/init.lua
+brew search nvim-treesitter
+which alacritty
+pat
+cat raycast\ access
+file raycast\ access
+sudo sz .
+sz .
+...
+cd mac-cli/
+cd Apps/
+alias --save cd='cd'
+cd
+alias --save cd="z"
+alias --help
+z --help
+cd Repository
+sz
+nvim .bin/sz.py
+pip3.12 install tabulate
+brew info bloaty
+brew search bloat
+echo $SHELL
+fish
+echo $TERM
+$SHELL
+tmux command -h
+tmux --help
+clea
+:q
+source .tmux.conf
+nvim .tmux.conf
+curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/.tmux.conf --output ~/.tmux.conf
+brew install tmux
+cd ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/
+z
+cd --help
+alias --save cd='z'
+source .config/fish/config.fish
+nvim .config/fish/config.fish
+zsh
+brew install zoxide
+alias --save ls="eza --icons=always"
+brew install eza
+brew install ezra
+brew install zsh-syntax-highlighting
+brew search zsh
+nvm list
+nvm
+man spark
+spark -h
+spark
+fisher list
+fisher
+brew info zsh-autosuggestions
+brew info zsh-autocomplete
+brew install zsh-autosuggestions
+nvim .zshrc
+nvim .config/alacritty/alacritty.toml
+source .config/alacritty/alacritty.toml
+nvim .config/alacritty/themes/themes/brogrammer.toml
+nvim ~/.config/alacritty/themes/themes/coolnight.toml
+nvim ~/.config/alacritty/themes/themes/brogrammer.toml
+nvim ~/.config/alacritty/alacritty.toml
+cp ~/Downloads/terminal.sexy.txt .config/alacritty/themes/themes/brogrammer.toml
+nvim alacritty.toml
+nvim themes/themes/coolnight.toml
+cd themes/
+curl https://raw.githubusercontent.com/josean-dev/dev-environment-files/main/.config/alacritty/themes/themes/coolnight.toml --output ~/.config/alacritty/themes/themes/coolnight.toml
+ls themes/
+rm -rf alacritty-theme/
+mv * ../
+cd alacritty-theme/
+git clone https://github.com/alacritty/alacritty-theme.git
+rm -rf theme
+mkdir themes
+mkdir theme
+cd ~/.config/alacritty/
+ls -lah /Volumes/
+sudo rm -rf /Volumes/UbuntuISO
+rm -rf /Volumes/UbuntuISO/
+rm -rf utils/
+ls /Volumes/UbuntuISO/
+7z x ubuntu-24.04-desktop-amd64.iso -o/Volumes/UbuntuISO/
+7z x ubuntu-24.04-desktop-amd64.iso -o /Volumes/UbuntuISO/
+sudo hdiutil attach ubuntu-24.04-desktop-amd64.iso
+brew install p7zip
+man mount
+sudo mount -v -t udf -o loop ubuntu-24.04-desktop-amd64.iso /Volumes/UbuntuISO
+mount -y
+sudo mount -t udf -o loop ubuntu-24.04-desktop-amd64.iso /Volumes/UbuntuISO
+sudo mount -t udf -o loop ubuntu-24.04-desktop-amd64.iso /Volumes/UbuntuISO/
+sudo mkdir -p /Volumes/UbuntuISO
+mkdir -p /Volumes/UbuntuISO
+hdiutil attach -readonly ~/Downloads/ubuntu-24.04-desktop-amd64.iso
+hdiutil attach -readonly ubuntu-24.04-desktop-amd64.iso
+sudo cp -r ~/Downloads/ubuntu-24.04-desktop-amd64.iso .
+cd LinuxIso/
+mkdir LinuxIso
+cd rep
+brew info geneious-prime
+brew search genisoimage
+brew install genisoimage
+brew install xorriso
+brew info xorriso
+cd /Volumes/
+diskutil list
+diskutil listDisk
+diskutil eject /dev/disk4
+sudo dd if=Ubuntu.img.dmg of=/dev/disk4 bs=1m
+diskutil unmountDisk disk4
+sudo chown $(whoami) /dev/rdisk4*
+sudo chown $(whoami) /dev/disk4*
+ls -lah /dev/ | rg "disk4"
+sudo diskutil enableOwnership /dev/disk4
+sudo diskutil enableOwnership disk4s1
+sudo diskutil enableOwnership disk4
+diskutil enableOwnership disk4
+diskutil enableOwnership
+diskutil
+ls /Volumes/
+diskutil eraseVolume MS-DOS "Untitled" /dev/disk4s2
+diskutil eraseDisk "MD-DOS" "Untitled" disk4
+diskutil eraseDisk "MD-DOS" "Untitled" /dev/disk4
+diskutil eraseDisk "MD-DOS FAT12" "Untitled" /dev/disk4s2
+diskutil list disk4
+diskutil listFilesystems
+sudo dd if=Ubuntu.img.dmg of=/dev/rdisk4 bs=1m
+cd ~/Downloads/
+sudo dd if="~/Downloads/Ubuntu.img.dmg" of=/dev/rdisk4 bs=1m
+sudo dd if=~/Downloads/Ubuntu.img.dmg of=/dev/rdisk4 bs=1m
+hdiutil convert ~/Downloads/ubuntu-24.04-desktop-amd64.iso -format UDRW -o ~/Downloads/Ubuntu.img
+diskutil help image create from
+diskutil help image create
+diskutil image
+diskutil verifyVolume disk4s3
+diskutil addPartition disk4 "MS-DOS FAT32" Ubuntu 22g
+diskutil addPartition
+diskutil | rg "Volume"
+diskutil | grep Volume
+diskutil reformat
+diskutil eraseVolume free "Untitled" /dev/disk4s3
+diskutil eraseDisk free "Untitled" /dev/disk4s3
+diskutil eraseDisk free "Untitled" /dev/disk4
+diskutil eraseDisk
+diskutil eraseVolume free free /dev/disk4s1
+diskutil eraseVolume
+diskutil eraseVolume /dev/disk4s1 Free\ Space EFI
+diskutil eraseVolume /dev/disk4s1 "Free Space" EFI
+diskutil eraseVolume /dev/disk4s1 APFS EFI
+diskutil eraseVolume /dev/disk41 APFS EFI
+diskutil eraseDisk MS-DOS "untitled" /dev/disk4
+diskutil eraseDisk /dev/disk4
+diskutil eraseVolume /dev/disk4s2 APFS ESP
+diskutil eraseDisk /dev/disk4s2 APFS ESP
+diskutil eraseDisk /dev/disk4s2 APFS Untitled
+diskutil eraseDisk /dev/disk4s2
+diskutil mount /dev/disk4s2
+diskutil mount /dev/disk4s1
+diskutil eraseVolume /dev/disk4s1
+diskutil mount /dev/disk4
+diskutil mount readOnly /dev/disk4
+diskutil mount
+diskutil rename /dev/disk4 ubuntu
+diskutil rename disk4
+diskutil reformat /dev/disk4s1
+diskutil reformat disk4
+diskutil list | rg "disk4"
+diskutil list | rg "Disk4"
+diskutil list | rg Disk4
+diskutil repairDisk disk4
+diskutil verifyDisk disk4
+diskutil mountDisk disk4
+ls -lah /dev | rg "disk"
+ls -lah /dev | rg "Disk"
+ls -lah /dev
+diskutil mount /dev/Disk4
+cht.sh diskutil
+cht.sh diskutil info
+cht.sh diskutil/info
+diskutil info help
+diskutil info --help
+diskutil info[Disk4]
+diskutil info Disk4
+diskutil info /dev/Disk4*
+diskutil info /dev/Disk4
+sudo diskutil listClients
+diskutil listClients
+diskutil --help
+diskutil help
+brew info temurin
+cd nvim
+brew install --cask temurin
+rm -rf ubuntu-22.04.4-desktop-amd64.iso
+ls -lah | rg "iso"
+ls -lah | rg "Ubuntu"
+brew outdated | brew upgrade
+brew cleanup -n | rg "would be remove"
+brew cleanup -n
+brew cleanup --help
+brew commands
+brew remove zsh-autocomplete
+zsh % znap pull
+cat /opt/homebrew/share/zsh-autocomplete/README.md
+zsh --help
+zsh -h
+cat README.md
+ls Tests/
+./run-tests.zsh
+nvim run-tests.zsh
+file run-tests.zsh
+zsh ./run-tests.zsh
+../share/zsh-autocomplete/
+ls | rg "zsh"
+cd docs/
+cd homebrew/
+cd /opt/
+man zsh-autocomplete
+brew search zsh-autocomplete
+nvim ~/.zshrc
+nvim ~/.bashrc
+ln -s /opt/homebrew/bin/greadlink /opt/homebrew/bin/readlink
+brew upgrade coreutils
+brew search coreutils
+nvim /opt/homebrew/bin/pyenv
+cd /usr/
+which pyenv
+nvim pyenv
+cd /opt/homebrew/bin
+file pyenv
+cd /opt/homebrew/bin/
+cd share/
+which git
+cd Contents/Resources/
+cd iTerm.app/
+cd 3.4.19/
+cd iterm2/
+cd Caskroom/
+cd /opt/homebrew/
+brew search iterm
+which iTerm.app
+which iTerm2
+which iterm2
+which iTerm
+which ITerm
+which iterm
+ls Scripts/
+ls SavedState/
+ls DynamicProfiles/
+cd AppSupport/
+file AppSupport/
+cat conf.d/_tide_init.fish
+ls conf.d/
+cd .config/fish/
+nvim ~/.ssh/known_hosts
+brew search tmux
+ps --help
+ps
+ps -eo pid,ppid,cmd | grep zsh
+ping TyDev
+ssh tyell@macmini
+ssh tyell@TyDev
+ssh tyell@192.168.1.56
+tide configure
+nvim .config/fish/config-osx.fish
+fisher configure
+tide reload
+tide
+nvim config.fish
+../fish/
+tide --help
+fisher install IlanCosman/tide@v6
+fisher remove IlanCosman/tide@v6
+cd .config/alacritty/
+toe
+whoami
+fisher remove IlanCosman/tide@v5
+tide update
+fisher update
+brew install powerlevel10k
+brew info powerlevel10k
+brew search powerlevel10k
+code alacritty.toml
+../alacritty/
+ls lua/plugins/
+ls lua/
+ls -lah pack/
+ls -lah plugin/
+nvim --headless -c 'autocmd User PackerComplete quitall' -c 'PackerSync'
+code lua/plugins/plugins.lua
+rm -rf plugin/
+ls plugin/
+mv lua/plugins.lua lua/plugins
+mkdir -p lua/plugins
+cat lua/plugins.lua
+cd ../nvim
+cat ../nvim/init.lua
+ls ../nvim/plugin/
+code ../nvim/init.lua
+touch alacritty.toml
+cd alacritty/
+la
+man mkdir
+mkdir --help
+mkdir alacritty
+cd ../.config
+brew install font-meslo-lg-nerd-font
+brew search font
+brew tap homebrew/cask-fonts
+alacritty --version
+brew install alacritty
+cat rocksmith-toolkit-mac/README.md
+ls rocksmith-toolkit-mac/
+rm -rf cpt.py
+rm -rf cling-build/
+ls cling-build/
+rm -rf bernth\ int\ picking.zip
+rm -rf Untitled.itermcolors
+rm -rf guitar-pro.rb
+rm -rf creed
+rm -rf dkeg\ -\ colorstar*
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Chapter-Four_v1_DD_m.psarc .
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Chapter-Four_v1_DD_m.psarc
+cd ../../RDP/
+cat init.lua
+nvim init.lua
+rm -rf lazy-lock.json
+cat lazy-lock.json
+rm -rf ftplugin/
+ls ftplugin/
+rm -rf syntax/
+rm -rf after/
+nvim lua/plugins.lua
+sudo chown -R $(whoami) ./*
+touch lua/plugins.lua
+tree -L 10 -C
+tree -L 5 -C
+tree -L 2 -C
+ls pack/github/start/copilot.vim/lua/
+ls pack/github/start/copilot.vim/plugin/
+ls pack/github/start/copilot.vim/
+ls pack/github/start/
+ls pack/github/
+ls pack/
+ls after/
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+
+git clone https://github.com/github/copilot.vim.git \
+  ~/.config/nvim/pack/github/start/copilot.vim
+node --version
+nvim utils/init.lua
+ls utils/
+cd astronvim/
+lla
+l
+bat lazy_snapshot.lua
+cd lua/
+cd .old/
+nvim .old/init.lua
+mkdir after
+mkdir ftplugin
+mkdir syntax
+mkdir plugin
+mkdir lua
+cd nvim/
+perl --version
+sudo cpanm --force MsgPack::Raw
+sudo cpanm -n Neovim::Ext
+brew install msgpack
+cpanm -n Neovim::Ext
+~/.pyenv/versions/neovim3/bin/python -m pip install pynvim
+~/.pyenv/versions/neovim3/bin/python --version
+~/.pyenv/versions/neovim3/bin/python3 --version
+lla ~/.pyenv/versions/neovim3/bin | grep python
+cd ~/.config/nvim/
+bat pyvenv.cfg
+cd neovim3/
+cat neovim3/
+pyenv virtualenv 3.12.2 neovim3
+pyenv uninstall neovim3
+cd ~/.pyenv/versions/
+cd ~/.pyenv/versions/neovim3/
+ls -lah /Users/tyell/.pyenv/versions/neovim3/
+pyenv virtualenv 3.12.2 neovim3
+
+nvim ~/.config/fish/config-osx.fish
+rg "config-osx.fish" ~/.config/fish/*
+diff --side-by-side --color ~/.config/fish/config.fish ~/.config/fish/config-osx.fish
+source ./.config/fish/config.fish
+source ./.config/fish/confish.fish
+status is-interactive; and source (pyenv virtualenv-init - | psub)
+
+status is-interactive; and source (pyenv init - | psub)
+echo $fish_user_paths | tr " " "\n" | nl
+echo $fish_user_paths
+ls $PYENV_ROOT/bin
+echo $PYENV_ROOT
+echo PYENV_ROOT
+echo $HOME
+$HOME
+pyenv versions
+pyenv shims
+pyenv --help
+ncim
+nvcim
+rm -rf LICENSE
+lla .old/
+mv LICENSE .old/
+mv .typos.toml .old
+ll
+mv .stylua* .old
+mv .neoconf.json .old
+ls -lah .old/
+mv .luacheckrc .old
+mv .git* .old/
+git config --local --list
+mv old ./.old
+sudo rm -rf nvim-treesitter
+sudo rm -rf lua
+rm -rf lua
+rm -rf config.ld
+ls old/
+sudo rm -rf old/old/
+rm -rf old/old
+ls old/old/
+ld old/old
+ls old
+sudo cp -r * ./old/
+bat config.ld
+man ld
+ld
+mkdir old
+bat gh/config.yml
+ls gh
+bat gh-copilot/config.yml
+ls gh-copilot/
+clar
+mv *m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+rm -rf Creed_Higher_v1_2_DD_m.psarc
+mv ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Creed_Higher_v1_2_DD_m.psarc .
+ls -lah ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep High
+ls -lah ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep Creed
+cd ~/RDP/
+code redis-server/
+git clone https://git.codecrafters.io/494f8a3c56338fdb redis-server
+rm -rf redis-server/
+code redis-server
+rm -rf redis-server
+rm -rf codecrafters-git-python
+lazygit
+git revert --no-commit .
+git revert --no-commit
+git revert
+codecrafters test
+cd redis-server/
+cd python/
+cd ~/Repository/Projects/redis/
+rm -rf Linkin-Park_New-Divide_v1_1_DD_p.psarc
+rm -rf Bowling-For-Soup_*
+mv ../Downloads/*.psarc .
+python --version
+pyenv global 3.12.2
+pyenv version
+pyenv local 3.12.2
+ch pyenv
+pyenv local --help
+ls bin/
+cat pyvenv.cfg
+file neovim3
+file neovim3/
+cd versions/
+cd /Users/tyell/.pyenv/
+pyenv commands
+pyenv which python3
+pyenv which python
+pyenv which
+pyenv install 3.12.2
+pyenv install --list
+pyenv install help
+pyenv latest
+pyenv help
+pyenv install 3.12.3
+
+brew upgrade pyenv
+which python
+binwalk --help | grep version
+which binwalk
+binwalk --help
+brew install binwalk
+brew cleanup
+
+brew uninstall --ignore-dependencies binwalk
+/opt/homebrew/bin/binwalk --help
+/opt/homebrew/bin/binwalk --version
+/usr/local/bin/binwalk --version
+
+binwalk --version
+brew autoremove binwalk
+brew search binwalk
+pip3.11 list
+brew remove binwalk
+brew uninstall binwalk
+cd .
+binwalk voyager_voyager-default-layout_E5AmY_6KNmB.bin
+cd /Volumes/1tb/
+nvim extractor.py
+cd /opt/homebrew/Cellar/binwalk/2.3.4_1/libexec/lib/python3.11/site-packages/binwalk/modules/
+binwalk ./voyager_voyager-default-layout_E5AmY_6KNmB.bin
+brew info binwalk
+brew missing --help
+brew fetch --help
+brew docs --help
+man binwalk
+brew search bin
+strings voyager_voyager-default-layout_E5AmY_6KNmB.bin
+unzip voyager_voyager-default-layout_E5AmY_6KNmB.bin
+bat voyager_voyager-default-layout_E5AmY_6KNmB.bin
+file voyager_voyager-default-layout_E5AmY_6KNmB.bin
+mv ~/Downloads/voyager_voyager-default-layout_E5AmY_6KNmB.bin .
+cd ./1tb/
+ls /dev/ | grep disk4
+df -ah /Volumes/BOOT_MNJRO/
+df -h /Volumes/BOOT_MNJRO/
+df  /Volumes/BOOT_MNJRO/
+df -d /Volumes/BOOT_MNJRO/
+df -d /Volumes/BOOT_MNJRO
+ch df
+cat --list-languages
+cht.sh bat
+cat --help
+cat --version
+alias cat='bat' --save
+bat --version
+cat -v
+ls extlinux/
+cd BOOT_MNJRO/
+fuck
+source config.fish
+cd .config/fish
+alias fuck='thefuck' --save
+brew install thefuck
+brew search thefuck
+cd tes
+mkdir tests
+cd testing/
+rm -rf sniffraw_0.pcap
+go version
+go --version
+brew install go
+brew search go
+softwareupdate -l
+softwareupdate
+ifconfig | grep inet
+ifconfig
+htop
+cd redis/
+cd ~/Repository/Projects/
+sudo chown -R $(whoami) ./RECOVERY/
+sudo rm -rf ./*
+rm -rf ./*
+cat reagent.xml
+strings bootmgr
+file ./*
+ls -lah Resources/en-US/
+ls -lah Resources/
+cd Boot/
+cd RECOVERY/
+cat Delployment_bats/First.bat
+ls Delployment_bats/
+ls -lah System\ Volume\ Information/
+ls -lah Office\ Deployment\ Tool/
+ls -lah Office
+cd Untitled/
+sudo chown -R tyell ./RECOVERY
+sudo chown -R ./RECOVERY
+cd Projects/
+~
+mac terminal
+mac {terminal}
+mac categories
+mac help
+sudo mac system
+mac system
+celear
+mac uptime
+cht.sh mftraining
+man mftraining
+mftraining
+mf
+mac trash:empty
+mac trash:size
+mac memory
+mac temp
+mac brew:update
+mac battery
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/guarinogabriel/mac-cli/master/mac-cli/tools/install)"
+
+
+cd git-clone/
+diff --recursive codecrafters-git-python git-clone --side-by-side
+cht.sh diff
+diff -h
+diff --help
+rm -rf SwiftiOSApp/
+rm -rf *p.psarc
+mv JP_FaceToTheFloor_2v0_p.psarc ./Chevelle_FaceToTheFloor_v2_p.psarc
+cd RDP/
+rm -rf save_pcaps_here.setting
+cat save_pcaps_here.setting
+cht.sh sftp
+ssh tellis@192.168.106.27:22
+cat windowskey
+nvim windowskey
+cd ~/.ssh
+ssh -i ./id_rsa.pub 192.168.1.210
+ssh -i ./id_rsa 192.168.1.210
+touch windowskey
+ssh tyell@192.168.1.210
+ping 192.168.106.27
+ssh skrody@192.168.106.27
+ssh tyell@192.168.106.27
+nvim known_hosts
+cat known_hosts
+ls -lah kali_keygen/
+ls kali_keygen/
+cd .ssh
+cd ~/
+brew info unclutter
+brew search clutter
+brew info clutter-gtk
+brew info clutter-gst
+brew info clutter
+cat config.py
+pip install futures
+pip install -r requirements.txt
+cd ScrapedIn/
+git clone https://github.com/dchrastil/ScrapedIn.git
+brew search size
+brew info stork
+brew info stark
+brew search storage
+ls | grep zip
+ls | grep tar
+brew install clear
+brew info utm
+brew info upm
+brew search utm
+brew install --cask wireshark
+brew search wireshark
+brew autoremove wireshark
+brew commands | grep remove
+brew remove wireshark
+brew install wireshark
+cd FZEasyMarauderFlash/
+git clone https://github.com/SkeletonMan03/FZEasyMarauderFlash.git
+open .
+cd Wifi_DevBoard/
+cd Flipper/
+ls APIs/
+cd utils/
+cd Frameworks/
+cd libraries/
+celar
+mv Rocksmith2014/dlc/rs1compatibilitydlc_m.psarc ../Rocksmith2014/dlc/
+mv ../Rocksmith2014/dlc/rs1compatibilitydlc_m.psarc ../Rocksmith2014/.dlc/
+mkdir ../Rocksmith2014/.dlc
+mv ../Rocksmith2014/dlc/rs1compatibilitydlc_m.psarc ../Rocksmith2014/
+diff -r Rocksmith2014/dlc ../Rocksmith2014/dlc --side-by-side | grep rs
+diff -r Rocksmith2014/dlc ../Rocksmith2014/dlc
+mv ./Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/rs1compatibilitydisc_m.psarc ../Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/
+mv ./Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/rs1compatibilitydlc_m.psarc ../Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/
+mv ../Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/rs1compatibilitydlc_m.psarc ../Rocksmith2014/
+mv ../Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/rs1compatibilitydisc_m.psarc ../Rocksmith2014/
+diff -r ../Rocksmith2014/Rocksmith2014.app ./Rocksmith2014/Rocksmith2014.app --side-by-side
+diff -r ../Rocksmith2014/Rocksmith2014.app ./Rocksmith2014/Rocksmith2014.app
+diff ../Rocksmith2014/Rocksmith2014.app ./Rocksmith2014/Rocksmith2014.app
+unzip Rocksmith20141.zip
+sudo cp -r ../Rocksmith20141.zip .
+rm -rf Rocksmith2014/
+rm -rf __MACOSX/
+cd test/Rocksmith2014/
+ls test/
+rm -rf Rocksmith20141
+ls Rocksmith20141
+unzip Rocksmith20141.zip Rocksmith20141
+mkdir Rocksmith20141
+unzip Rocksmith20141 Rocksmith20141.zip
+cat Sonoma/libRSBypass.dylib
+ls Sonoma/
+./RUN_PATCH_RS.command
+sudo cp ../Rocksmith/RSBypass/RSBypass/RUN_PATCH_RS.command .
+ls ARM/
+cd Sonoma/
+mv RUN_PATCH_RS.command ./.RUN_PATCH_RS.command
+cd RSBypass/
+cd ~/Repository/Apps/
+sudo chmod +x RUN_PATCH_RS.command
+cd RSBypass
+code README.md
+git clone https://github.com/aik002/RSBypass.git
+ls *
+cd RSInjector-Mac/
+rm -rf RSBypass/
+cd Apps/Rocksmith/
+cd ls
+ls Apps/
+mitmweb --web-open-browser
+mitmweb --help
+cht.sh mitmproxy
+brew search mitm
+mitmproxy --help
+cd /Applications/
+brew info middle
+brew search fiddler
+brew outdated | brew update
+brew list --outdated
+brew search --outdated | brew update
+brew list --outdated | brew update
+brew info ssh-mitm
+brew install --cask mitmproxy
+cd APIs/
+mkdir APIs
+cd ~/Repository/
+rm -rf Avenged-Sevenfold_Dear_God_p.psarc
+mv ./Dear_God_p.psarc ./Avenged-Sevenfold_Dear_God_p.psarc
+ls ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep Aven
+jjjls
+rm -rf Avenged-Sevenfold_*
+mv ~/Downloads/*.psarc .
+sudo rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Natural-Born-Killer_v_DD_m.psarc
+sudo rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Dear-God_v1_DD_m.psarc
+nvim .
+cd codecrafters-redis-python/
+cd CodeCrafters/
+ls Repository/
+mv ./HIS\ 100\ Module\ Two\ Activity\ Research\ Question\ \(1\)\ \(1\).docx ./HIS\ 100\ Module\ Two\ Activity\ Research\ Question.docx
+cd ~/School/HIS100/
+brew info recovery-disk-assistant
+brew info recover-disk-assistant
+brew info disk-expert
+brew info disk-arbitrator
+brew search disk
+brew remove daisydisk
+brew install daisydisk
+brew info daisydisk
+brew info gptfdisk
+disktype
+brew install disktype
+brew info disktype
+cht.sh du
+du -h
+man du
+sudo du -sh
+du -sh
+brew info diskus
+brew remove macgamestore
+brew list | grep mac
+brew list
+brew list --installed
+brew list --installed | grep Mac
+brew list --installed | grep mac
+brew search mac
+brew info diskonaut
+brew install macgamestore
+brew isntall macgamestore
+brew info macgamestore
+brew info gameranger
+brew info git-game
+brew search -d "game"
+brew search game
+brew remove 0-ad
+brew autoremove 0-ad
+brew install 0-ad
+brew outdated
+brew analytics
+brew --help
+brew info 0-ad
+brew search "0 A.D."
+ls Macintosh\ HD/Volumes/Macintosh\ HD/Volumes/Macintosh\ HD/
+ls Macintosh\ HD/Volumes/
+file Macintosh\ HD/
+cd Macintosh\ HD/
+df -h
+df
+sudo reboot now
+rm -rf test.txt
+echo "test" > test.txt
+cd redis/python/
+git status
+git add . && git commit --allow-empty -m 'git stage 2 complete' && git push --all
+cd noSubMod/
+rm -rf .git*
+sudo chown -R tyell ../../../Projects
+chown -R tyell ../../../Projects
+chown tyell ../../../Projects
+man chown
+chown -H
+chown -h
+diff codecrafters-git-python/app/main.py git-clone/app/main.py --side-by-side
+diff codecrafters-git-python/app/main.py git-clone/app/main.py
+ls git-clone/
+ls codecrafters-git-python/
+sudo cp -r redis/* noSubMod/
+mv redis-server ./noSubMod
+rm -rf redis-server/*
+ls redis-server/app/
+ls redis-server/
+git submodule add https://git.codecrafters.io/29bf33de53551a53 redis/cpp/codecrafters-redis-cpp
+git add . && git commit --allow-empty -m 'stage 2 complete' && git push
+origin master
+git add . && git commit --allow-empty -m "stage 2 complete" && git push orgin master
+file .git/objects/9c/f45e57a3e5dc999af09b3a96420c603f7759d3
+git cat-file -p 9cf45e57a3e5dc999af09b3a96420c603f7759d3
+git cat-file -p f45e57a3e5dc999af09b3a96420c603f7759d3
+git cat-file -p 9006c411180dfe0807d51bea9e06bb3c1994583f
+cat .git/objects/9c/f45e57a3e5dc999af09b3a96420c603f7759d3
+codecrafters codecrafters.yml
+git checkout -- app/main.py
+man git
+git -help
+cat ../redis-server/app/main.py
+ping pop-os
+gh copilot explain 'app/main.py'
+gh alias set cp 'gh copilot'
+gh alias set -h
+gh alias -h
+gh gp -h
+gh co -h
+gh copilot -h
+gh explain app/main.py
+gh status
+gh -h
+gh extension search gh-copilot
+gh extension exec gh-copilot
+gh extension gh-copilot -h
+gh extension -h
+gh extension install github/gh-copilot --force
+gh extension browse
+gh extension list
+gh auth login
+gh auth
+gh --help
+brew install gh
+brew info ghc
+brew search gh
+sudo dd if=./pop-os_22.04_amd64_intel_39.iso of=/dev/rdisk6 bs=4m
+diskutil unmountDisk /dev/disk6
+sudo dd if=pop-os_22.04_amd64_intel_39.iso of=/dev/rdisk8 bs=1m
+cd /Users/tyell/Downloads/
+sudo dd if=/qcle/Downloads/pop-os_22.04_amd64_intel_39.iso of=/dev/rdisk8 bs=1m
+sudo dd if=~/Downloads/pop-os_22.04_amd64_intel_39.iso of=/dev/rdisk8 bs=1m
+diskutil unmountDisk /dev/disk8
+ls /dev/disk8
+ls /dev/
+sudo cd UNTITLED/
+cd UNTITLED/
+cd /cores/
+minecraft-server -h
+minecraft-server
+brew install minecraft-server
+brew info minecraft
+brew search minecraft
+rm -rf vim-be-good.vim
+cd lua/plugins/
+rm -rf vim-be-good
+sudo rm -rf vim-be-good
+sudo rm -rf src
+rm -rf src
+ls src/
+nvim astronvim/utils/init.lua
+ls astronvim/utils/
+ls astronvim/
+nvim README.md
+cat TODO.md
+cd .config/nvim/vim-be-good/
+cd ~
+cd vim-be-good/
+sudo cp -r vim-be-good/src lua/
+cp -r vim-be-good/lua/vim-be-good ./lua/
+mv lua/vim-be-good .
+sudo cp plugin/vim-be-good.vim ../plugins/
+ls ../plugins/
+git clone https://github.com/ThePrimeagen/vim-be-good.git
+cd .config/nvim/
+redis-cli -p 6379 INFO --help
+redis-cli -p 6379 INFO
+redis-cli -p 2778 INFO
+redis-cli --help
+redis-cli INFO replication
+redis-server --port 6379
+sudo lsof -i -P -n | grep 6379
+sudo lsof -i -P -n | grep LISTEN
+sudo lsof -i -P -n
+redis-server
+netstat
+sudo redis-cli
+redis-cli
+java --version
+ls -lah redis-server/
+mv .gitattributes redis-server/
+cat .gitattributes
+mv .gitignore redis-server
+mv .git Projects/redis-server/
+mv ../.git* .
+git push --all --verbose --force
+git config --global --list
+git push --all --verbose
+git commit -m "pushing code copy to repository"
+git add --all
+mv redis-server/.git* ../
+ls -lah redis-server/.git
+rm -rf redis-project/
+cd redis-project/
+ls redis-*
+rm -rf Projects/
+mv ./Projects/* .
+mv ./Projects .
+git clone https://github.com/s501094/Projects.git
+ls redis-project/
+sudo rm -rf redis-project
+rm -rf redis-project
+cd app/
+git reset app/main.py
+codecrafters teset
+python3.12 app/tests.py
+cd ~/Repository/Projects/redis-project/
+alias sz='python3.12 ~/.bin/sz.py' --save
+python3 sz
+sz.py ./*
+sz.py *
+sz.py .
+sz app/*
+sz app/
+sz *
+alias sz='sz.py' --save
+~/.bin/sz.py .
+ls -lah ~/.bin/
+chmod +x ~/.bin/*.py
+ls ~/.bin/
+sz.py
+code ~/.bin/sz.py
+codecrafters --help
+fish_add_path -U /opt/homebrew/bin/
+ls | grep His
+cd ../Downloads/
+ssh skrody@192.168.1.90
+sudo nvim /Users/tyell/.ssh/known_hosts
+cat /Users/tyell/.ssh/known_hosts
+umount /Volumes/"Raspberry Pi Imager"
+umount /Volumes/Raspberry
+cht.sh umount
+nvim app/main.py
+cat app/main.py
+cd Repository/CodeCrafters/codecrafters-redis-python/
+mv ~/Desktop/* .
+code ~/.config/fish/config.fish
+pip install pytest pytest-mock
+brew search alfred
+git add . && git commit --allow-empty -m '<your_commit_message>' && git push
+origin master
+python3
+./spawn_redis_server.sh
+redis-cli ping
+brew install codecrafters-io/tap/codecrafters
+
+git clone https://git.codecrafters.io/494f8a3c56338fdb codecrafters-redis-python && cd codecrafters-redis-python
+mkdir CodeCrafters
+cd ../../../
+ls x64/
+cd x64/Debug/
+ls ./*
+ls .
+cd bin/
+cd Simpl2/
+cd Simpl/
+rm -rf guitarpro7.rb
+git clone https://github.com/s501094/Simpl.git
+cd ../Repository/
+mv creed/* .
+rm -rf creed/*
+mv creed* creed/
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Creed_*
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Creed-*
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/creed*
+ls creed/
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/creed* .
+mv Creed* creed/
+mkdir creed
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Creed_* .
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Creed-* .
+nvim bs.py
+python3 bs.py
+touch bs.py
+cd bs
+mkdir bs
+ls go
+ls ci
+cleanup /Applications
+cleanup ./dist
+ls dist
+ls dist/
+cleanup ./dist/
+sudo cp cleanup ./dist/
+file cleanup
+cleanup
+chmod +x cleanup
+mv ./dist/cleanup .
+pyinstaller --onefile cleanup.py
+pyinstaller --version
+source ~/.config/fish/config.fish
+nvim ~/.config/fish/config.fish
+bash
+pip list
+pip3 install --upgrade pip
+pip3 install --upgrade pip3
+pip install --upgrade pip3
+pip install --upgrade pip
+pip install pyinstaller
+cat cleanup.py
+nvim cleanup.py
+touch cleanup.py
+cd .bin/
+sudo ./cleanup.sh
+cleanup.sh
+chmod +x cleanup.sh
+nvim cleanup.sh
+touch cleanup.sh
+sudo ls Caches
+ls Caches/
+cd /Library/
+killall "*iStat*"
+killall -kill "*istat*"
+killall -kill "istat*"
+killall -kill "iStat*"
+killall -kill "Grammarly*"
+expr 123456 + 7890
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*Dear-God_v1_DD_m.psarc
+rm -rf Avenged-Sevenfold_Dear-God_v1_DD_m.psarc
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*Dear-God_v1_DD_m.psarc .
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*God-Hates-Us_v5_DD_m.psarc
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*Natural-Born-Killer_v_DD_m.psarc
+ls | grep psarc
+rm -rf *.psarc
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*Natural-Born-Killer_v_DD_m.psarc .
+python3 .
+python3 test_python.py
+nvim test_python.py
+python3 --version
+cd ~/Documents/
+ls bernth\ int\ picking
+mv Avenged\ Sevenfold\ -\ * GuitarSheetMusic/
+rm -rf A7x_SaveMe_USETHISONE_DD_m.psarc
+cd ../../
+mv Avenged-Sevenfold_Stage-The_v2_DD_m.psarc ../
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*Stage-The_v2_DD_m.psarc .
+cd GP8Ax7/
+cd GuitarSheetMusic/
+ls dlc | count
+sudo cp -r ./Rocksmith\ Manager-darwin-x64/Rocksmith\ Manager.app /Applications/
+sudo cp ./Rocksmith\ Manager-darwin-x64/Rocksmith\ Manager.app /Applications/
+sudo rm -rf /Applications/Rocksmith\ Manager.app
+rm -rf AppPackages.zip
+mv ~/Downloads/*.zip .
+sudo rm -rf rs-manager
+rm -rf rs-manager/
+sudo yarn electron-builder
+sudo yarn electron-osx-sign ./release-builds/Rocksmith\ Manager-darwin-x64/Rocksmith\ Manager.app
+sudo yarn electron-osx-sign
+ls node_modules/electron/node_modules/
+ls node_modules/electron/
+ls node_modules/ | grep electron
+open /Applications/
+sudo cp -r release-builds/Rocksmith\ Manager-darwin-x64/Rocksmith\ Manager.app /Applications/
+sudo cp release-builds/Rocksmith\ Manager-darwin-x64/Rocksmith\ Manager.app /Applications/
+cat scripts/package
+file scripts/package
+ls scripts/
+ls scr
+cat version
+cd release-builds/Rocksmith\ Manager-darwin-x64/
+sudo yarn run package-mac
+ls locales/
+ls config
+ls build/
+ls  release-builds/
+ls public/
+cd ~/Repository/Apps/Rocksmith/rs-manager/
+cd /Users/tyell/.npm/_logs/
+sudo ./node_modules/.bin/electron-builder
+file node_modules/.bin/electron-builder
+sudo ./node_modules/.bin/electron-rebuild
+ls node_modules/.bin/
+tree -L 1 -C
+tree --help
+cat errors.log
+sudo yarn run dist-mac >> errors.log
+sudo yarn run dist-mac
+node --trace-warnings
+node --help | grep trace
+sudo yarn run build
+yarn run build
+sudo yarn install
+yarn install
+yarn --version
+cd rs-manager/
+ls GuitarSheetMusic/GP8Ax7/
+ls GuitarSheetMusic/
+mv GuitarSheetMusic/Avenged\ Sevenfold\ -\ Save\ Me.gp5 ./GuitarSheetMusic/GP8Ax7/
+sudo cp ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/*SaveMe_USETHISONE_DD_m.psarc .
+cat rma.csv | grep Rejected | count
+cat rma.csv | grep Rejected
+cat orders.csv | grep Framingham
+cat customers.csv | grep Framingham
+head rma.csv
+head customers.csv
+ch cat
+cat customers.csv
+cat customers.csv | head 10
+ls | grep csv
+c;ear
+INSERT INTO customers (customerNumber, customerName, contactLastName, contactFirstName, phone, addressLine1, addressLine2, city, state, postalCode, country, salesRepEmployeeNumber, creditLimit) 
+VALUES (your_customer_number, 'Your Celebrity Name', 'Your Last Name', 'Your First Name', 'Your Phone', 'Your Address Line 1', 'Your Address Line 2', 'Your City', 'Your State', 'Your Postal Code', 'Your Country', your_sales_rep_employee_number, your_credit_limit);
+ca
+brew info nightshade
+brew info insomnium
+brew info bugdom2
+brew info bitbox
+brew install gimp
+brew search gimp
+ssh tellis@192.168.1.90
+mv ../../Downloads/DAD\ 220\ Module\ Two\ Activity\ Template.docx .
+mkdir Mod2
+cd ../../School/DAD-220/
+mv ./GP5/*.gp ./GP8
+mkdir Resources
+cd DAD-220/
+mkdir DAD-220
+cd School/
+nvim /Users/tyell/.ssh/known_hosts
+cd Elegoo\ Cura.app/
+cd elegoo/
+mv ../Downloads/*.itermcolors .
+ls ../Downloads/
+help wildcards-globbing
+mv ../Downloads/*.txt .
+cd ./RDP/
+cat .python-version
+ls .python-version
+pyenv local 3.11.5
+pyen --help
+pyenv list
+pyenv --list
+python3.11 main.py
+python3.11 -m pip install tensorflow-cpu
+python3.11 -m pip install tensorflow-macos
+/Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11 -m pip install --upgrade pip
+python3.11 -m pip install tensorflow
+python3.11 --version
+pyenv local
+pyenv global
+pip install tensorflow
+pip install tensorflow-macos
+brew search tensorflow
+pip install tensorflow
+
+pip install tenserflow
+pip3 --version
+which pip3
+nvim pip3.fish
+ls | grep pip
+cd /opt/homebrew/Cellar/fish/3.7.0/share/fish/completions/
+cd /opt/homebrew/Cellar/fish/3.7.0/share/fish/completions/pip3.fish
+pip install time
+./main.py
+cd ../Projects/MLTesting/
+cd ./main.py: line 2: import: command not found
+./main.py: line 3: import: command not found
+./main.py: line 6: syntax error near unexpected token `,'
+./main.py: line 6: `(train_images, train_labels), ('
+cd /Users/tyell/Projects/MLTesting
+cd Projects/MLTesting/
+nvim main.py
+fish --version
+cd MLTesting/
+python -m pip list
+nvim main
+cd /Users/tyell/Projects
+MLTesting/main.py
+ls MLTesting/
+./Dev/main
+ls Dev/
+ls Projects/
+ls testing/
+ls libraries/
+ls challenges/
+ls Practice/
+ls Frameworks/
+ls Apps/build_opencv/
+nvim Rocksmith.ini
+cd ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/
+cd ../RDP/
+sudo spctl --status
+sudo spctl --master-enable
+sudo sudo reboot now
+sudo spctl --master-disable
+sudo softwareupdate -iaR
+softwareupdate -iaR
+softwareupdate -h
+xcode-select --install
+gcc --version
+make --version
+ls applications/
+cd .local
+cd .config
+cd .con
+nvim Apps/AvaloniaILSpy/README.md
+ls Apps/AvaloniaILSpy/
+cht.sh top
+top
+cht.sh fzf
+cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/A7X_Almost-Easy_v2_m.psarc .
+ls DLC/
+rm -rf ACMiragenexus.CT
+cd ~/RDP
+cd bootfs
+find /Library/Preferences/* -name "*Arobas*"
+sudo rm -rf /Library/Application\ Support/Arobas\ Music
+rm -rf /Library/Application\ Support/Arobas\ Music
+find /Library/Application\ Support/* -name "*Arobas*"
+find ../Library/Preferences/* -name "*Arobas*"
+find ../Library/Application\ Support/* -name "*Arobas*"
+brew install --cask guitar-pro
+brew install --cask guitar-pro@76
+brew install guitar-pro@76
+brew zap --cask guitar-pro
+brew autoremove
+
+brew cleanup guitar-pro
+brew cleanup
+brew uninstall guitar-pro
+brew info guitar-pro
+brew info guitar-pro@76
+brew info guitar-pro@7.6
+brew search guitar-pro@76
+ruby guitar-pro.rb
+cat guitar-pro.rb
+nvim guitar-pro.rb
+ruby -c guitar-pro.rb
+cht.sh ruby
+cht.sh ruby run
+ruby --help
+mv ../Downloads/guitar-pro.rb .
+curl -O https://github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/g/guitar-pro.rb
+wget https://github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/g/guitar-pro.rb
+git clone Casks/g/guitar-pro.rb
+git clone --help
+brew search guitar
+ls ./Downloads/
+man find | grep 2
+man find
+cd Library/Application\ Support/
+cd tyell/
+cd Data/Users/
+ls Applications/
+cd Data/
+cd Volumes/
+cd System/
+cd /
+rm -rf Arobas\ Music/
+cd ~/Library/Application\ Support/
+cd /Library/Application\ Support/
+sudo su
+find ./* -name "Arobas*"
+find ./* -name "Arobas"
+find ./PreferencePanes/ -name "Arobas"
+find ./PreferencePanes/-name "Arobas"
+find ./PreferencePanes/* -name "Arobas"
+find ./PreferencePanes/* -name "Arobas*"
+find ./PreferencePanes/* -name "Guitar*"
+find ./PreferencePane/* -name "Guitar*"
+find ./Preferences/* -name "Guitar*"
+find ./Preferences -name "Guitar*"
+find ./Preferences -name "Arobas*"
+find ./Preferences/ -name "Arobas*"
+find ./Preferences/* -name "Arobas*"
+sudo rm -rf Arobas\ Music/
+man find | grep name
+find --help
+find ./* -type d -name "Arobas"
+find ./* -type f -name "Arobas"
+find . -type f -name "Arobas"
+ls -lah | grep Arobas
+ls | grep Arobas
+cd Library/
+sudo ls /Library/* | grep Arobas
+sudo ls /Library* | grep Arobas
+ls /Library/* | grep Arobas
+ls /Library/ | grep Arobas
+rm -rf /Applications/Guitar\ Pro\ 8.app
+ls /Applications | grep Guitar\ Pro
+find /Applications | grep Guitar\ Pro
+find /Applications | grep "Guitar Pro"
+find /Applications | grep Guitar
+find /Applications | grep Arobas
+find /Applications | fzf --query 'Arobas'
+find /Applications | fzf --query "Arobas"
+fzf /Applications --query "^Arobas"
+fzf --query "^Arobas"
+fzf / --query "^Arobas"
+ch fzf
+brew uninstall openssl@1.1
+brew search openssl
+brew link python-jinja, python-certifi, python-idna, python-packaging, pygments, pycparser, python-dateutil, python-requests, ipython, cffi, python-urllib3, python-psutil, python-attrs, numpy, python-platformdirs, pillow, pyyaml, python-typing-extensions, jupyterlab, six, python-charset-normalizer, python-markupsafe
+cat config
+cd .git
+rm -rf Taproot_Poem_v1_*
+cat main.py
+python3.12 main.py
+cd /Users/tyell/Repository/leetcode/easy/prob5
+cd prob5/
+mkdir prob5
+rm -rf prob 5
+mkdir prob 5
+cd easy/
+mv beginner/ ./easy
+cd beginner/
+cd leetcode/
+cd /Users/tyell/Repository/AOC/2023/day5
+cd Repository/AOC/2023/day5
+cd day5
+cd 2023/
+cd 2023/ls
+../Repository/AOC/
+cat CS230-H2931/README.md
+git push
+git commit -m "adding school repository"
+git add .
+sudo nvim README.md
+sudo chmod 755 README.md
+cd CS230-H2931/
+cd SchoolRepo/
+sudo chmod -R 755 SchoolRepo/
+chmod -R 755 SchoolRepo/
+man chmod
+chmod --help
+chmod 755 SchoolRepo/
+sudo cp README.md CS230-H2931/
+sudo mv proj* CS230-H2931/
+sudo mv Mod* CS230-H2931/
+mv proj* CS230-H2931/
+mv Mod* CS230-H2931/
+mkdir CS230-H2931
+../School/SchoolRepo/
+touch README.md
+git init
+cht.sh git/init
+ch git init
+git init --help
+git config --get-all
+git config --global --get-all
+git config --global
+sudo cp -r CS230-H2931/ SchoolRepo/
+mkdir SchoolRepo
+mv ~/Downloads/CS\ 230\ Project.docx .
+../Mod7
+mv ~/Downloads/Module6-1_Memory_and_storage.docx .
+cd Mod6/
+mv ~/Downloads/CS\ 230\ Project\ Software\ Design\ 1.docx .
+mv ~/Downloads/Mod4Journal.docx ../Mod4/
+cd mod5
+mv ../GameAuth.jar .
+ls ..
+cd Mod4/
+mv ~/Downloads/CS\ 230\ Project\ * .
+cd proj1
+rm -rf Mod3
+mv ~/Downloads/CS\ 230\ Project\ One\ Milestone\ Game\ App.zip .
+mv ~/Downloads/CS\ 230\ Module\ Two\ Assignment\ Software\ Design\ Template\ 1.docx .
+lsclear
+rm -rf Mod*
+rm -rf Project\ Three\ Guidelines\ and\ Rubric/
+rm -rf CS\ 230\ Project\ Software\ Design.docx
+cd ../Mod2
+rm -rf Blank\ diagram\ \(1\).p*
+mv ~/Downloads/CS230Mod1Assignment.docx .
+mv ~/Downloads/Blank\ diagram.* .
+cd Mod1
+ls proj3/
+mkdir Mod8
+mkdir Mod7
+mkdir Mod6
+mkdir Mod5
+mkdir Mod4
+mkdir Mod3
+mkdir Mod1
+rm -rf Project3-1/
+rm -rf Mod2*
+cat CS\ 230\ Project\ One\ Milestone\ FIXME\ Text\ Version.docx
+cd mod2
+rm -rf Mod1
+ls Mod1/Environment/module1/bin/
+cat Mod1/Environment/module1/bin/
+tree -L 3 -C ./Mod1
+tree -L 2 -C ./Mod1
+tree -L 1 -C ./Mod1
+cd /Users/tyell/School/CS230-H2931
+cd School/CS230-H2931/
+brew doctor fish
+brew help
+sudo apt update fish
+fish --help
+tree -L 2 -C ./Mod*
+rm -rf project2Env_requirements.txt
+cat project2Env_requirements.txt
+tree -L 2 -C *
+ls Mod
+rm -rf classDictionary.txt
+cat classDictionary.txt
+rm -rf neovim3_requirements.txt
+rm -rf Java\ Programming\ Cheatsheet.pdf
+ls Project3-1/
+mv ../../Downloads/CS\ 230\ Project.docx ./proj3
+mkdir proj3
+mkdir proj2
+mkdir proj1
+ls -lah | grep doc
+ls | grep doc
+exercism test
+cd guidos-gorgeous-lasagna/
+exercism download --track=python --exercise=guidos-gorgeous-lasagna
+exercism submit
+exercism help
+cat hello_world_test.py
+python3.12 -m pip install pytest
+pip3.10 install pytest
+pip3.11 install pytest
+pip3.12 install pytest
+pip3 install pytest
+pip install pytest
+python3.12 hello_world.py
+nvim.
+~/Exercism/python/
+cd hello-world/
+exercism download --track=python --exercise=hello-world
+exercism configure
+exercism workspace
+cd Exercism/
+mkdir Exercism
+cd /Users/tyell/Exercism
+cd ../
+exercism configure --token=8ea41006-e945-46ac-9a69-4228a7aa56bd
+exercism version
+exercism --version
+brew install exercism
+pat completion powershell
+pat completion fish
+pat completion --help
+pat completion
+pat completion Fish
+pat upgrade
+pat --help
+PAT
+cd Practice/
+mkdir Practice
+brew info exercism
+brew search exercism
+nvim lazy.lua
+cat astronvim/lazy.lua
+nvim astronvim/lazy.lua
+ls plugins/configs/
+ls plugins/
+cd .config/nvim/lua/
+sudo cp -r ./harpoon ~/.config/nvim/lua/plugins
+cat switch-back-to-nvim
+cd tmux/
+cd scripts/
+cat resession/extensions/astronvim.lua
+ls resession/extensions/
+ls resession/
+cat config.ld
+ls configs/
+cd plugins/
+cat HEAD
+code ../harpoon/
+cd harpoon/
+git clone --branch harpoon2 https://github.com/ThePrimeagen/harpoon.git
+git clone lsgit@github.com:ThePrimeagen/harpoon.git
+cd nvimPlugins/
+rm -rf nvimPlugins/harpoon
+open README.md
+git clone https://github.com/ThePrimeagen/harpoon.git
+mkdir nvimPlugins
+cd ~/.config
+cat input.txt
+cat ../day4/main.py
+nvim input.txt
+cd ../day5
+cd Repository/AOC/2023/day4/
+python
+cd day4
+cd Repository/AOC/2023/
+python3 main.py
+cd day4/
+cd d4
+cd Day4
+cd /Users/tyell/Repository/AOC/2023/Day4
+cd AOC/
+dc ~/RDP/
+cd ../../Repository/AOC/2023/day4/
+python3.12 facetest.py
+/Users/tyell/.pyenv/shims/python -m pip list | grep pyt
+pip3.11 install -U pyttsx3
+pip install -U pyttsx3
+pip3.11 install -U pyobjc
+
+pip install -U pyobjc
+python3.11 facetest.py
+pip3.11 install pyobjc
+
+pip install pyobjc
+
+pip3.11 install pyttsx3
+touch facetest.py
+cd ChatGptAssistant/
+cd ~/Projects/
+pip install pyttsx3
+
+pip install openai
+python test2.pyhhllhk
+python test2.py
+touch test2.py
+Nvim
+ls -lah ..
+chmod 755 ../day4/*
+chmod 755 ../day4
+mkdir ../day6
+mkdir ../day5
+touch main.py
+touch input.txt
+cd day
+mkdir day4
+nvim day3/
+ls day3/
+cd day3/ls
+brew install Pycharm
+brew info pycharm-ce
+brew info pycharm-ce-with-anaconda-plugin
+brew info pycharm-edu
+brew search pycharm
+brew update | brew upgrade
+brew uninstall Grammarly
+killall -kill Grammarly
+cd Contents/
+cd Grammarly\ Installer.app/
+cd Grammarly/
+ls ~/Downloads/Grammarly.cdT1Jg8djwhg8h0i1hqj0bg2.dmg
+ls ~/Downloads/ls
+cd ...
+cd Resources/
+tree -L 3 -C .
+tree -3 -C
+cd /Applications/Grammarly\ Desktop.app/Contents/
+cd /Appli
+nvim guessing_game.py
+touch guessing_game.py
+python3.12 calculator.py
+nvim calculator.py
+nvim calculator.py -w
+nvim --help
+cd Repository/challenges/chatgpt/
+touch calculator.py
+cd chatgpt/
+mkdir leetcode
+mkdir chatgpt
+cd challenges/
+mkdir challenges
+python3.12 main2.py
+rm -rf input.txt
+cat main2.py
+nvim main2.py
+fish_add_path -U /Users/tyell/Repository/Frameworks/NeuralNetworks/tinygrad/
+rm -rf day3
+mkdir day3
+../../../AOC/2023/day3/
+../AOC/2023/day3/
+cd /Users/tyell/Repository/leetcode/beginner/prob1
+cd prob1/
+mkdir prob1
+ping 192.168.1.210
+touch day3/input.txt
+ls day*
+python3.12 day2.py
+nvim day2.py
+python3.12 day2_alt.py
+Game 1: 13 red, 18 green; 5 green, 3 red, 5 blue; 5 green, 9 red, 6 blue; 3 blue, 3 green
+Game 2: 2 green, 3 blue, 5 red; 9 green, 4 red, 2 blue; 4 green, 3 blue; 2 blue, 3 red; 5 red, 3 blue, 9 green; 9 green, 5 red, 2 blue
+Game 3: 12 green, 3 red, 3 blue; 2 blue, 5 green, 2 red; 2 red, 3 blue, 11 green; 2 red, 8 green, 7 blue
+Game 4: 1 green, 2 blue; 7 green, 13 red; 2 blue, 5 green, 7 red; 6 green, 2 red
+Game 5: 6 blue, 4 green; 8 blue, 7 green; 1 red, 10 blue
+Game 6: 4 red, 4 blue, 2 green; 8 green, 1 blue, 8 red; 9 green, 1 red, 3 blue
+Game 7: 3 red, 12 green, 4 blue; 1 blue, 3 red, 6 green; 4 blue, 3 red, 15 green; 11 green, 2 blue, 2 red
+Game 8: 13 blue, 7 green, 8 red; 5 green, 8 blue, 2 red; 5 red, 6 blue, 7 green; 6 green, 6 red, 3 blue; 7 blue, 8 red, 6 green
+Game 9: 4 blue, 1 green, 4 red; 16 red, 1 green, 7 blue; 11 red, 3 green, 7 blue
+Game 10: 5 green, 1 red; 5 green, 3 blue; 1 red, 7 green, 3 blue; 1 blue, 6 green; 2 green, 4 blue
+Game 11: 10 green, 2 blue, 2 red; 14 green, 1 blue, 3 red; 13 green; 3 green, 2 red; 3 red, 1 blue, 2 green; 1 red, 10 green, 2 blue
+Game 12: 9 green, 2 blue; 11 green, 1 blue; 2 red, 1 blue; 1 blue, 2 red, 3 green; 1 blue, 2 red, 3 green
+Game 13: 11 blue, 3 red, 8 green; 9 red, 7 blue; 7 blue, 4 red
+Game 14: 17 blue, 2 red; 1 green, 13 blue, 1 red; 4 blue, 1 red, 4 green; 2 blue, 5 red, 13 green; 3 blue, 4 green, 6 red; 9 green, 14 blue, 6 red
+Game 15: 7 green, 2 blue, 3 red; 4 red, 18 green; 8 green, 1 blue; 3 red, 15 green, 2 blue; 1 red, 15 green; 9 green, 3 red, 1 blue
+Game 16: 10 red, 19 blue, 5 green; 12 red, 5 blue; 6 red, 3 green, 14 blue; 8 red, 10 blue, 6 green; 7 green, 10 red, 17 blue
+Game 17: 3 green, 3 red, 1 blue; 3 blue, 1 green, 2 red; 4 green, 3 red, 2 blue
+Game 18: 1 red, 2 blue; 1 green, 4 blue; 1 blue; 5 blue; 1 green, 3 red, 6 blue
+Game 19: 3 blue, 5 red, 8 green; 10 red, 6 blue, 11 green; 5 blue, 7 red, 8 green; 9 blue, 6 green, 5 red; 8 red, 12 green, 8 blue; 1 blue, 5 green, 10 red
+Game 20: 16 blue, 2 green; 10 green, 1 red, 4 blue; 13 green, 5 red, 9 blue
+Game 21: 1 blue, 1 green, 14 red; 2 blue; 5 green, 1 blue; 2 green, 11 red; 2 red, 4 green; 2 green, 16 red
+Game 22: 1 green, 10 red, 4 blue; 1 green, 4 blue, 8 red; 2 blue, 8 red; 4 green, 14 red; 1 blue, 5 red, 2 green
+Game 23: 17 green, 3 red, 16 blue; 9 green, 15 red; 3 red, 8 blue, 15 green
+Game 24: 1 green, 1 blue; 2 blue, 1 green, 2 red; 3 green, 1 blue, 1 red; 3 blue, 1 red; 2 green, 5 blue
+Game 25: 11 red, 2 green; 7 red, 6 green; 10 red, 1 blue, 8 green; 8 green, 4 red; 6 green, 10 red; 2 blue, 7 red
+Game 26: 2 green, 2 blue, 8 red; 1 blue, 1 red, 6 green; 9 red, 6 green, 2 blue
+Game 27: 5 red, 7 blue, 3 green; 3 blue, 1 red; 1 green, 1 red, 9 blue
+Game 28: 17 red, 5 green, 10 blue; 3 red, 14 blue, 1 green; 11 blue, 11 green
+Game 29: 16 red, 4 green, 4 blue; 3 green, 5 blue, 11 red; 7 blue, 8 red, 1 green; 1 green, 10 red, 4 blue; 2 green, 4 blue, 8 red
+Game 30: 3 green, 6 blue; 18 green, 3 blue; 14 green, 11 blue; 7 blue, 2 red, 17 green; 1 red, 12 green, 7 blue
+Game 31: 11 red, 2 green, 3 blue; 10 green, 11 blue, 15 red; 12 green, 17 blue, 5 red; 5 green, 2 red, 12 blue; 13 blue, 13 green, 4 red
+Game 32: 4 red, 2 blue, 5 green; 7 blue, 15 red; 11 blue, 4 green, 8 red
+Game 33: 18 blue, 3 green, 3 red; 3 green, 6 red; 2 blue, 4 red, 1 green; 3 green, 5 red, 3 blue
+Game 34: 5 red, 2 blue, 16 green; 9 red, 10 blue, 3 green; 8 red, 10 green, 13 blue
+Game 35: 7 blue, 5 red; 3 red, 1 blue; 4 blue, 7 red, 1 green; 4 red, 4 blue, 1 green; 3 blue, 7 red; 4 red, 1 green, 3 blue
+Game 36: 14 blue; 10 blue, 1 green; 10 blue, 4 green; 4 blue, 1 green, 1 red; 1 red, 6 blue, 4 green; 1 green, 1 red, 11 blue
+Game 37: 8 red, 13 green, 5 blue; 11 red, 16 green, 8 blue; 2 green, 10 blue, 11 red
+Game 38: 2 red, 1 blue, 10 green; 7 red, 6 blue, 14 green; 18 red, 1 blue, 5 green; 5 green, 5 blue, 13 red; 14 red, 5 green; 15 green, 13 red, 2 blue
+Game 39: 1 blue, 5 red; 9 red, 9 green; 4 blue, 10 green, 4 red; 3 green, 11 red, 1 blue; 2 green, 11 red, 4 blue
+Game 40: 9 blue, 4 green; 12 green, 1 red; 2 red, 15 green, 10 blue
+Game 41: 1 blue, 14 red, 12 green; 16 green, 2 blue, 3 red; 6 green, 9 red
+Game 42: 4 green, 13 red, 9 blue; 9 green, 9 red, 4 blue; 7 blue, 10 red, 9 green; 4 green, 18 blue, 14 red; 9 blue, 7 green, 2 red
+Game 43: 7 red, 6 blue; 4 green; 3 red, 6 green; 7 blue, 6 green, 8 red; 9 green, 7 blue, 7 red; 5 blue, 5 green, 6 red
+Game 44: 5 red, 8 blue; 2 red, 5 green; 6 green, 11 blue, 2 red; 1 green, 1 blue, 2 red
+Game 45: 3 blue, 7 green, 1 red; 5 red, 1 blue; 2 blue, 3 red; 8 green, 5 red
+Game 46: 4 red, 4 blue, 17 green; 1 blue, 5 green, 1 red; 1 red, 1 blue, 7 green; 18 green, 7 blue
+Game 47: 14 red, 3 green, 2 blue; 4 green, 4 red, 2 blue; 13 red, 1 blue
+Game 48: 5 red, 12 blue, 2 green; 3 blue, 1 red, 2 green; 10 blue, 7 red
+Game 49: 6 blue, 11 red; 11 red, 17 blue, 11 green; 16 blue, 12 green, 6 red
+Game 50: 12 blue, 3 green, 1 red; 3 green, 10 blue, 3 red; 11 blue, 3 red
+Game 51: 12 green, 1 blue, 8 red; 6 blue, 1 green, 9 red; 17 red, 5 blue; 7 blue, 9 green, 9 red; 13 green, 10 red, 2 blue
+Game 52: 5 blue, 1 green; 1 red, 1 green, 3 blue; 8 blue, 1 green; 1 green, 7 blue; 3 blue; 1 red, 6 blue
+Game 53: 11 green, 5 red; 16 green, 6 blue; 4 red, 19 green, 4 blue
+Game 54: 6 green, 4 blue, 8 red; 7 red, 6 green, 5 blue; 5 blue, 4 red; 5 blue, 14 red
+Game 55: 11 blue, 1 green; 2 red, 5 blue, 1 green; 10 blue, 1 green; 11 blue; 2 green, 2 red, 5 blue
+Game 56: 1 red, 9 blue, 1 green; 2 red, 8 blue; 1 green, 9 blue, 10 red; 5 blue, 1 green; 15 blue, 1 red; 12 blue, 4 red
+Game 57: 1 green, 17 blue; 10 blue, 2 green; 2 red, 16 blue; 6 green, 15 blue; 5 green; 2 red, 1 green
+Game 58: 2 blue, 4 green, 2 red; 5 blue; 5 red, 3 green, 2 blue; 5 red, 2 green, 5 blue; 7 green, 3 red, 4 blue; 4 red
+Game 59: 8 blue, 2 red, 2 green; 15 blue, 1 green, 4 red; 9 blue, 1 red; 3 green, 5 red, 5 blue
+Game 60: 3 red, 2 blue, 6 green; 1 red, 5 green; 2 blue, 10 green; 6 green, 2 red
+Game 61: 6 green, 4 blue; 1 red, 4 blue, 15 green; 1 blue, 16 green, 3 red; 6 red, 12 green, 2 blue; 3 red, 14 green, 1 blue; 3 red, 2 blue, 9 green
+Game 62: 1 green, 2 red; 4 red; 1 green, 4 red, 1 blue; 1 red, 1 blue, 1 green
+Game 63: 8 green, 4 red, 4 blue; 5 red, 4 blue, 8 green; 3 green, 1 blue
+Game 64: 5 blue, 2 green, 5 red; 3 green, 2 blue, 1 red; 6 blue, 2 red, 1 green; 2 green, 2 blue, 3 red; 3 blue, 1 red
+Game 65: 2 red, 7 green, 5 blue; 8 blue, 3 green, 4 red; 1 red, 6 green, 1 blue
+Game 66: 1 green, 6 red; 5 red, 1 green, 1 blue; 4 red, 1 blue, 1 green; 1 blue, 2 red, 1 green; 1 blue, 5 red; 1 blue, 8 red
+Game 67: 6 red, 8 blue, 8 green; 5 green, 2 red, 10 blue; 4 red, 1 green; 7 blue, 2 green
+Game 68: 7 green, 9 red, 15 blue; 4 green, 6 red, 3 blue; 1 blue, 5 green, 4 red; 9 green, 14 red, 6 blue; 8 blue, 15 red, 4 green; 7 green, 14 blue, 6 red
+Game 69: 4 green; 2 blue; 4 green, 8 blue, 11 red; 3 green, 9 red, 4 blue; 1 red, 2 blue; 2 green, 5 blue, 11 red
+Game 70: 6 blue, 16 green, 4 red; 6 green, 13 red, 2 blue; 7 green, 1 red, 2 blue; 8 green, 4 blue, 1 red; 10 red, 11 green
+Game 71: 6 blue, 7 red; 10 blue, 2 green, 4 red; 12 red, 10 blue, 1 green
+Game 72: 13 red, 13 blue; 6 red, 10 blue, 7 green; 3 blue, 5 green, 4 red; 8 green, 9 blue
+Game 73: 1 red, 1 green, 8 blue; 1 green, 8 blue; 2 green, 6 blue; 2 blue; 1 red, 12 blue; 12 blue, 3 green
+Game 74: 2 blue, 1 green, 1 red; 3 blue, 1 red, 1 green; 3 blue, 2 red; 3 blue, 1 red; 1 green
+Game 75: 10 red, 1 green, 4 blue; 12 red, 11 blue, 9 green; 18 green, 14 red, 5 blue
+Game 76: 4 blue, 3 green, 11 red; 4 blue, 1 green, 12 red; 11 blue, 2 green, 4 red; 2 blue, 2 green, 11 red; 12 red, 1 blue; 4 red, 2 green, 15 blue
+Game 77: 2 red, 10 blue, 6 green; 6 blue, 2 red, 8 green; 1 red, 9 green, 7 blue
+Game 78: 3 green, 10 red; 2 blue, 4 red, 3 green; 8 red, 3 blue, 4 green; 1 blue, 7 red
+Game 79: 4 green, 2 red; 2 red, 14 green; 1 blue, 5 green, 8 red; 4 red, 20 green; 3 green, 1 blue, 8 red; 4 green, 1 blue
+Game 80: 2 green; 3 green, 13 red, 10 blue; 6 blue, 10 red, 1 green; 10 green, 12 red, 3 blue; 10 blue, 17 red, 5 green; 8 red, 2 blue, 6 green
+Game 81: 4 green, 2 blue, 4 red; 16 red, 1 blue, 20 green; 7 blue, 10 red, 9 green; 7 blue, 2 green, 14 red
+Game 82: 4 blue, 8 green, 5 red; 14 red, 8 blue, 1 green; 11 red, 13 green
+Game 83: 2 blue, 2 green, 10 red; 10 green, 4 red, 3 blue; 11 green, 14 red, 4 blue; 2 blue, 11 red; 3 blue, 1 green, 4 red
+Game 84: 12 blue, 9 green, 10 red; 1 red, 6 green, 4 blue; 7 red, 3 green, 16 blue; 3 green, 3 blue
+Game 85: 2 red, 4 blue; 4 blue, 1 green, 6 red; 9 blue, 1 red; 1 green, 4 blue, 10 red; 5 green, 7 red, 17 blue
+Game 86: 2 red, 3 blue, 1 green; 2 blue, 2 red, 2 green; 10 blue, 2 green; 5 green, 4 red, 6 blue
+Game 87: 1 red, 7 blue, 9 green; 3 green, 2 blue; 1 red, 4 blue, 10 green; 10 green, 7 blue, 1 red; 6 blue, 9 green; 9 blue, 7 green, 1 red
+Game 88: 1 blue, 14 red, 9 green; 4 green, 9 red; 8 green, 1 blue, 10 red
+Game 89: 13 red, 1 green; 2 blue, 10 red; 1 green, 3 blue, 13 red; 1 green, 14 red, 3 blue; 2 green, 6 red; 1 green, 12 red
+Game 90: 1 red, 2 blue, 9 green; 1 blue, 3 red, 2 green; 10 green, 9 red; 1 red, 9 green, 4 blue; 3 blue, 13 green, 13 red
+Game 91: 2 red, 8 green, 8 blue; 3 green, 2 red, 6 blue; 5 green, 4 red
+Game 92: 8 green, 12 blue, 4 red; 7 red, 4 green; 4 blue, 7 green, 7 red; 7 blue, 5 green
+Game 93: 1 green, 1 red, 2 blue; 3 green, 1 red, 3 blue; 1 red, 8 blue; 1 green, 13 blue; 1 red, 4 blue, 4 green
+Game 94: 2 blue, 7 red, 17 green; 2 green, 1 blue, 5 red; 3 blue, 7 green, 1 red; 6 red, 1 blue, 1 green; 1 green, 1 blue, 1 red
+Game 95: 4 blue, 3 green, 4 red; 17 red, 2 blue; 6 blue, 16 green, 15 red; 7 blue, 17 green; 1 red, 3 green, 3 blue; 7 red, 14 green, 4 blue
+Game 96: 6 red, 3 blue; 7 green, 5 blue, 10 red; 9 green, 1 blue; 6 blue, 1 red, 12 green; 3 blue, 10 green
+Game 97: 3 green, 1 red, 13 blue; 1 red, 8 green, 2 blue; 1 green, 2 blue, 2 red; 1 red, 4 green, 9 blue
+Game 98: 1 green, 8 red, 7 blue; 8 blue, 8 red, 3 green; 1 blue, 2 red; 4 red, 7 blue; 3 green, 3 blue, 3 red
+Game 99: 9 blue, 14 red; 3 blue, 10 red, 5 green; 3 blue, 3 green, 6 red
+Game 100: 12 blue, 2 green; 2 green, 4 red, 13 blue; 9 blue, 1 red, 2 green; 2 green, 3 red, 1 blue
+catclear
+code input.txt
+python3.12
+python3.12 day2_alt.py | grep meets --after-context 1
+python3.12 day2_alt.py | grep meets --before-context 1
+python3.12 day2_alt.py | grep not --before-context 1
+python3.12 day2_alt.py | grep not
+../day2/
+cd Repository/AOC/2023/day1/
+nvim day2_alt.py
+touch day2_alt.py
+cat day2.py
+cd day2/
+:w
+hhk
+mv day1/day2.py day2/
+sudo cp day1/input.txt day2/
+mkdir day2
+touch day2.py
+exirt
+cd 2023/day1/
+exig
+/usr/bin/python3 --version
+chmod 777 main.py
+cd day1/
+mkdir day1
+rm -rf *
+cd ../../.local/state/nvim/swap/
+mv input input.txt
+cat input
+curl -O https://adventofcode.com/2022/day/1/input
+wget https://adventofcode.com/2022/day/1/input
+cd Repository/AOC/2022/day1
+rm -rf main.py
+cd l
+touch init.lua
+rm -rf init.lua
+cd /Users/tyell/Repository/AOC/2022/day1
+cd 2022/
+mkdir 2023
+mkdir 2022
+2022
+cd Repository/AOC/
+ls -lah | grep rs1compatibilityd
+sudo mv ../../RDP/rs1compatibilityd* .
+rm -rf rs1compatibilityd*
+cd backups/
+mkdir backups
+rm -rf old/
+cd old/
+ls -lah RDP/
+ls test*
+cd Rocksmith/
+ls Rocksmith
+cd Downloads/
+cd Documents/
+rm -rf rs1compatibilityd
+LS
+CLEAR
+CD ..
+LS CDLCManager/
+cd ~/Desktop/
+mv ~/RDP/rs1compatibilityd* .
+cd dlc/
+ifconfig | grep Ipv
+ch ssh
+ssh --help | grep Verbose
+ssh --help | grep verbose
+ssh --help | grep verbos
+ssh tyell@tydev
+ping tydev
+ls -lah ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/Resources/dlc/ | grep rs1compatibilityd
+ls -lah ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep rs1compatibilityd
+ls -lah ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep rs1compatibilityd*
+ls -lah rs1compatibilityd*
+lss
+mkdir AOC
+mkdir beginner
+java -jar NeovimKeys.jar
+jar -cvfm ./NeovimKeys.jar META-INF/MANIFEST.MF Frame.class Node.class style.class
+cd artifacts/
+sls
+cd out/
+cd NeovimKeys/
+jar -cvfm ../Neovimkeys/out/artifacts/NeovimKeys.jar META-INF/MANIFEST.MF Frame.class Node.class style.class
+mv ~/Downloads/NeovimKeys.jar ../NeovimKeys/out/artifacts/
+jar -cvfm ./artifacts/NeovimKeys.jar META-INF/MANIFEST.MF Frame.class Node.class style.class
+mkdir bin
+jar -cvfm artifacts/README.md clearMETA-INF/MANIFEST.MF Frame.class Node.class style.class
+cd production/
+ls0lah
+brew search eclipse
+git clone https://github.com/BooleanCube/NeovimKeys.git
+mkdir testing
+cd eclipse/
+ls java-2023-09/
+ls -lah utils/
+tree -L 3 -C Apps/
+ls eclipse/
+ls -lah .
+ls -lah build/
+cd ci/
+rm -rf Fusion\ 360\ CAM/
+pip freeze > requirements.txt
+rm -rf requirements.txt
+cat requirements.txt
+quit
+cd text-editor-pyqt/
+SwiftGen config init
+cd testSwiftApp/
+cd te
+mkdir testSwiftApp
+ls /usr/bin/ | grep rake
+nvim ../Rakefile
+sudo ./Rakefile
+ruby --version
+cd /Users/tyell/Projects/SwiftGen/
+:nvim ../Rakefile
+cd .build/
+./Rakefile
+nvim Rakefile
+file Rakefile
+swiftgen --help
+brew install SwiftGen
+cd SwiftGen/
+cd ../Projects/
+cd pwd
+tree -L 4 -C ./lua/
+tree -L 2 -C ./lua/
+ls ../fish/
+cd ~/.config/
+git clone https://github.com/SwiftGen/SwiftGen
+brew info swiftgen
+brew info swifty
+brew info swiftpm-catalog
+brew info swift-outdated
+brew search 'swift\*'
+brew search (string match ---regex 'swift\*' (brew search))
+brew search -S (string match ---regex 'swift\*' (brew search))
+brew search swift\*
+brew search --help
+brew search -S (string match ---regex 'swift*' (brew search))
+brew search (string match ---regex 'swift*' (brew search))
+string match --help
+brew search (string match -r 'swift*' (brew search))
+brew search (string match -r 'swift*' (brew search))
+
+brew search swift*
+brew info --cask "switf*"
+brew info --cask switf*
+brew info --cask swift
+swift --version
+brew info --cask qlswift
+brew info --cask detectx-swift
+cat Resources/scripting.sdef
+ls Resources/
+cd Opera\ GX.app/
+brew search swift
+nvim editor/file_operations.py
+python src/main.py
+cd Projects/text-editor/
+touch editor/file_operations.py
+ls editor/
+cd src/
+pyenv activate neovim3
+python3.12 --version
+python3.12 src/main.py
+nvim src/main.py
+touch src/main.py
+rm -rf src/main.py
+nvim resources/terminal.py
+ls resources/
+mkdir ls
+cd text-editor
+python3.12 ../main.py
+nvim editor.cpp
+cd cpp/
+tree .
+tree -L 2 .
+tree -L 2 -C .
+.s
+brew uninstall aircrack-ng
+brew install hazeover
+brew search hazel
+brew install hazedown
+brew uninstall hazel
+brew install --cask hazel
+brew search ant
+tree Repository/Apps/RSBypass/
+tree
+brew install tree
+tree-sitter
+brew search libyaml
+brew install maven
+brew search maven
+brew search automake
+brew search pkg-config
+ls /opt/homebrew/lib/ | grep python
+brew link python-jinja
+brew link python-jinja
+  python-certifi
+  python-idna
+  python-packaging
+  pygments
+  pycparser
+  python-dateutil
+  python-requests
+  ipython
+  cffi
+  python-urllib3
+  python-psutil
+  numpy
+  pillow
+  pyyaml
+  python-typing-extensions
+  jupyterlab
+  six
+  python-charset-normalizer
+  python-markupsafe
+
+brew link
+brew install cakebrew
+brew search cakebrew
+python3.11
+ls -lah disassemblers/adreno/
+ls -lah disassemblers/
+ls -lah dis
+git pull
+ls -lah weights/
+ls weights/
+python3.11 build/setup.py install
+nvim build/setup.py
+cat mypy.ini
+cat pytest.ini
+cd bdist.macosx-13-arm64/
+python3.11 setup.py install
+nvim mypy.ini
+touch mypy.ini
+nvim setup.py
+pip install types-networkx
+python3.11 -m pip install types-networkx
+python3.11 -m pip install types-networkx
+
+pip install types-tqdm
+
+python3.11 -m pip install types-tqdm
+
+python3.11 setup.py build
+python setup.py build
+pip install numpy
+python3.11 -m pip install mypy
+pip install mypy
+cat setup.py
+pip install tabulate
+python3.11 -m pip install mypyc
+python3.11 setup.py in
+cd build/
+cd tinygrad/
+cd tinygrad.egg-info/
+nvim  dependency_links.txt
+cat dependency_links.txt
+ls dependency_links.txt
+python3.11 -m pip install -r requires.txt
+nvim requires.txt
+cat requires.txt
+python3.11 =m pip install tinygrad.egg-info
+python3.11 =m pip install ../tinygrad.egg-info
+python3.11 =m pip install ../tinygrad.egg-info/
+python3.11 examples/beautiful_mnist.py
+pip install tf-nightly
+pip install tf-nightly --pre
+pip install -U pip setuptools wheel
+pyenv virtualenvs
+source venv/bin/activate
+python3.12 -m venv venv
+pyenv activate 3.12.0/envs/neovim3
+pyenv deactivate
+pip install black
+python -m pip install tensorflow-macos
+pip install bazelisk
+brew info libtensorflow
+brew search Tensorflow
+python examples/beautiful_mnist.py
+ls examples/
+./sz.py .
+cd Frameworks/NeuralNetworks/tinygrad/
+cd ../Projects/text-editor
+rm -rf CS\ 230\ Module\ Two\ Assignment\ Software\ Design\ Template\ 1.docx
+ls | grep CS
+fish_add_path -U /Users/tyell/Projects/text-editor/
+fish_add_path -U /Users/tyell/Projects/text-editor/src/
+nvim ../main.py
+cat terminal.py
+nvim terminal.py
+touch terminal.py
+cd resources/
+mkdir resources
+cat src/main.py
+which pip
+rm -rf neovim_scratch/
+ls user/
+cd neovim_scratch/
+cat
+mv python-3.11.5.pkg python
+mv LICENSE  python
+mv README.md python
+mv Python-3.11.5.t* python
+mkdir python
+nvim __pycache__/ui_form.cpython-312.pyc
+ls __pycache__/
+mv venv ../
+nvim main.cpp
+cd TextEditor/
+cd Projects/QtDesignStudio/
+mv terminal.sexy.itermcolors ../Repository/Themes/Brogrammer.itermcolors
+mkdir ../Repository/Themes
+which fish
+cat brogrammertest.xml
+Dls
+cat brogrammer.xml
+cat solarized-dark.xml
+nvim brogrammer.xml
+touch brogrammer.xml
+cd styles/
+nvim brogrammer.creatortheme
+touch brogrammer.creatortheme
+cd /Applications/Qt/QtDesignStudio/Qt\ Design\ Studio.app/Contents/Resources/themes/
+ls ~/Documents/
+ls ~/
+ls ~/Downloads/
+ls ~/Desktop/
+pyuic6 form.ui -o ui_form.py
+rm -rf ui_form.py
+cd Projects/text-editor-pyqt/
+cd ~/Projects/text-editor-pyqt/
+nvim QtGui.pyi
+nvim QtWidgets.pyi
+cd /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages/PyQt6/
+cd PyQt6/
+cd /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages/
+cd /Users/tyell/.local/state/nvim/swap/
+cd swap/
+nvim ~/Projects/text-editor-pyqt/main.py
+ls | grep Widgets
+find . -type f -name "*Text*"
+find . -type f -name "*Edit*"
+ls -lah uic/
+cd PyQt5/
+ls -lay | grep Qt
+ls -lay Qt
+ls -lah | grep Edit
+ls -lah | grep Text
+cd /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages/PyQt5/
+pyside6-uic form.ui -o ui_form.py
+ResMerger --help
+cd /Users/tyell/Projects/text-editor-pyqt
+brew info spidermonkey@91
+brew info effect-house
+brew info effecthouse
+brew info mindmac
+brew info macgpt
+brew install pyqt@5
+brew search pyqt
+pip install pyqt5-tools
+pip install PyQt6
+pip install PyQt5
+python -m pip3 install --upgrade pip
+python -m pip3 install --upgrade pip3
+which python3.12
+which python3
+pip3.12 install --upgrade pip3.12
+pip3 install --upgrade pip3.12
+nvim ~/.config/fish/functions/fish_prompt.fish
+ls ~/.config/fish/functions/ | grep prompt
+pyenv activate --help
+pyenv shell
+cat venv/pyvenv.cfg
+python3.12 -m pip install pyside6
+. ~/.config/fish/config.fish
+nvim ~/.config/starship.toml
+python3.12 text-editor-pyqt/main.py
+python3.12 -m pip install PyQt5-tools
+python3.12 -m pip install PyQt5-docs
+python3.12 -m pip install PyQt5
+python3.12 -m pip list
+python3.12 -m pip list | grep Qt
+python3.12 -m pip list | grep Py
+python3.12 -m pip install --upgrade pip
+pip3 list | grep Py
+python3 text-editor-pyqt/main.py
+ls text-editor-pyqt/
+mkdir user
+mkdir lua/usr
+mkdir neovim_scratch
+cat Dev/main.cpp
+jls
+python3.11 src/main.py
+nvim text-editor
+cd Projects/text-editor
+python3.11 -m pip install pyqt5-tools
+pip3.11 install pyqt5-tools
+python3.11 -m pip install PyQt5-tools
+fish_add_path -U /Library/Frameworks/Python.framework/Versions/3.12/bin
+ls -lah /Library/Frameworks/Python.framework/Versions/
+fish_add_path -U /Library/Frameworks/Python.framework/Versions/3.11/bin
+python3.11 -m pip install PyQt5
+/Users/tyell/.pyenv/shims/python3.11 -m pip install --upgrade pip
+which python3.11
+pip3.11 install --upgrade pip
+pip3.11 install --upgrade pip3.11
+pip3.11 install PyQt5 PyQt5-tools
+python3 src/main.py
+python3 QtDesigner.pyi
+ls | grep Qt
+cd /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages
+pip show pyqt5
+pyqt5-tools designer
+pip3 list | grep Qt
+pip3 install pyqt6-tools
+pip3 install pyqt6
+pip install pyqt6
+pip3 list | grep qt
+brew install qt
+nvim python3.fish
+cd ../../.config/fish/functions/
+scp tydev:~/Pictures/backgrounds/D7N5yvV.png ./
+scp tydev:~/Pictures/backgrounds/* ./
+scp tydev:~/Pictures/backgrounds ./
+cd backgrounds/
+cd back
+mkdir backgrounds
+cd Pictures/
+$hostname
+ch scp
+pip show
+pip config list
+pip config
+pip --help
+brew install qt-creator
+brew search qt
+python3 -m venv venv
+source venv/bin/activate
+pip3 install PyQt5 pyqt5-tools
+
+pip3 install pyqt5-tools
+pips install pyqt5-tools
+pip list | grep PyQt
+pip list | grep pyqt
+pyuic5 -p main.py
+pyuic5 -p
+git  push --all
+git commit -m " adding text-editor code"
+git init -b text-editor
+cd text-editor/
+git branch
+rm -rf .openAIAPIkey.txt
+cat githubkeys.txt
+git ..
+ls -lah *
+ls -lah MLTesting/
+ls -lah text-editor/
+ls text-editor/
+cd Dev/
+cd chatGPT
+cht.sh git
+cd textls
+git push -u origin text-editor
+git checkout -b text-editor
+git remote show origin
+cd .git/
+dc Projects/
+rm -rf tacos.log
+cat tacos.log
+git commit -m "testing credentials"
+touch tacos.log
+git config --global credential.helper store
+git config --global user.password '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'
+git config --global user.password
+nvim githubkeys.txt
+touch githubkeys.txt
+cd githubkeys/
+mkdir githubkeys
+git ls
+git commit -m "updating .config repository"
+git commit -a "updating .config repository"
+git submodule add https://github.com/AstroNvim/AstroNvim nvim/
+git submodule add https://github.com/AstroNvim/AstroNvim nvim
+nvim ./nvim/.git/config
+ls -lah nvim/.git/
+ls -lah nvim/
+cd ../..
+git config --global -l
+git list global
+brew install --cask pdf-expert
+brew info pdf-expert
+brew search pdf
+mv rs1compatibilityd* old/
+mv You_Intermediate-Picking-Exercises-BERNTH_v* ../
+cd bernth\ int\ picking/
+unzip bernth\ int\ picking.zip
+zipinfo bernth\ int\ picking.zip
+ls  | grep psarc
+unzip bernth\ int\ picking.zip .
+mv ../Downloads/bernth\ int\ picking.zip .
+ls -lah ../Downloads/ | grep zip
+ls | grep _m
+rm -rf Breaking-Benjamin_*
+cd ~/Projects/text-editor/
+pip3 install tabulate
+pip3 list | grep tab
+pip3 list
+cd ~/.local/state/nvim/swap//
+cd Projects/text-editor/src/
+ch lzmainfo
+lzmainfo
+pip3 uninstall QtPy
+touch classDictionary.txt
+cd Mod4
+mv CS230Mod1Assignment.docx Mod1
+mv CS\ 230\ Module\ Four\ Assignment\ FIXME\ Text\ Version.docx Mod4
+mv 4-5\ Review\ Project\ Two.html mod4
+mv gameauth/ Mod4/
+mv Unit\ Resources\ \[Insert\ Unit\ Title\]8/ Mod4/
+rm -rf RH224/
+ls RH224/
+mv gameauth/ ../School/CS230-H2931/
+rm -rf blender-3.6.5-macos-arm64.dmg
+rm -rf VitalSource-Bookshelf_10.4.1.2502.dmg
+ls -la | grep dmg
+rm -rf eclipse-inst-jre-mac-aarch64.dmg
+mv RSBypass-2 ../Repository/Apps/RSBypass
+rm -rf RS2014-CDLC-Installer.sln
+rm -rf RS2014-CDLC-Installer.exe
+rm -rf MonoFramework-MDK-6.12.0.199.macos10.xamarin.universal.pkg
+rm -rf LittleTup/
+rm -rf ELEGOO_Cura_4.8.0_20230906-macOS.dmg
+mv *.3mf ../3dPrinting/models/
+mv *.stl ../3dPrinting/models/
+mv CS\ 230\ Module\ Four\ Assignment\ FIXME\ Text\ Version.docx  ../School/CS230-H2931/
+mv 4-5\ Review\ Project\ Two.html ../School/CS230-H2931/
+mv lord_dakkon_shield.stl.d* ../3dPrinting/models/
+rm -rf mechengineermike-2/
+mv rice_washing.STL models/
+mv tri-toroidal-propellers-for-dji-mini-2-reworked-fro20230805-14079-iaakle.zip models/
+rm -rf tewes/
+mv tewes/macbook-pro-usb-c-61w-power-supply-cable-spool/ models/
+mv raspberry-pi-4b-case20190816-28229-pfohwa.zip models/
+mv muppetjones/ models/
+mv macbook-* models/
+mv IP12\%20Case\%20V14.stl models/
+mv NikiCPK/ models/
+mv iphonebunny001.stl models/
+cd ../3dPrinting/
+mv voyager-printable-leg.stl ../3dPrinting/models/
+rm -rf module2/
+rm -rf ijava-1.3.0
+rm -rf artifacts/
+ls -lah artifacts/osx-arm64/
+ls artifacts/osx-arm64/
+ls artifacts/
+rm -rf 3DPrintBunny/
+mv Spool_holder_EN3P.stl ../3dPrinting/models/
+mv Unit\ Resources\ \[Insert\ Unit\ Title\]8 ../School/CS230-H2931/
+rm -rf Shapr3D-5.493.0.5987.dmg
+rm -rf RazerAxonInstaller.exe
+brew search cad
+rm -rf FreeCADSetup-2/
+mv CS\ 230\ Project\ One\ Game\ App* ../School/CS230-H2931/Mod3/
+mkdir ../School/CS230-H2931/Mod3
+rm -rf Autodesk_AutoCAD_2024.1_macOS.dmg
+rm -rf Fusion\ 360\ Client\ Downloader.dmg
+rm -rf LibreCAD-2.2.0.2.*
+rm -rf Project*
+mv CS\ 230\ Project\ One\ Milestone\ * ../School/CS230-H2931/Mod2
+mkdir ../School/CS230-H2931/Mod2
+ls ../School/CS230-H2931/
+mv Module\ * ../School/MAT243
+mv Mat243Project1* ../School/MAT243/
+mv MAT* ../School/MAT243/
+java -jar Application.jar
+cd CS\ 230\ Project\ One\ Game\ App/Project1/
+rm -rf src.zip
+ls com/gamingroom/
+zip src.zip src
+code src/
+cd module2/
+rm -rf module2/*.zip
+ls module2
+zip module2.zip module2
+rm -rf module2.zip
+nvim Team.java
+nvim GameService.java
+nvim Entity.java
+touch Entity.java
+nvim Game.java
+cd com/gamingroom/
+nvim Game.class
+nvim Game
+cd gamingroom/
+diff -r gamingroom/ ../../bin/com/gamingroom/
+cd com/
+cd CS\ 230\ Project\ One\ Milestone\ Game\ App/
+nvim RUN_PATCH_RS.command
+cd RSBypass-2/
+cd Project3-1/
+cd pro
+flet
+pip3 install flet
+pip install flet
+rm /opt/homebrew/Cellar/fish/3.6.1/share/fish/completions/pip.fish
+rm /opt/homebrew/Cellar/fish/3.6.1/share/fish/completions/pip3.fish
+fish_update_completions
+
+brew update && brew upgrade fish
+nvim __fish_complete_pip
+help
+!?
+nvim starship.toml
+touch starship.toml
+fish_config
+cd fish/
+curl -sS https://starship.rs/install.sh | sh
+
+ls -lah Mod1/Environment/
+ls -lah Mod1/CS230_M1_assignments
+ls Mod1/
+mv CS\ 230\ * Project3-1/
+mkdir Project3-1
+fzf --query "Entity"
+fzf --query "Entity" .
+grep Entity
+cd ../School/CS230-H2931/
+mv CS* ../School/CS230-H2931/
+exi
+ls -lah  /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages/PyQt5
+ls -lah  /Users/tyell/.pyenv/versions/3.12.0/lib/python3.12/site-packages
+pip install PyQt5.QtWidgets
+touch requirements.txt
+touch cython/editor.pyx
+mkdir cython
+touch cpp/CMakeLists.txt
+touch cpp/editor.cpp
+mkdir cpp
+mkdir gui
+mkdir editor
+rm -rf resources/
+mkdir utils
+brew list --outdated | brew upgrade -y
+brew install cppinsights
+brew info cppinsights
+brew search cpp
+cpp --version
+cmake --version
+mkdir src
+mkdir text-editor
+sudo ./install_macos.sh
+mv util/install_macos.sh .
+./install_macos.sh
+nvim install_macos.sh
+chmod +x install_macos.sh
+sudo chown -R tyell ../../monaspace-v1.000
+sudo chown -R ../../monaspace-v1.000 tyell
+sudo chown tyell -R ../../monaspace-v1.000
+cd util/
+cd monaspace-v1.000/
+mv ~/Downloads/monaspace-v1.000 .
+ls -lah ../../../Downloads/ | grep mona
+ls -lah ../../../Downloads/ | grep mono
+ls -lah ../../../Downloads/
+nvim testing/PSArcTool/README.md
+ls -lah testing/PSArcTool/
+ls -lah testing/
+ls test
+ls -lah Apps/Rocksmith
+ls -lah Apps/Rocksmith.zip
+pip install pyqt4
+pip install pyqt5
+pip install qtpy5
+sudo chmod 755 dlc/rs1compatibilityd*
+chmod 755 dlc/rs1compatibilityd*
+ls -lah dlc/ | grep rs1
+sudo chmod 755 Rocksmith2014.app/Contents/Resources/dlc/rs1compatibilityd*
+sudo cp dlc/rs1compatibilityd* Rocksmith2014.app/Contents/Resources/dlc/
+ls -lah Rocksmith2014.app/Contents/Resources/dlc
+sudo mv Rocksmith2014.app/Contents/Resources/dlc/* ~
+ls 0lah ~
+ls ~
+sudo cp rs1compatibilityd* dlc/
+cd Rocksmith2014/
+ls -lah ~/RDP/
+rm -rf ./dlc/rs1compatibilityd*
+ls -lah ./dlc | grep rs1
+ls -lah | grep rs1
+mkdir Unpacked
+cd common/
+cd steamapps/
+ls -lah ./0/241100/ac/GameInstall/183178691/
+ls -lah ./183178691/*
+ls -lah ./*
+cd /Users/tyell/Library/Application\ Support/Steam/userdata/
+cd /Users/tyell/Library/Application Support/Steam/
+mv ~/Downloads/DLC\ Builder.app /Applications/
+ls -lah Tmp/
+sudo cp ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/rs1compatibilityd* .
+chmod 755 rs1compatibilityd*
+chmod 775 rs1compatibilityd*
+ls -lah | grep rs
+mv ./rs1compatibilitydlc_m.psarc ./rs1compatibilitydlc.psarc
+mv ./rs1compatibilitydisc_m.psarc ./rs1compatibilitydisc.psarc
+ls -lah ./dlc/
+file rs1compatibilityd*
+sudo cp ./dlc/rs1compatibilityd* .
+sudo cp ./dlc/rs1compatibilityd* ../
+ls -lah ../
+brew install --cask wine-stable
+brew search wine
+brew autoremove --dry-run
+brew uninstall winetricks
+brew uninstall wine-stable
+brew autoremove --dry-run wine-stable
+brew autoremove wine-stable --dry-run
+brew autoremove wine-stable -n
+brew autoremove wine-stable
+brew list --cask
+rm -rf /Applications/IDA\ Freeware\ 8.3
+sudo chown tyell libRSBypass.dylib
+chown tyell libRSBypass.dylib
+ch chown
+sudo cp libRSBypass.dylib ~/RDP/
+cd Rocksmith2014.app/Contents/MacOS/
+sudo cp *.dll ~/RDP/
+mv rs1compatibilityd* ../
+mv rs1compatibilitydlc_m.psarc ./.rs1compatibilitydlc_m.psarc
+mv rs1compatibilitydisc_m.psarc ./.rs1compatibilitydisk_m.psarc
+sudo cp rs1compatibilityd* ~/RDP/
+ls -lah ~/RDP/DLC/356474/
+ls -lah ~/RDP/DLC
+ls -lah ~/RDP
+ls RDP
+cd ../../Rocksmith2014/
+mv Rocksmith2014.app ../../Rocksmith2014/
+rm -rf ../../Rocksmith2014/Rocksmith2014.app
+diff ../../Rocksmith2014/Rocksmith2014.app/Contents/MacOS/ ./Rocksmith2014.app/Contents/MacOS/
+diff ../../Rocksmith2014/Rocksmith2014.app/Contents/ ./Rocksmith2014.app/Contents/
+diff ../../Rocksmith2014/Rocksmith2014.app ./Rocksmith2014.app
+mv ../../Rocksmith2014/Rocksmith2014.app/Contents/MacOS/libRSBypass.dylib ./Rocksmith2014.app/Contents/MacOS/
+mv Rocksmith.ini ../../Rocksmith2014/
+rm -rf ../../Rocksmith2014/Rocksmith.ini
+mv D3* ../../Rocksmith2014/
+rm -rf ../../Rocksmith2014/D3*
+ls ../../Rocksmith2014/
+nvim LocalProfiles.json
+cat LocalProfiles.json
+rm -rf MM_Old
+ls | grep rs
+strings rs1compatibilitydlc_m.psarc
+cat RUN_PATCH_RS.command
+cd Repository/Apps/Rocksmith/RSBypass/
+sudo mv ../test/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/libRSBypass.dylib ./Rocksmith2014.app/Contents/MacOS/
+sudo mv Rocksmith2014.app/Contents/MacOS/libRSBypass.dylib .
+unzip ./Rocksmith20141.zip -d test/
+rm -rf Nirvana_Lithium_v1_DD_m.psarc
+mkdir test
+ch unzip
+cd ~/Library/Application\ Support/Steam/steamapps/common/
+ls -la psarcTestBuilds/
+ls MM_Old/
+cat pjs_sapause.txt
+rm -rf HailToTheKingDDV12_m.psarc
+cd ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/
+cd RSBypass/ARM/
+nm -g ./RSBypass/ARM/libRSBypass.dylib
+nm --help
+otool -L RSBypass/ARM/libRSBypass.dylib
+ls RSBypass/ARM/
+ls RSBypass/
+ls -lah RocksmithTookitGUI/bin/
+ls -lah RocksmithTookitGUI/
+tar -xzf Mac.tar
+cd test
+mv Mac.tar test
+tar --help
+ls -la
+unzip -l Mac.tar
+unzip -h Mac.tar
+cd ~/Library/
+sudo cp ~/Desktop/libRSBypass.dylib .
+cd MacOS/
+rm -rf libRSBypass.dylib
+cd ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Breaking-Benjamin_* .
+rm -rf THE\ BATMAN\ 2022\ EPIC\ STORE-782-1-0-1698611343.zip
+rm -rf All\ DLC\ Batmobiles\ Unlocked\ and\ Can\ Be\ Used\ Throughout\ Storymode-50-V1-1578540310.7z
+rm -rf Arkham\ Knight\ *
+clea4
+clear4
+ls Print.storyboardc/
+cat Assets.car
+ls Book.storyboardc/
+cd /Applications/VitalSource\ Bookshelf.app/
+ls 0lah
+ssh tyell@192.168.1.177
+ping 192.168.1.177
+ls -lah ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/
+sudo ./RUN_PATCH_RS.command
+cd ~/Downloads/RSBypass
+open ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/
+sudo diff ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/libRSBypass.dylib ~/Downloads/RSBypass/ARM/libRSBypass.dylib
+diff ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/Rocksmith2014.app/Contents/MacOS/libRSBypass.dylib ~/Downloads/RSBypass/ARM/libRSBypass.dylib
+echo $SHLL
+'sw_vers -productVersion | cut -d '.' -f 1,2'
+cd Contents/MacOS/
+cd Rocksmith2014.app/
+code Rocksmith.ini
+strings libRSBypass.dylib
+cd Desktop/
+rm -rf Adlm
+cat AdlmUserSettings.xml
+cd Adlm/
+rm -rf RocksmithCustomSongToolkit.app
+cd test/
+python3 -m pip install -e '.[testing]'
+python3 -m pip install -e .
+cd NeuralNetworks/tinygrad/
+mv tinygrad.egg-info NeuralNetworks
+mv tinygrad NeuralNetworks
+mv darknet NeuralNetworks/
+mkdir NeuralNetworks
+python3 darknet.py
+file darknet
+./darknet
+./darknet --help
+clang -I ./include -o yolo examples/yolo.c
+nvim examples/yolo.c
+clang examples/yolo.c -o yolo
+ls include/
+clang -c examples/yolo.c
+rm -rf yolo.c
+ls examples/ | grep yolo
+cp yolo.c  examples
+rm -rf examples/yolo.c
+nvim yolo.c
+clang yolo.c -o yolo
+cp ./examples/yolo.c .
+clang --help | grep include
+cht.sh clang
+clang --help
+clang -h
+clang -o -h
+clang -o yolo ./examples/yolo.c
+cd examples/
+clang -o yolo yolo.c
+make libdarknet.so
+make libdarknet.a
+ls obj/
+make darknet
+mkdir obj
+cat Makefile
+cd /Users/tyell/Repository/Frameworks/darknet
+cd darknet/
+git clone https://github.com/pjreddie/darknet.git
+cd build_opencv/
+rm -rf SwitchRestore/
+cd AvaloniaILSpy/
+open -a Xcode .
+open -a Xcode RSInjector.xcodeproj
+cd RSInjector/
+xcode-select --help
+git clone https://github.com/rscustom/RSInjector-Mac.git
+mv RSInjector.app ./.RSInjector.app
+cd ~/Repository/Apps/Rocksmith/
+class-dump GuitarPro
+cd /Applications/Guitar\ Pro\ 8.app/Contents/MacOS/
+brew uninstall freecad
+ls /Applications | grep Cad
+ls /Applications | grep cad
+cat ./Resources/AdskIdentityManager.config
+class-dump Autodesk\ Identity\ Manager | code
+class-dump Autodesk\ Identity\ Manager
+cd AdskIdentityManager/1.10.4.0/Autodesk\ Identity\ Manager.app/Contents/MacOS/
+cd Autodesk/
+cd ADPSDK/
+cd ~/Library/Application\ Support/Autodesk/
+cat Resources/qt.conf
+class-dump Resources/qt.conf
+class-dump lmuopen
+class-dump LMU
+cd Adlm/R29/LMU.app/Contents/MacOS/
+class-dump AutoCAD | nvim
+cd AutoCAD\ 2024.app/Contents/MacOS/
+cd AutoCAD\ 2024/
+class-dump --help
+sudo cp class-dump ../
+cd class-dump-3.5/
+file class-dump-3.5/
+ls | grep cla
+cd /usr/local/bin/
+sudo wget -qO- http://stevenygard.com/download/class-dump-3.5.tar.gz  | sudo tar xvz - -C /usr/local/bin
+ls AvaloniaILSpy
+sudo wget -qO- http://stevenygard.com/download/class-dump-3.5.tar.gz  | tar xvz - -C /usr/local/bin
+brew info classads
+brew install class-dump
+brew info class-dump
+brew install otx
+brew info otx
+ls Assets.xcassets/
+cd 3dScanner
+file *
+LS -LAH
+cd  Projects/3dscanner/3dScanner/
+xattr -cr /Applications/Elegoo\ Cura.app
+sudo xattr -cr /Applications/Elegoo\ Cura.app
+mkdir models
+mv Neptune_3_Pro_Plus_Max firmware/
+mkdir firmware
+git clone https://github.com/NARUTOfzr/Neptune_3_Pro_Plus_Max.git
+cd 3dPrinting/
+mkdir 3dPrinting
+tar -xzf lord\ drakkon\ partes.rar
+cd ~/Downloads/Hiken_industries/lord-drakkon-por-partes-power-rangers/
+brew uninstall librecad
+brew install freecad
+brew search freecad
+mv ../Downloads/macos_dark__material_design__wallpaper__4k_16_9__by_adriaan754_dbsi6ju.jpg .
+mv ../Downloads/WallpaperDog-10881776.jpg .
+cd ~/Pictures/
+brew autoremove brl-cad-mged
+brew uninstall brl-cad-mged
+brew uninstall BRL-CAD\ :\ MGED\ 7.24.0.app
+cd AutoCAD\ 2024.app/
+cd ApplicationAddins/
+sudo rm -rf Adlm
+rm -rf Adlm/
+cd /Applications/Autodesk/
+cat Info.plist
+cd LMU.app/
+cd R29/
+cd /Applications/Autodesk/Adlm/
+mv pexels-anubhaw-anand-2027697.jpg ../Pictures/
+brew install librecad
+brew info jad
+brew install --cask cad-assistant
+brew info cad-assistant
+brew info cad-assistance
+brew install --cask brl-cad-mged
+brew info brl-cad-mged
+nvim CodeResources
+file CodeResources
+cd _CodeSignature/
+cd Install\ Autodesk\ AutoCAD\ 2024\ for\ Mac.app/
+cd Installer/
+cd DLC/
+tar -xzf V1-10-V1.rar
+mv ../Downloads/V1-10-V1.rar .
+rm -rf V1-10-V1.rar
+tar -xzf ls
+rm -rf Batman\ Begins\ Batsuit\ \(Suit\ Slot\)\ \(MAJOR\ UPDATE\)-767-1-1-1698329222.rar
+rm -rf ZSJL\ Base\ Batsuit-781-1-1-1698537661.rar
+tar -xzf ZSJL\ Base\ Batsuit-781-1-1-1698537661.rar
+tar -xzf Batman\ Begins\ Batsuit\ \(Suit\ Slot\)\ \(MAJOR\ UPDATE\)-767-1-1-1698329222.rar
+unzip All\ DLC\ Batmobiles\ Unlocked\ and\ Can\ Be\ Used\ Throughout\ Storymode-50-V1-1578540310.7z
+mv ../Downloads/*.*z .
+mv ../Downloads/*.rar .
+sudo mv ../Downloads/THE\ BATMAN\ 2022\ EPIC\ STORE-782-1-0-1698611343.zip .
+rm -rf ReadMe.txt
+cat ReadMe.txt
+rm -rf videos/
+rm -rf Fast\ Launch-1-1-0-1696290416.rar
+code ACMiragenexus.CT
+file ACMiragenexus.CT
+mv ../Downloads/ACMiragenexus.CT .
+ls en
+cd videos/
+tar -xzf Fast\ Launch-1-1-0-1696290416.rar
+mv ../Downloads/Fast\ Launch-1-1-0-1696290416.rar .
+mv ../Downloads/Fast\ Launch-1-1-0-1696290416.rar
+rm -rf clear
+rm -rf Cheat\ Table-52-1-0-1697741710.rar
+rm -rf ACMirageCHEATTable.CT
+code ACMirageCHEATTable.CT
+file ACMirageCHEATTable.CT
+tar -xzf Cheat\ Table-52-1-0-1697741710.rar
+cat cpt.py
+mv *.gp5 ./GuitarSheetMusic/
+rm -rf *m.psarc =
+mv ../Downloads/Cheat\ Table-52-1-0-1697741710.rar .
+mv ../Downloads/Cheat\ Table-52-1-0-1697741710.rar
+ls .metadata/
+cd ../Environment/
+mv module1 ../Environment/
+cd three19/
+cd module1/
+cd CS230_M1_assignments/
+unzip CS230_M1_assignments.zip
+cd School/CS230-H2931/Mod1/
+mv CS230_M1_assignments.zip ../School/CS230-H2931/Mod1/
+mv tuxguitar-1.5.6-macosx-cocoa-64.app ./TuxGuitar.app
+which tuxguitar
+brew search tuxgui
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_* .
+cat sudo
+sudo nvim sudo
+file sudo
+cd pam.d/
+cd /etc/
+sudo cp -r XBOX\ Cloud\ Gaming.app /Applications
+cd XBOX\ Cloud\ Gaming-darwin-arm64/
+cd xbox-cloud-gaming-macos/
+sudo chown -R $(whoami) ./xbox-cloud-gaming-macos
+file XBOX\ Cloud\ Gaming-darwin-arm64/
+sudo sh package.sh
+sudo rm -rf /Users/tyell/Library/Caches/electron/*
+cat package.sh
+./package.sh
+sudo npm audit fix
+sudo npm audit fix --force
+electron-packager --version
+electron --version
+npm audit fix --force
+sudo npm install electron electron-packager --save-dev
+npm install electron electron-packager --save-dev
+sudo chown -R $(whoami) ~/.npm
+sudo chown -R 501:20 "/Users/tyell/.npm"
+chmod 777 package.sh
+sudo yarn global add electron electron-packager
+sudo npm install -g electron electron-packager
+git clone https://github.com/murilxaraujo/xbox-cloud-gaming-macos.git
+ls MacOS/
+ls Frameworks/Cg.framework/
+ls Resources/dlc/
+cat PkgInfo
+cat installscript_osx.vdf
+ls psarcTestBuilds/
+cd base/
+file LocalProfiles.json
+saf
+ls cd ..
+sudo xattr -rd com.apple.quarantine /Applications/ILSpy.app
+xattr -rd com.apple.quarantine /Applications/ILSpy.app
+git clone https://github.com/icsharpcode/AvaloniaILSpy.git
+brew search avalonia
+brew search Avalonia
+brew uninstall ilspy
+brew update
+brew install --cask ilspy
+./cpt.py --check-requirements && ./cpt.py --create-dev-env Debug --with-workdir=./cling-build/
+chmod 777 cpt.py
+rm -rf *m.psarc
+wget https://raw.githubusercontent.com/root-project/cling/master/tools/packaging/cpt.py
+python3 ./install.py --sys-prefix
+jupyter notebook
+python3 ./install.py
+chmod 777 install.py
+which ipython
+Ipython --version
+code install.py
+cd ~/Downloads/ijava-1.3.0/
+jupyter kernelspec --help-all
+jupyter --config-dir
+jupyter --help-all
+jupyter kernelspec install --help-all | grep "Install"
+jupyter kernelspec install --help-all | grep "sudo"
+jupyter kernelspec install --help-all | grep 'sudo'
+jupyter kernelspec install --help-all | grep sudo
+jupyter kernelspec install --help-all
+jupyter kernelspec install --help
+jupyter kernelspec list --Application.Xfrozen_modules=off
+jupyter notebook --help
+jupyter --help
+jupyter kernelspec list
+jupyter kernelspec --help-all | grep frozen
+jupyter kernelspec --help
+jupyter --help | grep frozen
+jupyter kernelspec list -Xfrozen_modules=off
+fzf --query "ilspy"
+brew remove ilspy
+brew autoremove -n
+brew autoremove ilspy
+sudo xattr -cr /Applications/ILSpy.app
+brew search ilspy
+code ./D3DX9_42.dll
+ls | grep dll
+wget https://alt-downloads.guitar-pro.com/gp#{7}/stable/guitar-pro-#{6}-setup.pkg
+ch ruby
+sudo find / -type f -name "*arobas*"
+sudo find
+find / -type f -name "*arobas*"
+ch find
+find -r . -type f -name "*Arobas*"
+find . -type f -name "*arobas*"
+ls /Library/Preferences/ | grep arobas
+ls /Library/PreferencePanes/ | grep arobas
+ls ~/Library/PreferencePanes/ | grep arobas
+ls ~/Library/Preferences/ | grep arobas
+sudo rm -rf ~/Library/Preferences/com.arobas-music.guitarpro8.plist
+sudo rm -rf "/Library/Preferences/com.arobas-music.guitarpro8.plist"
+sudo rm -rf "~/Library/Preferences/com.arobas-music.guitarpro8.plist"
+sudo rm -rf "~/Library/Saved Application State/com.arobas-music.guitarpro8.savedState"
+sudo rm -rf "~/Library/HTTPStorages/com.arobas-music.guitarpro8"
+sudo rm -rf "~/Library/Application Support/Arobas Music"
+sudo rm -rf "/Library/Application Support/Arobas Music"
+killall -kill guitar
+code guitar-pro.rb
+sl
+curl -0 https://github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/g/guitar-pro.rb
+curl -0 https:////github.com/Homebrew/homebrew-cask/blob/HEAD/Casks/g/guitar-pro.rb
+cd Application\ Support/
+cd PreferencePanes/
+cd /Library/Preferences/
+rm -rf com.arobas-music.guitarpro8.plist
+cd Preferences/
+cd Arobas\ Music/
+sudo cp -r ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Slipknot_Vermilion_v2_DD_m.psarc .
+sudo cp -r ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Slipknot_Killpop_v1_DD_m.psarc .
+sudo cp -r ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Slipknot_Devil-In-I-The_v1_DD_m.psarc .
+pip install -r project2Env_requirements.txt
+pip install -r neovim3_requirements.txt
+brew info youtube-dl
+youtube-dl --help
+brew install youtube-dl
+brew install python@3.12
+which python@3.11
+python@3.11 --version
+python@3.11
+nvim python@3.11.fish
+ls  | grep python
+nvim python.fish
+cd ~/.config/fish/functions/
+ls shims/
+file versions/neovim3/
+ls versions/
+ls version
+cd ~/.pyenv/
+pyenv virtualenv 3.12.0 neovim3
+pyenv uninstall project2Env
+pip freeze > project2Env_requirements.txt
+pyenv activate project2Env
+pip freeze > neovim3_requirements.txt
+pyenv virtualenv 3.12.0 neovim3
+pyenv virtualenv 3.12.0 project2Env
+
+pyenv global 3.12.0
+pyenv install 3.12.0
+python global
+brew search Python@312
+brew search youtube
+brew search youtubre
+curl -0 https://www.youtube.com/watch?v=UI6lqHOVHic
+javac --version
+mv ../Java\ Programming\ Cheatsheet.pdf .
+rm -rf Accessing\ Your\ Learning\ Resource.html
+rm -rf BS_DAN\ Program\ Pathway\ Infographic.pdf
+cd ~/School/
+file VitalSource\ Bookshelf
+cat CodeResources
+cd Book.storyboardc/
+cd Library.storyboardc/
+cd VitalSource\ Bookshelf.app/
+curl -0 "http://jigsaw.vitalsource.com/mosaic/wrapper.html?uuid=7ec2ca33-5795-48e5-ea08-ca5db1fe1957&amp;type=book"
+curl -0 http://jigsaw.vitalsource.com/mosaic/wrapper.html?uuid=7ec2ca33-5795-48e5-ea08-ca5db1fe1957&amp
+curl -0 http://jigsaw.vitalsource.com/mosaic/wrapper.html?uuid=7ec2ca33-5795-48e5-ea08-ca5db1fe1957&amp;type=book
+rm -rf 2
+code 2
+file 2
+fiel 2
+wget https://bookshelf.vitalsource.com/reader/books/9781789809954/epubcfi/6/4[%3Bvnd.vst.idref%3Duuid-f15e76f8-8552-4c93-a094-5df075c90d18]!/4/2
+curl -0 "https://bookshelf.vitalsource.com/reader/books/9781789809954/epubcfi/6/4[%3Bvnd.vst.idref%3Duuid-f15e76f8-8552-4c93-a094-5df075c90d18]!/4/2"
+curl -0 https://bookshelf.vitalsource.com/reader/books/9781789809954/epubcfi/6/4[%3Bvnd.vst.idref%3Duuid-f15e76f8-8552-4c93-a094-5df075c90d18]!/4/2
+rm -rf java.pdf
+file java.pdf
+curl -0 https://bookshelf.vitalsource.com/reader/books/9781789809954 -o java.pdf
+curl -0 https://bookshelf.vitalsource.com/reader/books/9781789809954
+curl -0 https://bookshelf.vitalsource.com/reader/books/9781789809954/epubcfi
+curl -0 https://bookshelf.vitalsource.com/reader/books/9781789809954/epubcfi/6/
+curl -0 http://bookshelf.vitalsource.com/#/books/9781789809954 --verbose
+rm -rf Java
+file Java
+open java.pdf
+curl -0 http://bookshelf.vitalsource.com/#/books/9781789809954 -o java.pdf --verbose
+curl -O http://bookshelf.vitalsource.com/#/books/9781789809954 -o java.pdf --verbose
+curl -O http://bookshelf.vitalsource.com/#/books/9781789809954 --verbose
+curl -O http://bookshelf.vitalsource.com/#/books/9781789809954
+curl -O /#/books/9781789809954
+code Java
+curl -L http://bookshelf.vitalsource.com/#/books/9781789809954 > Java
+curl -L http://bookshelf.vitalsource.com/#/books/9781789809954
+ch curl
+ch
+rm -rf DDC_Log/
+rm -rf Ww*
+tar xvf Wwise2013.rar
+tar xvf Wwise2021.rar
+mv ../Downloads/Wwise20* .
+rm -rf wwise.1
+rm -rf Wwise20*
+file wwise.1
+rm -rf wwise
+wget https://ignition4.customsforge.com/tools/wwise
+file wwise
+curl -O https://ignition4.customsforge.com/tools/wwise
+rm -rf Hellyeah_Drink-Drank-Drunk_v1_p.psarc
+pip install construct
+cat rs-utils/requirements.txt
+pip install --upgrade pp
+pip install pycryptodome
+pip -l
+pip --list
+cat rs-utils/README.md
+rm -rf RocksmithTookitGUI/
+tar -xvf Mac.tar
+tar xvf Mac.tar
+rm -rf RocksmithTookitGUI
+rm -rf rocksmith-custom-song-toolkit
+dc ..
+RocksmithTookitGUI/bin/
+Rocksmith/rocksmith-custom-song-toolkit/
+sudo sh RocksmithCustomSongToolkit
+file RocksmithCustomSongToolkit
+cd RocksmithCustomSongToolkit.app/
+cd RocksmithTookitGUI/bin/
+sudo sh MakeMacPackage.sh
+code RunMeFirst.bat
+sudo sh ./prebuild.sh
+./prebuild.sh
+chmod -x prebuild.sh
+cat prebuild.sh
+cd rocksmith-custom-song-toolkit/
+git clone https://github.com/rscustom/rocksmith-custom-song-toolkit.git
+dc Apps/
+tar -xzf Wwise2017.tar
+file .localized
+cat .localized
+bzip2 -d Wwise2017.tar.bz2
+bzip2 --help
+lazy
+sudo mv ../.config.bak/* .
+sudo rm -rf binwalk
+sudo rm -rf fish
+sudo rm -rf htop
+sudo rm -rf iterm2
+rm -rf ./.config/*
+sudo cp -r ./.config.bak/* ./.config
+ls -la ./.config
+sudo mv ./.config ./.config.bak
+rm -rf .config.bak
+cp -r .config ./.config.bak
+rm -rf dot-files
+cd .config/
+cht.sh git init
+ls -la *
+cd .github/
+rm -rf .git
+nvim description
+cat description
+file description
+cd .nvim.bak/
+rm -rf .git/
+git commit -a
+git commit -a "dot-files"
+git commit -m "dot-files"
+git rm --cached .nvim.bak -f
+git rm --cached .nvim.bak
+git init .
+cht.sh git | grep create --before-context 1 --after-context 1
+cht.sh git | grep create
+cht.sh git | grep init --before-context 1
+cht.sh git | grep init
+git --help
+git config --global color.ui true
+git commit -m "adding dotfiles"
+git comit -m "adding dotfiles"
+git config --global user.password bat26TDE!!
+cd course_documents/
+cd ../School/MAT243/Project\ Three\ Guidelines\ and\ Rubric/
+ls -lah | grep "Oct 1"
+ls -lah | grep "Oct 16"
+ls -lah | grep "Oct  7"
+ls -lah | grep Oct  7
+ls -lah | grep Oct 16
+ssh tyell@mainpc
+cd .ssh/
+cd CDLCManagerMac/
+mkdir CDLCManagerMac
+mv ~/Downloads/MAT\ 243\ Project\ Three\ Summary\ Report\ Template.docx .
+cd Project3/
+mkdir Project3
+rm -rf Project\ Two\ Jupyter\ Script.py
+py ./Project\ Two\ Jupyter\ Script.py
+cd module5/
+cd project1venv/
+cd Project\ One\ Guidelines\ and\ Rubric/
+cd ~/School/MAT243/Module3/
+rm -rf pyenv-deactivate.fish
+nvim pyenv-activate.fish
+touch pyenv-deactivate.fish
+funcsave pyenv-activate
+touch pyenv-activate.fish
+cd project2Env/bin/
+source versions/project2Env/bin/activate.fish project2Env
+pyenv which activate
+source versions/project2Env/bin/* project2Env
+pyenv which activate.fish project2Env
+pyenv which activate project2Env
+cat versions/project2Env/bin/activate.fish
+ls versions/project2Env/bin/
+source (pyenv which activate) project2Env
+
+pyenv activate 3.11.5
+lf
+mv ~/Downloads/*.py .
+mv ../../../module5/ .
+cd module3
+cd Project\ Two\ Guidelines\ and\ Rubric/
+cd module5
+cd School/MAT243/
+swiftc --version
+mv Module3/Project\ One\ Guidelines\ and\ Rubric/nbaallelo.csv module5/
+jupyter notebook Project\ Two\ Jupyter\ Script.ipynb
+mv ~/Downloads/Project\ Two\ Jupyter\ Script.ipynb .
+mv ~/Downloads/Project\ Two\ Jupyter\ Script.ipynb
+jupyter notebook test.ipynb
+pip install jupyter
+pip install pyvim
+pip install matplotlib
+pip install statsmodels
+status --is-interactive; and source (pyenv virtualenv-init -|psub)
+status --is-interactive; and source (pyenv init -|psub)
+set -x PATH $HOME/.pyenv/bin $PATH
+pyenv activate.fish project2Env
+pyenv virtualenv 3.11.5 project2Env
+rm -rf pyenv
+ls -la pyenv/
+eval "$(pyenv virtualenv-init -)"
+cd School/MAT243/module5
+cd School/MAT243/module
+sudo ln -s 3.11 Current
+sudo rm -rf Current
+rm -rf Current/
+cd /Library/Frameworks/Python.framework/Versions/
+rm -rf Current
+file /Library/Frameworks/Python.framework/Versions/Current
+sudo cp -r /Library/Frameworks/Python.framework/Versions/Current .
+cd Versions/
+sudo mv 3.11 Versions
+mv 3.11 Versions/
+ls Versions/
+sudo cp -r /Library/Frameworks/Python.framework/Versions/3.11 .
+sudo rm -rf Versions/3.9
+rm -rf Versions/3.9
+ls /Library/Frameworks/Python.framework/Versions/
+/Library/Frameworks/Python.framework/Python --version
+ls /Library/Frameworks/Python.framework/
+./Python3 --version
+file Python3
+cd Python3.framework/
+sudo cp ~/.pyenv/shims/2to3* .
+sudo rm -rf 2to3*
+sudo cp ~/.pyenv/shims/pip3* .
+sudo rm -rf pip3*
+sudo cp ~/.pyenv/shims/pydoc3* .
+sudo rm -rf pydoc3*
+sudo cp ~/.pyenv/shims/python3* .
+sudo rm -rf python3*
+rm -rf python3*
+cd usr/bin/
+cd /Library/Developer/CommandLineTools/
+find / -name 'python3.9*' -type l 2>/dev/null
+
+sudo rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/pydoc3*
+sudo rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/2to3*
+cd /Applications/Xcode.app/Contents/Developer/usr/bin/
+sudo cp ./pip3* /Applications/Xcode.app/Contents/Developer/usr/bin/
+ls /Applications/Xcode.app/Contents/Developer/usr/bin/ | grep pip
+sudo rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/pip*
+rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/pip*
+/Applications/Xcode.app/Contents/Developer/usr/bin/pip3.9 --version
+/Applications/Xcode.app/Contents/Developer/usr/bin/pip3 --version
+/Applications/Xcode.app/Contents/Developer/usr/bin/pip3 -version
+/Applications/Xcode.app/Contents/Developer/usr/bin/pi
+sudo cp ./python3.11 /Applications/Xcode.app/Contents/Developer/usr/bin/
+sudo cp ./python3 /Applications/Xcode.app/Contents/Developer/usr/bin/
+./python3 --version
+cd ~/.pyenv/shims/
+ls /Applications/Xcode.app/Contents/Developer/usr/bin/ | grep python
+sudo rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/python3.9
+sudo rm -rf /Applications/Xcode.app/Contents/Developer/usr/bin/python3
+/Applications/Xcode.app/Contents/Developer/usr/bin/python3 --version
+ls /Applications/Xcode.app/Contents/Developer/usr/bin/
+cat /usr/local/bin/pip3.9
+file /usr/local/bin/pip3.9
+file pip3.9
+pythonw --version
+ls /usr/local/bin/
+echo $PATH
+
+sudo ln -s /Users/tyell/.pyenv/shims/python3.11 /usr/local/bin/python3
+sudo mv /usr/local/bin/python3 /usr/local/bin/python3_backup
+sudo ln -s /Users/tyell/.pyenv/shims/python3.11 /usr/bin/python3
+sudo mv /usr/bin/python3 /usr/bin/python3_backup
+
+find / -name 'python*' -type l 2>/dev/null
+
+find /usr/bin/ -name 'python*' -type l
+
+echo $PATH
+echo $PATH | tr ':' '\n' | xargs -I {} find {} -name python3 -type f 2>/dev/null
+echo $PATH | tr ':' '\n' | xargs -I {} find {} -name python* -type f 2>/dev/null
+
+ls -l /usr/bin/ | grep python
+file /usr/bin/python3
+ls -l /usr/bin/python3
+ls -l /usr/bin/python
+ls -l /usr/bin/python
+
+pyenv uninstall 3.9.18
+pyenv init pyenv
+ls pyenv/
+cd School/MAT243/module5/
+eval "$(pyenv init -)"
+command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+export PYENV_ROOT="$HOME/.pyenv"
+pyenv init pyenv/
+mkdir pyenv
+mv ../Project\ Two\ Guidelines\ and\ Rubric/ .
+mv ../Project\ Two\ Guidelines\ and\ Rubric/
+cd mod
+open ~/Downloads/2023-05-03-raspios-bullseye-arm64.img
+ls Project\ Two\ Guidelines\ and\ Rubric/course_documents/
+ls Project\ Two\ Guidelines\ and\ Rubric/
+cd MAT243/
+killall -kill Jupyter
+killall -kill Node
+pyenv activate myenv
+pyenv activate project1venv
+cd tyell/School/MAT243/Module3
+pyenv global 3.11.5
+pyenv /Users/tyell/.pyenv/shims/activate.fish
+pyenv /Users/tyell/.pyenv/shims/activate
+pyenv ~/.pyenv/shims/activate
+pyenv ~/.pyenv/shims/activate.fish
+cd .pyenv/
+cd Module3
+rm -rf Untitled*
+python3.11 -m pip install -U statsmodels
+python -m pip install -U statsmodels
+python3 -m pip install -U statsmodels
+python3 -m pip install -U statsmodel
+pip install statsmodels
+
+brew install --cask powershell
+brew install --cask python
+touch test.ipynb
+ls ../module1/discussions/1-5/
+ls ../Module4
+jupyter notebook testrun
+jupyter init
+cd ~/School/MAT243/module5
+pip install statsclear
+cd clear
+mv markdown-preview.lua configs/
+lsnvim
+mv markdown-preview.lua plugins/
+cd Projects/ChatGPT/
+nvim markdown-preview.lua
+touch markdown-preview.lua
+cd lazy/
+cd /Users/tyell/.local/share/nvim/lazy/
+cd .local/
+cd ChatGPT/
+nvim lua/astronvim/lazy.lua
+rm -rf plugins/markdown-preview.lua
+cat init.lua | grep "setup"
+cat init.lua | grep setup
+cat | grep setup
+fzf --query "setup ="
+fzf --query "setup" .
+fzf . --query "setup"
+cat lua/astronvim/utils/init.lua
+cat lua/astronvim/lazy.lua
+cat lua/astronvim/utils/markdown_config.lua
+act init.lua
+cd markdown-preview.nvim/
+rm -rf markdown-preview.lua.cloning
+ls /Users/tyell/.local/share/nvim/
+ls /Users/tyell/.local/share/
+mv markdown-preview.nvim/ plugins/
+mv markdown-preview.nvim lua/
+ls src/app/
+ls src/util/
+git clone https://github.com/iamcco/markdown-preview.nvim.git
+nvim ../init.lua
+sz astronvim/
+cat mason.lua
+cat lazy.lua
+cat init.lua -e "setup"
+grep . -e "setup"
+nvim ./lua/astronvim/utils/init.lua
+nvim ./lua/astronvim/utils/status/init.lua
+find . -type f -name "init.lua"
+cd ~/.config/n
+cat tauri.conf.json
+nvim ~/.bin/sz.py
+nvim tauri.conf.json
+cd src-tauri/
+cd src
+cat index.html
+open index.html
+cd Projects/ChatG
+cat lua/astronvim/utils/python_config.lua
+nvim ~/.config/nvim/lua/astronvim/utils/markdown_config.lua
+touch ~/.config/nvim/lua/astronvim/utils/markdown_config.lua
+cat utils/python_config.lua
+cd configs/
+cd ../.config/nvim
+cd /Users/tyell/Projects/ChatGPT
+brew info yarn
+brew search yarn
+brew upgrade yarn
+brew install --help | grep upgrade
+brew install --help
+cat README-ZH_CN.md
+cd ChatG
+git clone https://github.com/lencx/ChatGPT.git
+nvim discussion.txt
+touch discussion.txt
+mkdir module5
+cat train.csv
+unzip titanic.zip
+unzip -h
+kaggle competitions download titanic -w
+kaggle competitions download -p https://www.kaggle.com/competitions/titanic
+kaggle competitions download -p https://www.kaggle.com/competitions/titanic -q
+kaggle competitions download -h
+kaggle competitions list
+kaggle competitions -h
+kaggle models -h
+kaggle -h
+kaggle models
+kaggle file
+kaggle files
+kaggle init
+kaggle init -h
+kaggle kernels pull -h
+kaggle kernels -h
+kaggle kernels list
+kaggle kernels -l
+kaggle kernels
+kaggle config view
+kaggle config -h
+kaggle list
+mv kaggle.json ./.kaggle.json
+mv Python-3.11.5.t* ..
+kaggle datasets list >> kaggleDataSets.log
+kaggle datasets list
+ls /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages/kaggle-1.5.16.dist-info/
+ls /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages/kaggle
+ls /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages
+pip show kaggle
+kaggle
+fish_add_path -U /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages --save
+fish_add_path -U /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages
+pip install --upgrade kaggle
+pip install kaggle
+ls kaggle
+ls /Users/tyell/.pyenv/versions/3.11.5/lib/python3.11/site-packages/
+pip uninstall kaggle
+cat PKG-INFO
+cd kaggle.egg-info/
+pip show kaggle | grep location
+kaggle datasets list
+
+./setup.py
+chmod +x setup.py
+nvim ~/.config/nvim/init.lua
+nvim ~/.config/nvim/lua/astronvim/utils/init.lua
+sudo cp -r /Users/tyell/Projects/MLTesting/kaggle-api ~/.bin/
+python3 kaggle/cli.py
+sudo chmod 600 ../kaggle.json
+sudo chmod 600 kaggle.json
+sudo chmod 600 ~/.kaggle/kaggle.json
+python3 cli.py
+cd kaggle
+cd kaggle-api/
+cp kaggle.json ~/.kaggle
+mkdir ~/.kaggle
+ls -lah ~
+python3.11 setup.py --help-commands
+python3.11 setup.py
+nvim setup.cfg
+nvim  README.md
+git clone https://github.com/Kaggle/kaggle-api.git
+cat kaggle.json
+mv ~/Downloads/kaggle.json .
+brew search docker
+cat ~/.bin/sz.py
+nvim main2
+python main2.py
+touch main2.py
+pip install torchvision
+pip instlaclear
+sftp tyell@192.168.1.210
+ls lah
+file guitarpro.sh
+sftp tyell@192.168.1.177
+sftp tyell@raspberrypi
+ping raspberrypi
+ssh tyell@mainpc wsl -d Ubuntu22.04
+ssh tyell@mainpc "wsl ~"
+ssh --help | grep -t
+ssh --help
+cd ~/Projects/MLTesting/
+mv ~/Downloads/Python-3.11.5.t* .
+ssh 'tyell'@192.168.1.210
+ping 172.23.113.93
+rm -rf .ssh/known_hosts
+file .ssh/known_hosts
+ls .ssh/known_hosts
+ssh 'tyell'@192.168.1.210:22
+ssh 'skrody'@192.168.1.210:22
+ch sftp
+sudo chmod 777 main.py
+chmod -x main.py
+ssh pi@192.168.1.177
+progress -m
+progress -h
+progress -w
+mv ./Backup/* ./Untitled/
+ls -lah Backup/
+ls Backup/
+cd NO\ NAME/
+df -h /Volumes/KALI\ LINUX/
+ls KALI\ LINUX/
+df -h /Volumes/Backup/*
+df -h /Volumes/Backup/
+cd Backup/
+df --help
+fd
+ls FileHistory/
+ls Downloads/
+ls Documents/
+os
+ssh 'tyellis1111245@gmailcom'@192.168.1.210
+mkdir MLTesting
+cd l..
+find . -type f -name "deactivate*"
+ls lib/
+source deactivate
+deactivate
+pyenv virtualenv
+python3.9 --version
+pyenv install 3.9.18
+pyenv install --list | grep 3.9
+pyenv install python3.9/
+python -m venv install python3.9
+cat app.py
+ls ai/
+pip install docstring
+pip install utils
+pip list | grep yaml
+pip list | grep aml
+pip install yaml
+nvim __main__.py
+cd "/Users/tyell/School/MAT243/Module3/Project One Guidelines and Rubric/project1venv/labelme-5.3.1/labelme"
+cd /Users/tyell/School/MAT243/Module3/Project One Guidelines and Rubric/project1venv/labelme-5.3.1/labelme
+cat __main__.py
+cat __init__.py
+cd labelme
+cat MANIFEST.in
+pip install termcolor
+pip install scikit-image
+pip install qtpy
+pip install qtpy!
+pip install PyYAML
+pip install Pillow
+pip install onnxruntime
+pip install natsort
+pip install imgviz
+pip install gdown
+cd "/Users/tyell/School/MAT243/Module3/Project One Guidelines and Rubric/project1venv/labelme-5.3.1"
+curl -s https://pypi.org/pypi/labelme/json | grep version
+
+curl -s https://pypi.org/pypi/labelme/json | jq .info.version
+
+grep -r . -e "3.7"
+grep -r . -e "python3.7"
+grep -n . -e "3.7"
+grep . -e "3.7"
+grep -e "3.7"
+grep -rnw . -e "3.7"
+cd labelme-5.3.1/
+tar xzf labelme-5.3.1.tar.gz
+pip download labelme --no-deps
+pip install labelme tensorflow tensorflow-gpu albumentations
+pip install lableme tensorflow tensorflow-gpu albumentations
+source project1venv/bin/activate.fish
+source bin/activate.fish
+cd project1venv/bin/
+ls lib/python3.11/site-packages/pip/
+ls lib/python3.11/site-packages/
+python -m venv project1venv
+file /Users/tyell/.pyenv/shims/*
+file /Users/tyell/.pyenv/shims/
+ls /Users/tyell/.pyenv/shims/
+/Users/tyell/.pyenv/shims/python3.11 --version
+/Users/tyell/.pyenv/shims/python --version
+file /Users/tyell/.pyenv/shims/python
+which python3.11 -m venv
+which python -m venv
+which venv
+python3.11 -m pip list
+rm -rf project1venv/
+cd Module3/
+rm -rf python_lib.lua
+nvim python_lib.lua
+touch python_lib.lua
+cat python_lib.lua
+cd .config/nvim/lua/plugins/configs/
+jupyter notebook Untitled.ipynb
+cat Untitled.ipynb
+nvim untitled.py
+cd /Users/tyell/School/MAT243/module1/labs
+touch untitled.py
+cd labs/
+cat alpha.lua
+grep -rnw . -e "plugins." --exclude-dir  "nvim-treesitter"
+grep -rnw . -e "require(\"plugin" --exclude-dir  "nvim-treesitter"
+grep -rnw . -e "require(plugins" --exclude-dir  "nvim-treesitter"
+grep -rnw . -e "require(\"plugins" --exclude-dir  "nvim-treesitter"
+grep -rnw . -e "require" --exclude-dir  "nvim-treesitter"
+man grep
+grep -rnw . -e "require" -v "treesitter"
+grep -rnw . -e "require"
+ls workflows/
+ls info/
+cat info
+grep -rnw . -e "plugins"
+sudo xcodebuild -license
+man find | grep recursive
+ch find | grep "recursive" --after-context 1
+ch find | grep "directory" --after-context 1
+grep -rnw . -e "init.lua"
+grep -rnw \ -e "init.lua"
+grep --recursive --line-number --binary-files=without-match "Complete" . | grep -v "treesitter" | grep init
+grep --recursive --line-number --binary-files=without-match "complete" . | grep -v "treesitter" | grep init
+grep --recursive --line-number --binary-files=without-match "M." . | grep -v "treesitter" | grep init
+ch grep
+grep --recursive --line-number --binary-files=without-match "M." . | grep init
+grep --recursive --line-number --binary-files=without-match "M." .
+grep --recursive --line-number --binary-files=without-match "M.complete" .
+grep --recursive --line-number --binary-files=without-match "m.complete" .
+grep --recursive --line-number --binary-files=without-match "complete" .
+man grep | grep number
+man grep | grep line-number
+man grep | grep line
+grep --help
+grep "complete" . | fzf
+cd ../.config/nvim/lua
+jupyter notebook rewritten.ipynb
+cd new-mat-243-project-one/
+sudo launchctl disable system/studentd
+ls studentd/isConnected
+cat studentd/AdHocConfiguration.plist
+ls studentd/
+ls Workflows/Applications/
+ls Workflows/
+ls Workflows/Applications/Folder\ Actions/
+cat Trial/NamespaceDescriptors/identifier
+ls Trial/NamespaceDescriptors/identifier
+ls Trial/
+ls SyncedPreferences/
+ls Screen\ Savers/
+ls Saved\ Application\ State/
+rm -rf Saved\ Application\ State/*dlcbuilder.savedState/
+rm -rf Saved\ Application\ State/com.fatcatsoftware.pledpro.savedState
+rm -rf Saved\ Application\ State/*azure*
+rm -rf Saved\ Application\ State/*unity*
+rm -rf Saved\ Application\ State/*hacker*
+rm -rf Saved\ Application\ State/*arobas*
+rm -rf Saved\ Application\ State/tonyapp.devutils.savedState/
+file ResponseKit/advisoryLock
+ls ResponseKit/
+rm -rf unity.Coredumping.Software\ Inc.plist
+rm -rf com.urgesoftware.wineskin.wineskin.plist
+rm -rf *nektony*
+rm -rf com.iminashi.dlcbuilder.plist
+rm -rf com.electron.hacker_menu.plist
+rm -rf com.arobas-music.guitarpro*
+brew install plistedit-pro
+brew search plist
+rm -rf com.azuredatastudio.oss.plist
+ls ByHost/
+cat 10850816477.plist
+sh OnlySwitch/script/battery-airpods-monterey.sh
+cat OnlySwitch/script/battery-airpods-monterey.sh
+ls Developer/DeveloperDiskImages/
+ls Developer/
+ls Biome/compute/persistent/
+ls Biome/compute/
+ls Biome/
+ls Assistants/
+ls Assistant
+cd Accounts/
+cd com.dmitrynikolaev.numi.NumiExtension/
+cd 5F240AA7-9A19-46C9-B2E2-5912FFC36216/
+cd Application\ Scripts/
+rm -rf com.michallangmajer.HelloAI/
+rm -rf com.nektony.*
+rm -rf tonyapp.devutils/
+cd tonyapp.devutils/
+cat deviceInfoCacheV2.plist
+cd icdd/
+cat Logs.sqlite
+cd com.microsoft.appcenter/
+rm -rf com.nektony*
+rm -rf com.nektony.App-Cleaner-SIII/
+rm -rf com.electron.hacker_menu.ShipIt/
+cat Default.js
+cd extensions/
+cd com.dmitrynikolaev.numi/
+rm -rf azuredatastudio/
+brew search azure
+rm -rf Hacker\ Menu/
+brew info hacker-menu
+brew search hacker
+brew info hacker
+find / "Hacker" | fzf --query "Hacker Menu" --exact
+find / "Hacker" | fzf --query "Hacker Menu"
+find / "Hacker" | fzf --query
+find / "Hacker" | fzf
+find / "Hacker"
+cat app.log.2023-08-05
+cd Log/
+cat Cache/index
+ls Cache/
+cd Hacker\ Menu/
+ls Hacker\ Menu/
+ls CallHistoryDB/
+sudo find /Library "devutils" | fzf
+find /Library "devutils" | fzf
+find / "devutils" | fzf
+find / "devutils"
+fzf --query "devutils" /
+fzf --query "devutils"
+brew uninstall devutils
+brew uninstall winecfg
+winecfg
+open rocksmith-toolkit-mac/RocksmithTool.app
+mv steam_profiles ./.steam_profiles
+ls steam_profiles/
+rm -rf standby/
+rm -rf dlc/
+ls dlc/
+ls Movies/
+ls Library/
+rm -rf ../GitRepository/
+ls -lah ../GitRepository/
+ls ../GitRepository/
+mv openAIAPIkey.txt ./.openAIAPIkey.txt
+rm -rf Multiconverter/
+cat App.config
+cd My\ Project/
+ls bin/Release/
+cd Multiconverter/
+mv pat utils/
+mv ../GitRepository/Multiconverter/ .
+mv ../GitRepository/pat .
+mv ../GitRepository/pat/
+mv tinygrad* Frameworks/
+mkdir Frameworks
+mv ../GitRepository/tinygrad* .
+mv dotfiles.zip ./.dotfiles.zip.bak
+rm -rf dotfiles-public/
+zip -r dotfiles.zip dotfiles-public
+zip -d dotfiles.zip dotfiles-public
+mv ../Apps/PrimeagenNvim .
+cd dotfiles-public/
+mv cd dotfiles-public/
+mv ../GitRepository/dotfiles-public .
+mv PrimeagenNvim/ Apps/
+mv neovim ./PrimeagenNvim
+mv src/ libraries/
+mv opencv* libraries/
+cd init.lua/
+cd neovim/
+rm -rf js\?id=G-EC1VL3GZRD
+cat js\?id=G-EC1VL3GZRD
+mv build_opencv/ Apps/
+mv guitarpro7.rb Apps/
+mv ghidra/ Apps/
+mv SwitchRestore/ Apps/
+mv Rocksmith.zip apps
+mv Rocksmith Apps/
+mkdir Apps
+mv Dev ~/Projects/
+cat main.h
+./main
+main
+cd GitRepository/Dev/
+ls GitRepository/Dev/
+ls GitRepository/
+rm -rf AppPackages/
+zip -sf AppPackages.zip
+ch zip
+ls GitRepository/Multiconverter/
+zip -r AppPackages.zip AppPackages
+mv kali-linux-2023.3-live-arm64.iso AppPackages/
+mv balenaEtcher-1.18.11.dmg AppPackages/
+mv arduino-ide_2.2.1_macOS_arm64.dmg AppPackages/
+mv Wwise\ 2021.1.0.7575/ AppPackages/
+mv Wwise\ 2021.1.0.7575/
+mv Hopper-5.11.6-demo.dmg AppPackages/
+mv DevUtils-1.17.0.dmg AppPackages/
+mkdir AppPackages
+mv python-3.11.5.pkg ~/Projects/
+mv Undergraduate\ Discussion\ Rubric.html ~/School/
+rm -rf VisualStudioForMacInstaller__314947a8d2514905b95cadf4dc05a2fd.dmg
+mv Rocksmith2014.NET-2.2.2.tar ~/Repository/Rocksmith/
+rm -rf Parrot-security-5.3_amd64.iso
+mv Turnitin\ Guide\ for\ Students.pdf ~/School/
+ls ~/School/
+rm -rf opencv-4.8.0-ios-framework.zip
+rm -rf iStat\ Menus.app/
+mv iStat\ Menus.app /Applications/
+rm -rf fnaf-security-breach-11744860-steamrip-SEED4SPEED.torrent
+mv family.png ~/Pictures/
+rm -rf discussion2-3.html
+rm -rf Wwise2021.rar
+rm -rf WWE.2K23.Icon.Edition.v1.17-P2P.torrent
+rm -rf RocksmithTool*
+rm -rf RocksmithCustomSongToolkit.app/
+rm -rf PDF\ document-*
+open PDF\ document-*
+rm -rf OperaGXSetup.zip
+rm -rf Opera\ GX\ Installer.app/
+rm -rf Module\ Three\ Discussion.html
+mv Microsoft_365_and_Office_16.77.23091003_BusinessPro_Installer.pkg ~/School/
+rm -rf MAT\ 243\ Project\ One\ Summary\ Report\ Template\ \(1\).docx
+rm -rf IMG_3*
+open IMG_3*
+rm -rf GitHub\ Desktop.app/
+ls /Applications/
+rm -rf DLC\ Builder.app/
+ld Downloads/
+cat test.rep/projectState
+ls test.rep/
+rm -rf test.gpr
+cat test.gpr
+mv 05\ Alcohaulin\'Ass.mp3 ~/Music/
+rm -rf 05\ Alcohaulin\'Ass.m4a
+test 05\ Alcohaulin\'Ass.mp3 -e
+test -e 05\ Alcohaulin\'Ass.mp3
+man test
+test
+test --help
+file test.
+mv Do Documents/Notes.md
+mv Notes.md ~/Do
+mv Screenshots ~/Pictures/
+mv happyfamily.jpg  ~/Pictures/
+rm -rf HellyeahUnpacked/
+rm -rf dlcedit/
+ls HellyeahUnpacked/HELLYEAH_Love-Falls_v1_m/
+ls HellyeahUnpacked/
+ls dlcedit/HELLYEAH_Human_v1_m/
+ls dlcedit/
+rm -rf fc007554983b5371
+rm -rf ungziped/
+rm -rf fc007554983b5370.gzip
+gzip -d fc007554983b5370.gzip
+mv fc007554983b5370 ./fc007554983b5370.gzip
+gzip -d fc007554983b5370
+cd ungziped/
+mv fc007554983b5370 ungziped/
+mkdir ungziped
+sudo chmod 666 fc007554983b537*
+ch chmod
+ch chroot
+ch gzip
+sudo file Desktop/fc007554983b5370
+file Desktop/fc007554983b5370
+file Desktop/fc007554983b537
+rm -rf Desktop/111Alcohaulin\'Ass.m4a
+ls Desktop/
+mv Desktop/*.png Desktop/Screenshots/
+ls Books/
+rm -rf 3*
+nvim lua/astronvim/utils/perl_config.lua
+which perl
+brew install perl
+brew search cpan
+sudo cpanm --force MsgPack::Raw --verbose
+cat /Users/tyell/.cpanm/work/1695450998.36486/build.log
+sudo cpanm -n MsgPack::Raw --force
+sudo cpanm -n MsgPack::Raw
+sudo cpanm list
+cpanm list
+cpanm --list
+cpanm --help
+ch cpanm
+perl5.34 --help
+nvim perl_config.lua
+cd .config/nvim/lua/astronvim/utils/
+fish_add_path -U ~/perl5/
+cd /Users/tyell/perl5/bin/
+eval "$(perl -I$HOME/perl5/lib/perl5 -Mlocal::lib=$HOME/perl5)"
+brew search perl
+cat python_config.lua
+touch perl_config.lua
+python3.11 -m pip install pynvim
+cd lua/astronvim/
+nvim ../nvim/init.lua
+nvim ../nvim/lua/astronvim/utils/init.lua
+sudo cp lua/astronvim/utils/python_config.lua ../nvim/lua/astronvim/utils/
+diff lua/astronvim/utils/init.lua ~/.config/nvim/lua/astronvim/utils/init.lua
+diff init.lua ~/.config/nvim/init.lua
+cd ~/.config/.nvim.bak/
+py main.py
+alias py='/Users/tyell/.pyenv/shims/python3.11' --save
+alias python3='/Users/tyell/.pyenv/shims/python3.11' --save
+alias python='/Users/tyell/.pyenv/shims/python3.11' --save
+python3.11 -m pip install mediapipe
+python3.11 -m pip install mediapip
+python3.11 -m pip install opencv-python
+python3.11 -m pip install opencv
+cd image_capture_test/
+rm -rf ElegooRobotCar/
+sudo chmod -R 777 program\ for\ camera\ module/
+sudo chmod 777 program\ for\ camera\ module/
+find . "2"
+grep "2"
+sudo cp ../../channel\ 2/ESP32_CameraServer_AP_20220120/* .
+sudo rm -rf *
+nvim cef_base.h
+ls ../../cef/include/
+ls ../../cef/
+nvim cef_image.h
+nvim image_util.h
+cd include/
+cat fd_forward.h | grep include
+cat camera_pins.h | grep include
+cat camera_index.h | grep include
+cat CameraWebServer_AP.h | grep include
+cat CameraWebServer_AP.cpp | grep include
+mv image_util.h include/
+mv cef_image.h include/
+sudo cp -r ../cef/libcef* .
+cd ESP32_CameraServer_AP_20220120/
+mkdir include
+sudo cp -r ../ESP32_CameraServer_AP_20220120/include/ .
+mv include/ ../ESP32_CameraServer_AP_20220120/
+cd cef/
+git clone https://github.com/chromiumembedded/cef.git
+rm -rf include/
+mv include/cef_image.h .
+mv ~/Downloads/cef_image.h .
+mv ~/Downloads/image_util.h .
+mv ~/Downloads/fd_forward.h .
+cd channel\ 1/ESP32_CameraServer_AP_20220120/
+cd chann
+./ESP32_CameraServer_AP_20220120.ino.bin
+chmod +x ESP32_CameraServer_AP_20220120.ino.bin
+cat Notes.txt
+cd channel\ 1/
+cd program\ for\ camera\ module/
+ls /dev/tty.*
+open Camera\ module\ FAQ.pdf
+cd 04\ Code\ of\ Carmer\ \(ESP32\)/
+nvim ApplicationFunctionSet_xxx0.h
+nvim ApplicationFunctionSet_xxx0.cpp
+nvim SmartRobotCarV4.0_V0_20210120.ino
+ls -lah addLibrary/FastLED-master/
+ls -lah addLibrary/
+sz . | grep Smart
+sudo nvim ~/.bin/sz.py
+python3.11 -m pip install tabulate
+cd SmartRobotCarV4.0_V0_20210120/
+cd DRV8835/
+cd addLibrary/
+ch find | grep recursiv
+find -R ./*  -type f -name "*servo*"
+find ./*  -type f -name "*servo*"
+find . -type f -name "*servo*"
+find . -type d -name "*servo*"
+ls addLibrary/FastLED-master/
+ls addLibrary/
+cd addLibrary/FastLED-master/
+open addLibrary/
+cd 02\ Main\ Program\ \ \ \(Arduino\ UNO\)/
+cd Manuel\ \&\ Main\ Code\ \&\ APP/
+CD Manuel\ \&\ Main\ Code\ \&\ APP/
+cd Projects/ElegooRobotCar/
+screen /dev/tty.Bluetooth-Incoming-Port 9600
+open 01\ For\ Mac\ and\ Ubuntu\ Building\ a\ Developed\ Environment£®20220322£©.pdf
+cd 01\ SmartRobotCarV4.0_Preparation/
+cd 01
+cd Tutorial\ \&\ Code/
+mv Related\ chip\ information/ ./ReadMeFirst/
+ls Related\ chip\ information/
+cd ls Related\ chip\ information/
+mv 04\ Related\ chip\ information/ ./Related\ chip\ information/
+mv Manual\ \\&\ Main\ Code\ \&\ APP/ ./Manuel\ \&\ Main\ Code\ \&\ APP
+mv 03\ Tutorial\ \&\ Code/ ./Tutorial\ \&\ Code
+mv 02\ Manual\ \&\ Main\ Code\ \&\ APP/ ./"Manual \& Main Code & APP"
+mv 01\ ReadMeFirst/ ./ReadMeFirst
+cd ElegooRobotCar/
+mv ELEGOO\ Smart\ Robot\ Car\ Kit\ V4.0\ 2023.02.01/ ./ElegooRobotCar/
+rm -rf ./ElegooRobotCar/
+mv ELEGOO\ Smart\ Robot\ Car\ Kit\ V4.0\ 2023.02.01/ ../
+mkdir ElegooRobotCar
+rm -rf Avenged-Sevenfold_Hail-To-The-King_v_p.psarc
+rm -rf 8000000000000*
+diff -urbBi .nvim.bak/ nvim
+diff -urbBiy .nvim.bak/ nvim
+diff --help | grep side
+diff --side-by-side -urbBi .nvim.bak/ nvim
+ch diff
+diff --side-by-side .nvim.bak/ nvim
+cp -r nvim ./.nvim.bak
+cp nvim ./.nvim.bak
+rm -rf .nvim.bak/
+cat Caffeine.csv
+wget "http://data-analytics.zybooks.com/Caffeine.csv"
+cd zybooks/
+mkdir zybooks
+cd Module4/
+cp * ../../../../Users/tyell/RDP/
+cp * ../../../../Users/tyell/Repository/SwitchRestore/
+cd save/
+cd /Volumes/Untitled/Nintendo/save/
+sudo cp -r * ../../Users/tyell/Repository/SwitchRestore/
+mkdir ../../Users/tyell/Repository/SwitchRestore
+python3.11 -m pip install statsmodels
+jupyter notebook new-mat-243-project-one/rewritten.ipynb
+ls new-mat-243-project-one/
+ls course_documents/
+python3.11 -m pip install scipy
+python3.11 -m pip --version
+pip3.11 --version
+rm -rf test.py
+nvim test.py
+touch test.py
+nvim objectives.md
+cd ../../School/MAT243/
+nvim /Users/tyell/.config/nvim/lua/astronvim/utils/status/init.lua
+find ~/.config/nvim -name init.lua
+
+nvim ../../.bashrc
+npm install -g pyright
+/Users/tyell/.pyenv/shims/pip3.11 --version
+/Users/tyell/.pyenv/shims/pip3 --version
+/Users/tyell/.pyenv/shims/pip --version
+pyenv rehash
+ls Python/
+sudo rm -rf Python/3.9
+cd Python/
+grep -R 3.9 *
+cd _internal/
+nvim __pip-runner__.py
+python3.11 __main__.py
+nvim __init__.py
+cat py.typed
+cd pip/
+file pip/
+cd /Library/Python/3.9/site-packages/
+./pip --version
+./pip --verison
+nvim pip
+file pip3.11
+file pip3
+pip3
+file pip
+cd /Users/tyell/.pyenv/shims/
+grep -R startup *
+cht.sh grep
+grep startup
+grep startup .
+cd nvim/lua/
+cleaer
+nvim 39requirements.txt
+file js\?id=G-EC1VL3GZRD
+file js
+wget "https://www.googletagmanager.com/gtag/js?id=G-EC1VL3GZRD"
+rm -rf file
+file file
+wget "https://uploadsome.com/en/zw4TFNm7HypVyuA/file"
+cd Project\ 1/
+cd MAT243-Applied-Statistics-for-STEM-I/
+git clone https://github.com/Lunarestia/MAT243-Applied-Statistics-for-STEM-I.git
+cdlear
+cat Discussion4-4.md
+sudo cp /Users/tyell/School/MAT243/Module4/Discussion4-4.md .
+cat Notes.md
+ls Notes.md
+cd /Users/tyell/.bkups
+ipm ci
+ipm view
+imp view
+ipm show
+ipm open Discussion4-4.md
+ipm --help
+open Discussion4-4.md
+mv Discussion4-4.txt Discussion4-4.md
+nvim Discussion4-4.txt
+mv Discussion4-4 ./Discussion4-4.txt
+touch Discussion4-4
+cd Module4
+mv Project\ One\ Guidelines\ and\ Rubric/ Module3/
+mkdir Module4
+cd ../Projects/mealTracker/
+nvim config.ld
+nvim lsp.lua
+nvim core.lua
+nvim git.lua
+mv nvim-treesitter.lua configs/
+chmod 755 nvim-treesitter.lua
+rm -rf configs/nvim-treesitter.lua
+cp -r nvim-treesitter/lua/* lua/plugins/
+ls lua/nvim-treesitter
+cat lua/nvim-treesitter.lua
+cat lua/nvim-treesitter
+cd ../../../nvim-treesitter/
+nvim nvim-autopairs.lua
+sudo cp ../../../nvim-treesitter/plugin/nvim-treesitter.lua .
+rm -rf nvim-treesitter.lua
+nvim treesitter.lua
+lua run treesitter.lua
+lua treesitter.lua
+make install
+make build
+cht.sh make
+cd nvim-treesitter/
+nvim mason.lua
+cat pre-push
+cat ci-install-macos-latest.sh
+cd scriq
+nvim lua/nvim-treesitter.lua
+ls autoload/
+git clone https://github.com/nvim-treesitter/nvim-treesitter.git
+cat treesitter.lua
+cat nvim-autopairs.lua
+cat nvim-treesitter.lua
+cat telescope.lua
+nvim nvim-treesitter.lua
+cat nvim-dap-ui.lua
+cd lua/plugins/configs/
+mv plugins/python_config.lua ./astronvim/utils/
+sudo chmod -R 755 ~/.config/nvim
+nvim python_config.lua
+touch python_config.lua
+sudo chmod -R 777 ~/.config/nvim
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+mv ~/.cache/nvim ~/.cache/nvim.bak
+mv ~/.local/state/nvim ~/.local/state/nvim.bak
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+mv nvim ./.nvim.bak
+nvim ../../init.lua
+cd skrody/
+rm -rf pern_config.lua
+touch pern_config.lua
+sudo chmod 755 python_config.lua
+ls -la python_config.lua
+cd lua/skrody/
+pyenv install perl
+brew install cpanminus
+brew info cpanminus
+brew search cpanm
+ls /usr/bin/ | grep cp
+which cpan
+sudo gem install neovim
+gem install neovim
+sudo chmod -R 755 /usr/local/bin/
+ls -la /usr/
+ls -la /usr/local
+sudo chmod -R 777 /usr/local/bin/
+sudo chmod -R 777 /usr/local
+sudo chmod -R 777 /usr/local/
+ls -la /Library/Ruby/Gems/
+sudo chmod -R 777 /Library/Ruby/
+sudo chmod 777 -R /Library/Ruby/
+sudo chmod 777 -R /Library/Ruby
+ls -la /Library/Ruby/Gems/2.6.0
+sudo chmod -R 755 ./nvim
+sudo chmod -R 766 ./nvim
+chmod -R 766 ./nvim
+./python3.11 --version
+./python --version
+./python --vrsion
+which python3.10
+./python3.11
+python3 -m print(PYTHONPATH)
+python3 -m print($PYTHONPATH)
+echo $PYTHONPATH
+./python3.11 --help
+./python3.11-config --help
+./python3.11-config
+nvim python3-config
+file python3-config
+cd shims/
+vim /Users/tyell/.pyenv/shims/python3
+file /Users/tyell/.pyenv/shims/python3
+/Users/tyell/.pyenv/shims/python3 --version
+cd ../.pyenv/
+rm -rf /Applications/RocksmithTool.app/
+xattr -cr /Applications/RocksmithTool.app
+./gatekeeper-fix.command
+xattr --help
+cat gatekeeper-fix.command
+cd /Volumes/Rocksmith\ Toolkit/
+ls | grep Rocksmith
+ls | grep rocksmith
+rm -rf Rocksmith\ Tools\ Launcher.app/
+cd rocksmith-toolkit-mac/
+git clone https://github.com/helioxigen/rocksmith-toolkit-mac.git
+rm -rf rocksmith-custom-song-toolkit*
+ls rocksmith-custom-song-toolkit
+rm -rf RocksmithTools.dmg*
+cd Users/tyell/
+ls Program\ Files\ \(x86\)/
+cd RocksmithToolsLauncher.app/drive_c/
+ls Wineskin.app/
+/Applications/RocksmithToolsLauncher.app
+sudo rm -rf /Applications/Rocksmith\ Tools\ Launcher.app/
+ls Applications
+rm -rf /Applications/Rocksmith\ Tools\ Launcher.app
+sudo cp -r Rocksmith\ Tools\ Launcher.app /Applications/
+sudo cp Rocksmith\ Tools\ Launcher.app /Applications/
+diff ./Rocksmith\ Tools\ Launcher.app /Applications/Rocksmith\ Tools\ Launcher.app
+mv Rocksmith\ Tools\ Launcher.app /Applications/
+cd RocksmithTools/
+rm -rf You_Sweep-Picking-Basics-Exercise-*
+ls n nvim/
+mv .nvim.bak ./nvim
+rm -rf nvim/
+cd plugins/configs/
+c d..
+brew reinstall cmake-docs
+brew install cmake-docs
+brew --outdated
+cd ./.config/nvim
+brew info pyenv-which-ext
+brew info pyenv-virtualenvwrapper
+brew search pyenv
+cat activate
+nvim activate
+cd plugins/pyenv-virtualenv/shims/
+activate neovim3
+activate 3.11.5
+activate
+nvim bin/activate.fish
+sudo cp bin/activate.fish ~/.config/fish/functions/
+nvim pyvenv.cfg
+cd ./.pyenv/
+pyenv version-name
+pyenv version-file
+pyenv version-origin
+pyenv
+setenv
+source ./.config/fish/functions/set_fish_prompt.fish
+fish_prompt
+fish_prompt set minimal
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.zshrc
+
+brew install pyenv-virtualenv
+fish_prompt minimal
+nvim set_fish_prompt.fish
+nvim fish_prompt.fish
+cat ./#\#fish_prompt.fish
+cat ./##fish_prompt.fish
+cd functions/
+brew cleanup pyenv-virtualenv
+brewcleanup pyenv-virtualenv
+brew isntall pyenv-virtualenv
+function fish_prompt
+    set -l color_cyan (set_color cyan)
+    set -l color_reset (set_color normal)
+    set -l virtual_env (pyenv virtualenv-prefix)
+
+    if set -q virtual_env
+        set -l venv_name (basename $virtual_env)
+        echo -n -s $color_cyan '(' $venv_name ')' $color_reset ' '
+    end
+
+    # Your existing prompt setup here, for example:
+    echo -n -s (prompt_pwd) ' ' (set_color red) (date "+%H:%M:%S") (set_color normal) '> '
+end
+
+cd fish
+cat fish_mode_prompt.fish
+cat fish_prompt.fish
+cd cache/
+pyenv virtualenv 3.11.5 neovim3
+fish_add_path -U ~/.pyenv/
+fish_add_path -U --save  ~/.pyenv/
+git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+
+git clone git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+
+pyenv init
+nvim ../fish/config.fish
+set -U fish_user_paths $PYENV_ROOT/bin $fish_user_paths
+set -Ux PYENV_ROOT $HOME/.pyenv
+pyenv -h
+pyenv virtualenv 3.x.x neovim3
+pyenv install 3.11.5
+nvim provider.lua
+cd ../.config/nvim/lua/astronvim/utils/status/
+cd status/
+cd ./.config/nvim/lua/astronvim/utils/
+mkdir versions
+mkdir ./.pyenv
+cd Create\ ML.app/
+cd Applications/
+cd /Applications/Xcode.app/Contents/
+/usr/bin/python3
+pyenv shell /usr/bin/python3
+pyenv whence --path /usr/bin/python3
+pyenv whence /usr/bin/python3
+pyenv whence
+sudo rm -rf /usr/bin/python3
+rm -rf /usr/bin/python3
+brew cleanup --prune=all
+brew cleanup --prune
+brew prune
+brew list | grep python
+brew uninstall python@3.9
+brew uninstall python3.9
+./Update\ Shell\ Profile.command
+cat Update\ Shell\ Profile.command
+cd Python\ 3.11/
+which python3.9
+pyenv uninstall python3.9
+pyenv root
+python version-name
+brew install pyenv
+sudo find / -path "/*" -name "*python3.9*"
+find / -path "/*" -name "*python3.9*"
+find  python3.9 /
+find -r python3.9 /
+cd /Library/Frameworks/Python.framework/
+chmod -R 777 ./nvim
+mkdir /user
+mkdir /user/
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+
+rm -rf nvim
+cd .cache/
+cd state/
+ls nvim.bak/
+rm -rf ls -la
+fzf --query "python3.9" /
+fzf --query "python3.9"
+/usr/local/bin/python --version
+ls | grep Python
+ls | grep python
+brew autoremove python3.9
+brew autoremove python@3.9
+/usr/bin/python --version
+pip3 list | grep vim
+pip list | grep vim
+python3.11 -m pip install --upgrade pynvim
+pip3.11 install --upgrade pynvim
+pip3.10 install --upgrade pynvim
+pip3.9 install --upgrade pynvim
+python3.11 -m pip  uninstall neovim-sh
+pip3.10 uninstall neovim-sh
+pip3.11 uninstall neovim-sh
+pip3.9 uninstall neovim-sh
+python3.11 -m pip list | grep  vim
+pip3.9 list | grep vim
+pip3.10 list | grep vim
+pip3.9 uninstall pynvim neovim
+pip3.10 uninstall neovim pynvim
+pip uninstall neovim pynvim
+python3.11 -m pip install -U pynvim
+python3 -m pip install -U pynvim
+pip3.10 install -U pynvim
+pip3.9 install -U pynvim
+pip3.9 install pynvim
+pip3.10 install pynvim
+python3 -m pip install pynvim
+pip --versio
+cd lib
+ls share/ | grep pip
+ls share/ | grep python
+ls sbin/ | grep pip
+ls sbin/ | grep python
+ls sbin/
+nvim ./local/bin/pip3.9
+nvim ./local/bin/pip3
+file ./local/bin/pip3
+./local/bin/python --version
+./local/bin/python3 --version
+file ./local/bin/python3
+./local/bin/pip3.11 --version
+./local/bin/pip3 --version
+./local/bin/pip3.9 --version
+ls local/bin/
+ls local/
+ls libexec/ | grep python
+ls libexec/
+ls lib
+file python3
+cd /usr/bin/
+/usr/local/bin/python3 --version
+pip3.9 install neovim
+python3.10 -m pip install neovim
+python3.11 -m pip install neovim
+python3 -m pip install neovim
+cd .config/nvim/lua/astronvim/
+brew search btm
+brew install lazygit
+brew search lazygit
+alias ch='cht.sh' --save
+nvim ../../../../../.bin/sz.py
+cat utils/init.lua
+cat options.lua
+cat lazy_snapshot.lua
+cat pythonAutoComp.lua
+python3.11 -m pip install -r 3115requirements.txt --upgrade
+python3.11 -m pip install -r 3115requirements.txt -U
+pip install --help | grep upgrade
+cat 3115requirements.txt
+cat 311requirements.txt
+python3.11 -m pip list --outdated
+python3.11 -m pip freeze > 3115requirements.txt
+rm -rf 3115requirements.txt
+pip3.10 list --outdated
+pip3.10 install -U numpy Pillow setuptools typing_extensions
+pip3.11 list --outdated
+pip3.9 list --outdated
+pip3.9 install -U altgraph future macholib numpy openai Pillow setuptools typing_extensions wheel six
+pip3.9 install -U altograph future macholib numpy openai Pillow setuptools typing_extensions wheel six
+pip3.9 install -r requirements.txt --upgrade
+pip3.9 freeze > 39requirements.txt
+rm -rf 39requirements.txt
+cat 39requirements.txt
+pip3.9 list --outdated | pip freeze >39requirements.txt
+pip3.9 list --oudated | pip freeze >39requirements.txt
+pip3.9 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3.9 install -U
+pip3.9 list --outdated --format=freeze > 39requirements.txt
+rm -rf 399requirements.txt
+pip3.9 install -U --help
+diff 39requirements.txt 3115requirements.txt
+python3.11 -m pip install -U requests
+pip3.9 install -U requests
+pip3.9 uninstall tiny
+pip3.9 remove tiny
+pip3.9 install -U tinygrad
+pip3.9 --version
+python3.11 -m pip install -U tinygrad
+pip3.11 list | grep tiny
+pip3.11 install tiny
+diff --side-by-side 39requirements.txt 3115requirements.txt
+python3.11 -m pip list | grep Token
+python3.11 -m pip install -U Token
+pip3.11 install Token
+pip3.9 list | grep Token
+pip3.9 list | grep token
+python3.11 -m pip install -U urllib3
+python3.11 -m pip -U urllib3
+diff 310requirements.txt 3115requirements.txt
+diff --side-by-side 39requirements.txt 310requirements.txt
+diff --side-by-side 39requirements.txt 399requirements.txt
+diff 39requirements.txt 399requirements.txt
+pip3.9 freeze > 399requirements.txt
+pip3.10 freeze > 310requirements.txt
+pip3.11 freeze > 39requirements.txt
+pip3.10 --version
+python3.10 -m pip --version
+python3 -m pip --version
+python -m pip --version
+cat README.md | grep lua
+cd 0.9.2/
+cd openvino/
+cd Cellar/
+ls lib/lua/5.4/
+ls lib/lua
+ls lib/lua | grep lua
+ls lib | grep lua
+ls lib | grep vim
+ls etc/ | grep vim
+ls completions/ | grep vim
+ls Frameworks/ | grep vim
+ls Cellar/ | grep vim
+ls Cellar/ | grep lua
+ls Cellar/ | grep nvim
+ls Caskroom | grep nvim
+ls Caskroom/ | grep nvim
+which nvim
+sudo mv vim ./.vim
+mv vim ./.vim
+mv nvim.bak ./.nvim.bak
+ls -la nvim.bak/
+ls -la vim/
+ls vim/
+cd ./.config/
+cd ./.con
+nvim lofi_music_bot_discord.py
+touch lofi_music_bot_discord.py
+nvim tokens.txt
+touch tokens.txt
+pip install -U pip
+pip install -U virtualenv
+pip list | grep env
+pip install -U youtube-dl
+pip install --help | grep U
+pip install --help | grep -U
+pip install --help
+pip install -U discord-py
+cd musicbot_lofi/
+mkdir musicbot_lofi
+cd discord/
+mkdir discord
+cd ./
+jupyter notebook Project\ One\ Jupyter\ Script\ V1-01.ipynb
+rm -rf notes.md
+cat notes.md
+rm -rf Project1/
+mv * ../Project\ One\ Guidelines\ and\ Rubric/
+cd Project1
+cd Project
+mv ~/Downloads/MAT\ 243\ Project\ One\ Summary\ Report\ Template.docx .
+sudo nvim ../../../.bin/sz.py
+sudo mv objectives ./objectives.md
+nvim objectives
+touch objectives
+cat health.lua
+nvim mappings.lua
+ls caon
+mv lua/plugins/pythonAutoComp.lua .
+nvim pythonAutoComp.lua
+touch pythonAutoComp.lua
+cat cmp.lua
+ls resession/extensions/astronvim.lua
+cat autocmds.lua
+killall -kill Finder
+killall -kill finder
+killall -kill node
+code main.py
+pip install mediapipe
+cd Projects/image_capture_test/
+cat main.py | grep encodings
+python3.10 main.py
+pip3.10 install face-recognition
+pip3.10 install opencv-python
+brew install python@3.10
+sudo nvim main.py
+cd ../Projects/image_capture_test/
+cd ../../Projects/image_capture_test/
+ghidraRun
+sudo nvim ghidraRun
+cd ~/.bin/
+sudo cp ./ghidraRun ../../.bin
+sudo cp ../Repository/ghidra/ghidraRun ~/.bin
+sudo cp ../Repository/ghidra/ghidraRun ~/.bin/
+echo $SCRIPT_DIR
+echo SCRIPT_DIR
+cat ghidraRun
+cd ghidra/
+rm -rf ghidraRun
+./ghidraRun
+sudo cp ../Repository/ghidra/ghidraRun .
+sudo rm -rf ghidra
+rm -rf ghidra/
+mv ../Repository/ghidra_10.3.2_PUBLIC/ ../Repository/ghidra
+cat application.properties
+cd Ghidra/
+cat ghidraRun.bat
+file ghidraRun
+cd ../.bin/
+sudo cp -r ghidra_10.3.2_PUBLIC/ ../.bin/ghidra
+cd ghidra_10.3.2_PUBLIC/
+cd tools/
+cd .ghidra_10.3_PUBLIC/
+cd Users/tyell/.ghidra/
+sudo find . -type d -iname '*ghidra*'
+find . -type d -iname '*ghidra*'
+find root_path -type d -iname '*ghidra*'
+cht.sh find
+man find | grep directory
+find ghidra
+grep ghidra /
+brew uninstall azure-data-studio
+brew info dat
+brew search data
+brew uninstall azuredatastudio
+brew uninstall --help
+brew autoremove azure-data-studio
+brew install azure-data-studio
+brew search dat file
+brew info azure-data-studio
+brew info datalad
+brew info bigdata
+brew search dat
+less shape_predictor_68_face_landmarks.dat
+file shape_predictor_68_face_landmarks.dat
+cat shape_predictor_68_face_landmarks.dat
+binwalk shape_predictor_68_face_landmarks.dat
+sudo cp shape_predictor_68_face_landmarks.dat ./test/
+cht.sh binwalk
+jupyter notebook Module\ Three\ Discussion.ipynb
+cd ../School/MAT243/Module3/Discussion/
+mv Module\ Three\ Discussion.ipynb ../School/MAT243/Module3/Discussion/
+ls | grep Discussion
+cat ../.gitconfig
+ls ../.gitconfig
+cd GitRepository/
+cd ../School/MAT243/module2/discussion2-3/
+rm -rf You_Sweep-Picking-Basics-Exercise-200BPM_v1_m.psarc
+rm -rf You_Sweep-Picking-Basics-Exercise-90BPM_v1_m.psarc
+ls | grep Sweep
+sudo cp ~/RDP/You_Sweep-Picking-Basics-Exercise-200BPM_v1_m.psarc .
+sudo cp ~/RDP/You_Sweep-Picking-Basics-Exercise-90BPM_v1_m.psarc .
+cdclear
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/You_Sweep-Picking-Basics-Exercise-120BPM_v1_DD_m.psarc ./RDP/
+ls ./Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep You
+cd ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+ls JupyterKernels/
+cat fish_plugins
+ls fish_plugins
+zsh .
+ls | grep ls
+rm -rf ls.fish
+cat ls.fish
+cd ../../../.config/fish/
+node --help
+yarn start
+yarn run
+yarn --help
+yarn --ehlp
+yarn start .
+file RocksmithCustomSongToolkit.app/
+cd RocksmithTookitGUI/
+brew install yarn
+code Readme.md
+nvim Readme.md
+sudo cp Mac.tar ../
+cd bundle/
+cd Wwise\ 2021.1.0.7575/
+brew search wwise
+ls ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep sw
+ls ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep sweep
+ls ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep you
+brew info localdev
+brew search local
+brew info localxpose
+brew search localhost
+brew search localhhost
+jupyter notebook *
+cd School/MAT243/module2/discussion2-3/
+chmod +x main.py
+rm -rf main.ipynb
+alias pip3='python -m pip' --save
+alias pip='python -m pip' --save
+python -m pip install face_recognition
+nvim mian.py
+nvim main.
+bunzip2 shape_predictor_68_face_landmarks.dat.bz2
+cd ~/Projects/image_capture_test/
+mv shape_predictor_68_face_landmarks.dat.bz2 ~/Projects/image_capture_test/
+cd /Library/Python/
+pip
+python3.11 -m pip install dlib
+pip install dlib numpy
+jupyter notebook main.ipynb
+cat ../.bin/sz.py
+sudo cp sz.py ../.bin/sz.py
+sz.py Documents/
+sudo mv requirements.txt /
+sz.py /
+sudo cp sz.py ~/.bin/
+rm -rf ../.bin/sz.py
+./sz.py ../
+./sz.py
+ls ../School/MAT243/module2/discussion2-3/
+code sz.py
+sudo nvim sz.py
+../sz.py
+sudo ../sz.py
+sudo nvim ../sz.py
+cd mealTracker/
+sudo ./sz.py
+rm -rf personal/
+mv personal/* .
+mv libraries/ ../Repository/
+mv src/ ../Repository/
+mv *open* ../Repository/
+ls opencv/
+mv leetcode/ personal/
+mv leetcode/
+mv mealTracker/ personal/
+mv image_capture_test/ personal/
+mv ChatGptAssistant/ personal/
+mkdir personal
+cat .bin/sz.py
+cd /home/
+code ./sz.py
+nvim requirements.txt
+sudo nvim init.lua
+pip install glob
+cat ./sz.py
+cat sz.py
+sudo nvim ChatGptAssistant/
+nvim sz.py
+chmod +ux sz.py
+ls -la | grep sz
+python3.11 sz.py
+cd Projects/ChatGptAssistant/
+cat image_capture_test/main.ipynb
+ls image_capture_test/
+cd opencv/
+mv EEA51E9F-FD8A-40D2-A4BF-AEC7E29E090B_1_105_c.jpeg ./family.jpeg
+sudo cp ~/Pictures/EEA51E9F-FD8A-40D2-A4BF-AEC7E29E090B_1_105_c.jpeg .
+mkdir image_capture_test
+sudo make install
+make --help | grep debug
+make --help | grep test
+make --help
+make build --help
+cmake cmake_install.cmake
+cmake install
+pip install opencv-python
+ls /usr/local/
+cmake ../opencv/
+cht.sh cmake
+cmake --help
+mkdir build_opencv
+git clone https://github.com/opencv/opencv_contrib.git
+
+pip install --upgrade numpy
+pip list | grep numpy
+git --version
+jupyter notebook discussion2-3.ipynb
+sudo cp -r .ssh ~/RDP/
+cat id_rsa.pub
+cd ~/.ssh/
+ls ../.ssh/
+ssh Administrator@192.168.1.210
+mv HailToTheKingV11_m.psarc standby/
+mkdir standby
+mv ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/HailToTheKingDDV12_m.psarc .
+rm -rf Avenged-Sevenfold_Hail-To-The-King_v_DD_m.psarc
+cd Project1/
+rm -rf books/
+ls books/
+rm -rf 183178691.zip
+nvim dev
+file dev
+cd plugin/
+cd after/
+nvim packer.lua
+cat packer.lua
+nvim remap.lua
+nvim set.lua
+mv theprimeagen ./skrody
+mv ../Project\ One\ Guidelines\ and\ Rubric/course_documents .
+mv ../Project\ One\ Guidelines\ and\ Rubric/
+ls ../Project\ One\ Guidelines\ and\ Rubric/
+ls Project1
+cd ../School/
+rm -rf Insomnia.Core-2023.2.2.dmg
+rm -rf Discord.dmg
+mv BS_DAN\ Program\ Pathway\ Infographic.pdf ../School/
+open BS_DAN\ Program\ Pathway\ Infographic.pdf
+mv Accessing\ Your\ Learning\ Resource.html ../School/
+mv SNHU\ Sexual\ Misconduct\ Policy.pdf ../School/
+mv Project\ * ../School/MAT243/
+rm -rf Roblox.dmg
+rm -rf vs_BuildTools.exe
+mv ~/Downloads/ttf /Library/Fonts/
+ls cores/
+ls var/folders/
+ls var/
+ls usr/
+ls dev/
+ls ttf/
+rm -rf steam.dmg
+rm -rf python-2.7.17-macosx10.9.pkg
+mv ./new-mat-243-project-one/ ../School/MAT243/Project1/
+mv nbaallelo.csv ../School/MAT243/Project1/
+cat nbaallelo.csv
+rm -rf linuxbasicsforhackers*
+ls ../Books/
+sudo cp linuxbasicsforhackers.pdf ../Books/
+mv ./linuxbasicsforhackers.pdf ~/Books/
+mv linuxbasicsforhackers.pdf ../Books/
+sudo mkdir ../Books
+open linuxbasicsforhackers.pdf
+rm -rf itermfishpath.txt
+rm -rf brewer.*
+rm -rf VirtualBox-7.0.10a-158379-OSX.dmg
+rm -rf UTM.dmg
+mv Trans-Siberian\ Orchestra\ Requiem\ \(The\ Fifth\).gp5 ../RDP/GuitarSheetMusic/
+rm -rf RocksmithTools.dmg
+rm -rf RS*
+rm -rf Install_Mojave.pkg
+rm -rf Happy_Monkey*
+cd Happy_Monkey/
+ls -lah | grep G
+ls init.lua/
+rm -rf SNHU/
+cat SNHU/SNHU/README.md
+ls SNHU/SNHU/
+ls SNHU/
+mv ~/Downloads/HailToTheKingDDV12_m.psarc .
+mv ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Hail-To-The-King_v_DD_m.psarc ~/RDP/
+mv ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Avenged-Sevenfold_Hail-To-The-King_v_DD_m.psarc .
+ls | grep Avenged-Sevenfold_
+nvim guitarpro.sh
+brew install --cask guitar-pro --version 7
+cht.sh brew
+cht.sh brew install
+brew install --help | grep version
+brew install guitar-pro
+brew install ./guitarpro7.rb
+nvim guitarpro7.rb
+brew unisntall guitar-pro
+brew uninstall guitarpro
+sudo ruby guitarpro7.rb
+ruby run
+ruby guitarpro7.rb --verbose
+ls ../Downloads/ | grep guitar
+ruby guitarpro7.rb
+file guitarpro7.rb
+brew install guitarpro7.rb
+ruby run ./guitarpro7.rb
+ruby run guitarpro7.rb
+ls pat
+ls Dev
+rm -rf guitarproreset.workflow
+cd guitarproreset.workflow/
+ls PreferencePanes/
+rm -rf com.arobas-music.guitarpro7.plist
+ls | grep arobas
+cd ~/Library/Preferences/
+crontab -e
+man launchd
+sudo launchd
+/sbin/launchd
+cht.sh launchd
+launchd --help
+crontab 0 0 * * * '/Users/tyell/.bin/guitarpro.sh'
+cd ./.bin/
+crontab 0 0 * * * ~/.bin/guitarpro.sh
+crontab 0 0 * * * /home/tyell/.bin/guitarpro.sh
+mv guitarpro.sh ./.bin/
+cd opt/
+sudo mv guitarpro.sh /
+crontab -h
+crontab --help
+cht.sh crontab
+cht.sh cron
+cron --help
+sudo nvim guitarpro.sh
+touch guitarpro.sh
+cat guitarproreset.workflow/Contents/document.wflow
+cat guitarproreset.workflow/
+mv com.arobas-music.guitarpro* Preferences/
+brew install opencv
+brew search opencv
+ls tutorials/ios/
+ls tutorials/
+ls tools/
+make cmakeLists.txt
+cd doc/
+ls doc/
+cat CMakeLists.txt
+sudo make build
+cd cmake
+brew install vtk -q
+brew install glog
+brew info glog
+brew info vtk
+pip info vtk
+pip install ceres-solver
+brew info opencv
+pip install ffmpeg
+pip install glog
+alias python@3.11='python3' --save
+alias -u python@3.11='python3' --save
+alias -U python@3.11='python3' --save
+nvim sz
+git clone https://github.com/opencv/opencv.git
+pip install opencv
+rm -rf Slipknot_*
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Slipknot_* .
+rm -rf solo/
+ls solo/
+rm -rf Faith\ Noel
+cd Faith\ Noel/
+mv Metallica\ -\ Nothing\ Else\ Matters.gp5 Metallica
+mv Coheed\ \&\ Cambria\ -\ Welcome\ Home.gp5 Coheed_Cambria/
+mv Breaking\ Benjamin\ -\ * BreakingBenjamin/
+mkdir Metallica
+mkdir slipknot
+mkdir Coheed_Cambria
+mkdir BreakingBenjamin
+rm -rf Metallica\ -\ Nothing\ Else\ Matters_DD_m.psarc
+rm -rf Godsmack_*
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Metallica\ -\ Nothing\ Else\ Matters_DD_m.psarc .
+jupyter notebook list
+curl cheat.sh/jupyter
+cht.sh jupyter notebook
+cd discussion2-3/
+mkdir discussion2-3
+cd module2
+mkdir module2
+mv Assignments/ module1/
+mv labs/ module1/
+mv discussions/ ./module1/
+mkdir module1
+cd discussions/
+cat mealDB.csv
+code mealDB.csv
+mv Untitled\ spreadsheet\ -\ DATABASE.csv ./mealDB.csv
+mv ../../Downloads/Untitled\ spreadsheet\ -\ DATABASE.csv .
+cat mealDB.xlsx
+mv mealDB.csv ./mealDB.xlsx
+brew install microsoft-excel
+brew search excel
+file mealDB.csv
+mv mealDB.xlsx mealDB.csv
+mv Ashley\ -\ Workout\ Day\ Plan\ template.xlsx ./mealDB.xlsx
+sudo mv ../../Desktop/Ashley\ -\ Workout\ Day\ Plan\ template.xlsx .
+sudo mv ../../Desktop/Ashley\ -\ Workout\ Day\ Plan\ template.xlsx
+cd ~/Projects/mealTracker/
+sudo nvim /Users/tyell/.jupyter
+pip install jupyterlab
+file jupyter*
+ls | grep jupyter
+cat jupyter
+sudo nvim jupyter
+file jupyter
+cd site-packages/
+cd lib/python3.11
+cat include/jconfig.h
+cat nbconfig/notebook.d/widgetsnbextension.json
+ls nbconfig/notebook.d/
+ls nbconfig/
+nvim notebook_shim.json
+nvim jupyter-lsp-jupyter-server.json
+nvim jupyterlab.json
+nvim *
+cd jupyter_server_config.d/
+sudo nvim jupyter-lsp-notebook.json
+sudo nvim jupyterlab.json
+sudo nvim .
+cd jupyter_notebook_config.d/
+sudo nvim setup.cfg
+cd etc/jupyter/
+ls etc/jupyter/
+which jupyter
+ls Library/Homebrew/ | grep jupyter
+ls Library/Homebrew/
+cat Dockerfile
+ls | grep jupy
+cd lib/
+cd Jupyter\ Notebook\ Viewer.app/
+file Jupyter\ Notebook\ Viewer.app
+file Jupyter\ Notebook\ Viewer.app/
+cd 0.1.5/
+cd Caskroom/jupyter-notebook-viewer/
+cd jupyter-notebook-ql/0.2/
+alias ...="cd ../.."
+file jupyter-notebook-quick-look.qlgenerator/
+cd 0.2/
+cd jupyter-notebook-ql
+mkdir lib
+touch main.c
+mkdir mealTracker
+ls Tools/
+cd EveryThingElse/
+cd Titanfall2/
+cd origin\ games/
+ls Github/
+cd orgingaming/
+cat pvD121-2389423.slc
+cd FulfillmentPackage_20170302083549/
+cat OrderManifest_594704.csv
+ls FulfillmentPackage_20170302083549
+ls Exchange\ Management/SP1/
+ls Exchange\ Management/
+ls Contacts/
+ls Application\ Data/
+cat Thumbs.db
+file Thumbs.db
+cd Tylere/Desktop/
+ls VM/
+ls DO
+cd Music/
+df .
+kf
+ls Templates/
+ls PrintHood/
+cd Syshelp/
+cd Users/
+cd System\ Reserved/
+rm -rf inclue/
+mkdir inclue
+cd ../GitRepository/
+rm -rf tarballs/
+ls tarballs/
+rm -rf install/
+cat install.sh
+cd install/
+cat install/README.md
+ls install/
+rm -rf fish_user_paths_fix.sh
+rm -rf zshPATH.txt
+rm -rf bashPATH.txt
+rm -rf fishPATH.txt
+ls -la books/
+rm -rf PenTesting/
+ls PenTesting/
+ipm dev --help
+ipm open --help
+ipm open ./notes.md
+ipm open notes.md
+touch notes.md
+cd ../School/MAT243/Project1/
+xattr -cr .
+xattr -crd .
+cht.sh xattr
+xattr -cr
+open RocksmithCustomSongToolkit.app
+file RocksmithCustomSongToolkit.app
+sh MakeMacPackage.sh
+cat RunMeFirst.bat
+sh prebuild.sh
+cd /Users/tyell/Repository/Rocksmith/rocksmith-custom-song-toolkit
+ls rocksmith-custom-song-toolkit/
+cd..
+nvim ReadMe.txt
+cd RocksmithToolkit/
+cd rstookit/
+dc RocksmithToolkit/
+python ./bin/psarc.py
+cd rs-utils/
+ls bin
+cd ~/Repository/Rocksmith/rs-utils/
+cd /bin/
+winecfg -v winxp64
+winetricks dotnet35sp1 dotnet40 vcrun2008 vcrun2010
+python2.7 --version
+./Install\ Certificates.command
+cd /Applications/Python\ 2.7/
+sudo nvim Install\ Certificates.command
+sudo nvim Update\ Shell\ Profile.command
+brew install winexe
+brew info winexe
+brew search winexe
+brew search wine64
+file /opt/homebrew/bin/wine
+which wine
+file 'which wine'
+file `which wine`
+/opt/homebrew/bin/wine -v
+wine
+brew search taskset
+brew upgrade wine-stable
+brew upgrade wine
+winetricks
+brew install winetricks
+pip3 list | grep construct
+pip3 install --upgrade construct
+pip3 list | grep docopt
+pip3 install --upgrade docopt
+pip3 list | grep pycrypt
+pip3 install --upgrade pycryptodome
+pip3 list | grep six
+sudo nvim requirements.txt
+pip3 install --upgrade six
+cat req
+pip3 install -r requirements.txt
+pip install --upgrade asttokens
+pip install --upgrade bleach
+pip list | grep six
+pip install --upgrade six
+pip ls
+ls rs-utils/
+ls | grep rock
+rm -rf Rocksmith\ Tools\ Launcher.app
+brew uninstall crossover
+brew install crossover
+brew info crosspack-avr
+brew search crossover
+file drive_c
+cd Rocksmith\ Tools\ Launcher.app/
+pip install pandas
+cat ipython3
+cat ipython
+:clear
+pip install ipython
+pip show ipython
+brew uninstall --ignore-dependencies ipython --verbose
+brew uninstall --ignore-dependencies ipython
+brew uninstall ipython
+cd /usr/local/
+pip search ipython
+pip install ipython3
+sudo nvim ipython
+cd 8.14.0/
+cd ipython/
+sudo nvim pip
+ls | grep pyton
+sudo nvim ipython3
+file ipython
+brew uninstall --ignore-dependencies python@3.11
+brew uninstall --ignore-dependenciespython@3.11
+brew uninstall python@3.11
+brew uninstall python3.11
+ls bin/ | grep py
+brew remove python3.11
+alias pip='pip3' --save
+/opt/homebrew/bin/pip3 list
+/opt/homebrew/bin/pip freeze >> requirements.txt
+/opt/homebrew/bin/pip freeze
+/opt/homebrew/bin/pip --help
+/opt/homebrew/bin/pip list
+claer
+which Python3
+pip3.11 install pandas
+pip3 install pandas
+mv rent.csv.1 ./rent.csv
+rm -rf rent.csv
+cat rent.csv.1
+wget "http://data-analytics.zybooks.com/rent.csv"
+cat rent.csv
+curl -O 'http://data-analytics.zybooks.com/rent.csv'
+cat Module\ One\ Discussion.ipynb
+cd School/MAT243/discussions/1-5/
+jupyter notebook zybooksLab.ipynb
+touch zybooksLab.ipynb
+ls ../discussions/1-5/
+ls ../discussions/
+cd ~/School/MAT243/labs/
+pip install -r requirements.txt --upgrade
+pip install typing_extensions
+pip uninstall typing_extensions
+pip install pyyaml
+pip uninstall pyyaml
+pip uninstall pyxaml
+pip uninstall yaml
+pip install pygments
+pip uninstall pygments
+pip list --outdated | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
+pip list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip install -U
+pip list --outdated
+pip help install
+pip help install upgrade
+python3.11 -m pip install --upgrade
+python3.11 -m pip install --upgrade *
+pip check
+pip install cffi
+python3.11 -m pip install --upgrade Quandl
+pip install pillow
+rm -rf jupyter_cpp_kernel-1.0.0a3-py3.11.egg/
+rm -rf six-1.16.0-py3.11.egg-info/
+rm -rf pycparser-2.21-py3.11.egg-info/
+rm -rf numpy-1.25.2-py3.11.egg-info/
+rm -rf docutils-0.20.1-py3.11.egg-info/
+rm -rf cffi-1.15.1-py3.11.egg-info/
+rm -rf Pillow-10.0.0-py3.11.egg-info
+ls | grep egg > rm -rf $_
+ls | grep egg > rm -rf $_.
+ls | grep egg > rm -rf
+ls | grep egg
+ls | grep egg | rm -rf
+ls | grep Wifite
+ls | grep wifite
+ls | grep wifie
+cd python3.11/site-packages/
+pip uninstall wifite
+pip install certifi
+lds
+rm -rf certifi-2023.7.22-py3.11.egg-info/
+la | grep certifi
+cd /opt/homebrew/lib/python3.11/site-packages/certifi-2023.7.22-py3.11.egg-info
+python3.11 -m pip uninstall certifi
+python -V
+pip uninstall certifi
+pip remove certifi
+mv Coheed\ \&\ Cambria\ -\ Welcome\ Home.gp5 GuitarSheetMusic/
+rm -rf ATS.patch
+close
+nmap -T4 -F 192.168.1.210
+sudo killall -kill zenmap.bin
+killall -kill zenmap.bin
+cht.sh killall
+kill -s 89099
+kill --help
+killall --help
+killall zenmap
+nmap -T4 -F 192.168.1.1-255
+nmap -sn 192.168.1.1-255
+fish_add_path -U --save  /opt/homebrew/bin/
+fish_add_path -u /opt/homebrew/bin/
+which nmap
+brew install nmap
+brew install zenmap
+brew search nmap
+nvim Module\ One\ Discussion.ipynb
+mv ~/.cache/nvim ~/.cache/nvim.bak
+
+
+mv ~/.local/state/nvim ~/.local/state/nvim.bak
+
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+
+mv ~/.config/nvim ~/.config/nvim.bak
+sudo rm -rf ./.nvim
+rm -rf .nvim/
+nvim --version
+ping 192.168.1.210:3389
+ping 192.168.1.210:3390
+pip install cython
+brew config
+brew remove only-switch
+brew uninstall only-switch
+brew uninstall one-switch
+hto
+CAT discussion.txt
+cd ./School/MAT243/discussions/1-5/
+jupyter notebook Module\ One\ Discussion.ipynb
+mv Module\ One\ Discussion.ipynb ./School/MAT243/discussions/1-5/
+jupyter notebook Mod1-5.ipynb
+sudo cp Module\ One\ Discussion.html ./Mod1-5.ipynb
+jupyter notebook Module\ One\ Discussion.html
+cd School/MAT243/discussions/1
+mv Module\ One\ Discussion.html ./School/MAT243/discussions/1-5/
+ifconfig | grep -M -o '^[^\t:]+:([^\n]|\n\t)*status: active'
+jupyter notebook Mod1.ipynb
+cd mod1lab/
+brew install only-switch
+cd pat/config/
+pat config get -k *
+pat config get
+pat config
+pat version
+pat help
+pat where
+fishPath < fishPath.txt
+cat fishPath.txt
+cat fishPath.txt | sort --help
+cat fishPath.txt | sort asc
+echo $PATH | tr " " "\n" >> fishPath.txt
+echo $PATH | tr " " "\n"
+go run .
+brew info vcs
+brew search vcs
+sudo brew search vcs
+sudo brew vcs
+which make
+sudo nvim ../README.md
+cd pat/
+cd ../../GitRepository/
+nvim ../README.md
+cd config/
+cd completions/
+cd completions/p
+git clone https://github.com/metafates/pat.git
+pip install quandl
+pip install seaborn
+pip install seaboarn
+pip install scipy
+jupyter notebook init
+mkdir mod1lab
+cd labs
+mkdir labs
+mkdir Assignments
+cd ~/School/MAT243/
+sudo nvim
+cd ~/School/MAT243/discussions/1-5/
+cd Craftzdog/
+cat .inputrc
+cat .gvimrc
+cd .. cd ..
+cd syntax/
+cd .vim/
+cd dotfiles/
+file subl
+cd init/
+cat .vimrc
+cat .vim
+cd mathiasbynens/
+cd .local/share/nvim/
+cd vim/
+man tr
+tr --help
+cd 1-5/
+mkdir 1-5
+mkdir discussions
+mkdir MAT243
+sudo xcode-select -s /Applications/Xcode.app/Contents/Developer
+./configure && make
+./configure --enable-cxx && make
+./configure --enable-cxx --enable-debug-output && make
+./configure --enable-cxx --enable-mac-debug --enable-debug-output && make
+cd portaudio/
+git clone https://git.assembla.com/portaudio.git
+
+brew install portaudio
+rm -rf portaudio
+dotnet --list-runtimes
+dotnet --list-sdks --list-runtimes
+dotnet --help
+dotnet ./pa_devs.c
+dotnet pa_devs.c
+./missing automake
+./missing autoconf
+./missing --help
+./missing
+./config.guess
+./config.status
+cd cmake/portaudio/
+ls cmake
+./libtool --help --mode=install
+./libtool install
+./libtool --help
+./libtool
+file libportaudio.la
+make docs
+sudo make uninstall
+cd bindings/cpp/
+ls bindings/cpp/
+ls bindings/
+nvim bin-stamp
+file ./bin-stamp
+file bin-stamp
+./pa_devs
+cd bin
+cd libraries/portaudio/
+grep -R "Pa_Initialize()" .
+grep -R "Pa_Initialize();" .
+cd ../../ChatGptAssistant/
+grep -R "Pa_Initialize()" ./
+grep -R "Pa_Initialized()" ./
+grep -R "Pa_Initialized()" .
+grep "Pa_Initialized()" .
+grep "Pa_Initialized()"
+grep "Pa_Initialized()" ./
+fzf --query "Pa_Initialize()"
+cd Projects/libraries/
+python sz.py
+fzf --query Pa_Initialize()
+sudo cp * ../../../ChatGptAssistant/include/portaudio/
+mkdir portaudio
+cat install-sh
+make
+make clean
+brew search autoconf
+brew search build
+./configure --enable-cxx --enable-mac-debug --enable-debug-output
+./configure --enable-cxx --enable-mac-debug --enable-debug-ouput
+./configure --help
+./configure
+cmake CMakeLists.txt
+tar -xvf pa_stable_v190700_20210406.tar
+mv ../../Downloads/pa_stable_* .
+mkdir libraries
+fzf --query Python.h
+g++ main.cpp -o main -I./include -L/opt/homebrew/Cellar/curl/8.2.1/lib -lcurl -std=c++17
+cat main.cpp
+rm -rf main
+code main.cpp
+sudo nvim main.cpp
+curl https://api.openai.com/v1/models -H "Authorization: Bearer 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" | grep turbo
+curl https://api.openai.com/v1/models -H "Authorization: Bearer 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" | grep id >> models.log
+curl https://api.openai.com/v1/models -H "Authorization: Bearer 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" | grep id
+curl https://api.openai.com/v1/models -H "Authorization: Bearer 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"
+$OPENAI_API_KEY = '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'
+
+
+curl https://api.openai.com/v1/models -H "Authorization: Bearer $OPENAI_API_KEY"
+cat ../openAIAPIkey.txt
+curl -X GET https://api.openai.com/v1/models
+curl -X POST https://api.openai.com/v1/models
+curl -X POST get https://api.openai.com/v1/models
+curl -x POST get https://api.openai.com/v1/models
+curl -x POST https://api.openai.com/v1/models
+curl -h
+curl -post 'GET https://api.openai.com/v1/models'
+sudo nvim main
+g++ main.cpp -o main -I./include -L/opt/homebrew/Cellar/curl/8.2.1/lib -lcurl -std=c++14
+rm -rf models.log
+cat models.log
+cd ../Projects/ChatGptAssistant/
+cd ../.config/nvim/
+cat after/plugin/colorizer.rc.lua
+ls after/plugin/
+brew search clang
+echo $PACKPATH
+cd .bin
+cd go/
+mkdir go
+echo $PATH | tr " " "\n" | nl
+fish_add_path -u /Users/tyell/.config/
+fish_add_path -u /Users/tyell/.bin
+fish_add_path --help
+fish_add_path /Users/tyell/.bin
+mkdir ./.bin
+fish_add_path /Users/tyell/.config/
+rm -rf guitarpro
+rm -rf guitarpro7-soundbanks-full.pkg/
+rm -rf guitarpro.pkg
+rm -rf Resources/
+rm -rf Distribution
+gzip --list payload.gzip
+gzip --list Payload
+gzip --decompress payload.gzip --force
+gzip --help
+gzip -d payload.gzip
+sudo cp Payload ./payload.gzip
+file Payload
+gzip -d Payload
+cht.sh gzip
+cd guitarpro.pkg/
+ls - la
+cat Localizable.strings
+file Localizable.strings
+cd en.lproj/
+cat Bom
+cat PackageInfo
+cat Distribution
+xar -xf guitar-pro-7-setup.pkg
+mv ../../Downloads/guitar-pro-7-setup.pkg .
+cd guitarpro/
+mkdir guitarpro
+code guitarpro7.rb
+touch guitarpro7.rb
+cd ../Repository/Rocksmith/
+mv *m.psarc ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+sudo mv  ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Nirvana_Lithium_v1_DD_m.psarc ~/Library/Application\ Support/Steam/steamapps/common
+open ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+ls | grep psarc | count
+rm -rf Coheed-\&-Cambria_Welcome-Home_DD_v1_2_m.psarc
+sudo chmod +x main
+python ../sz.py
+g++ main.cpp -o main -I./include -L/opt/homebrew/Cellar/curl/8.2.1/lib -lcurl -std=c++11
+
+g++ main.cpp -o main -I./include -L/opt/homebrew/Cellar/curl/8.2.1/lib -lcurl
+ls /opt/
+ls /opt/curl/
+which curl
+brew search curl
+brew search curl-openssl
+brew search libcurl
+brew search libcurl4-openssl
+brew search libcurl4-openssl-dev
+sudo g++ main.cpp  -o main
+g++ main.cpp -I./include/ -o main
+g++ main.cpp -I./include/nlohmann -o main
+g++ main.cpp -I./include/nlohman -o main
+g++ main.cpp -I./include -o main
+g++ main.cpp -o main
+cat openAIAPIkey.txt
+sudo nvim ../main.cpp
+g++ ../main.cpp -std=c++11 -I../include -o ../main
+g++ ../main.cpp -std=c++14 -I../include -o ../main
+ls nlohmann/
+g++ ../main.cpp -std=c++14 -I./nlohmann -o ../main
+cht.sh g++
+brew search "c++"
+brew search c++14
+g++ --help
+g++ main.cpp -o main >> build.log
+rm -rf build.log
+cht.sh cpp/:list
+cht.sh cpp
+cpp --help
+g++ main.cpp -I./include -o main >> build.log
+sudo nvim nlohmann/json.hpp
+cd in
+tree-sitter generate --help
+tree-sitter generate ChatGptAssistant
+tree-sitter generate
+tree-sitter test
+nvim config.json
+cd ~/Library/Application\ Support/tree-sitter/
+tree-sitter init-config
+tree-sitter --
+tree-sitter --h
+brew remove as-tree
+cht.sh as-tree
+as-tree ChatGptAssistant
+as-tree ChatGptAssistant/main.cpp
+as-tree --color=auto ChatGptAssistant/main.cpp
+as-tree --color ChatGptAssistant/main.cpp
+as-tree --color ChatGptAssistant/
+as-tree --color ChatGptAssistant
+ls | as-tree --color
+as-tree -h
+brew install as-tree
+brew info treecc
+brew info as-tree
+brew search tree
+rm -rf node_modules
+rm -rf package.json
+rm -rf package-lock.json
+cat package-lock.json
+cat package
+sudo rm -rf nlohmann/
+rm -rf nlohmann/
+g++ ./main.cpp -I./include -o main
+cd nlohmann/
+sudo nvim json.hpp
+g++ ./main.cpp  -o main
+chmod 777 adl_serializer.hpp
+cat json_fwd.hpp
+g++ ./main.cpp -I./include/nlohmann -o main
+cd include/nlohmann/
+ls include/nlohmann/
+nvim json.hpp
+nvim include/nlohmann/json.hpp
+g++ ./main.cpp -o main
+rm -rf json.hpp
+g++ ./main.cpp -o ./main
+sudo cp -r include/nlohmann .
+sudo cp include/nlohmann/json.hpp .
+g++ ./main.cpp -o ./main -I/Users/tyell/Projects/ChatGptAssistant/include/nlohmann/json.hpp
+g++ ./main.cpp -o ./main -I/Users/tyell/Projects/ChatGptAssistant/include/nlohmann
+cd ~/Projects/ChatGptAssistant/
+cd ~/Projects/c
+sudo cp -r nlohmann ~/Projects/ChatGptAssistant/include/
+file nlohmann
+fzf --query json
+cd opt/homebrew/
+brew --config
+fzf --query nlohmann
+fzf --query nlohmann /
+g++ main.cpp -o main -lcurl
+cd components/
+cd core/
+ls core/
+g++ ./main.cpp -o ./main -I/Users/tyell/Projects/ChatGptAssistant/json/single_include/nlohmann
+grep "nlohmann"
+grep "nlohmann" /
+brew search nlohmann
+g++ ./main.cpp -o ./main -I /Users/tyell/Projects/ChatGptAssistant/json/single_include/nlohmann
+g++ ./main.cpp -o ./main -I /Users/tyell/Projects/ChatGptAssistant/json/single_include/nlohmann -vA
+cat build.log | grep json
+cat build.log
+history --show-time | grep -B 1 'main' >> build.log
+history --show-time | grep -B 1 'main'
+history --show-time
+history --show-time | grep "main"
+history --showtime | grep "main"
+history -t | grep "main"
+history --help
+history | grep "main"
+history
+fish_is_root_user $USER
+echo $USER
+$USER
+fish_is_root_user --help
+fish_is_root_user
+functions | string split ' '
+functions
+ls leetcode/
+sudo cp ChatGptAssistant/sz.py .
+cd ../GitRepository/tinygrad/
+brew search nvim packer
+code
+man cmake
+brew update | brew upgrade -y
+cht.sh sh
+rm -rf UTM.app
+rm -rf VirtualBox.pkg
+open VirtualBox.pkg
+sudo cp VirtualBox_Uninstall.tool ~/Documents/VirtualBox/
+sudo cp UserManual.pdf ~/Documents/VirtualBox/
+mkdir ~/Documents/VirtualBox
+cd VirtualBox/
+sudo umount /Volumes/UTM
+ cd /Volumes/
+rm -rf Parrot-security-5.3_arm64.utm/
+rm -rf Parrot-home-5.3_arm64.utm/
+rm -rf ALFA_Wireless_Installer\(Mojave\).dmg
+ls Data/
+cd Parrot-security-5.3_arm64.utm/
+sudo diskutil umount /Volumes/parrot
+cd ~/School/IT145/
+ls Untitled/
+sudo diskutil umount /Volumes/Backup
+la Documents/
+cd FileHistory/Administrator/DESKTOP-OMH0RUK/Configuration/
+sudo diskutil umount /Volumes/Untitled
+sudo diskutil umount /Volumes/NO\ NAME
+cat bootia32.efi
+cd boot/
+cd EFI/
+cat grub.cfg
+cd grub/
+cat .fseventsd/fseventsd-uuid
+cat .fseventsd/
+sudo diskutil umount /Volumes/steamrip
+sudo umount /Volumes/steamrip/
+umount /Volumes/steamrip
+cd steamrip/
+lh
+cd ~/.config/fish/
+funcsave la
+alias la 'ls -lAh'
+funcsave ls
+alias ls 'ls -lsh'
+ls -lA
+rm -rf la.fish
+alias ls 'ls -lh'
+nvim ls.fish
+alias ls 'ls -h'
+cat ll.fish
+cat ll
+cat la.fish
+alias la 'ls -Ah'
+cht.sh fish funcsave
+which functions
+funcsave --help
+functions | grep function
+functions -n | grep function
+functions -n
+cht.sh fish functions
+cht.sh functions
+functions --name "ll"
+functions --name ll
+functions -n "l*"
+functions --help
+functions --query ll
+functions -q l
+functions -q l*
+functions | string split ''
+sudo nvim ../../.config/nvim/init.lua
+sudo nvim ~/.config/nvim/lua/skrody/init.lua
+cat ../../.config/nvim/init.lua
+nvim ~/.config/nvim/lua/skrody/init.lua
+sudo cp sz.py ~/Projects/ChatGptAssistant/
+python --verison
+pip lists
+alias --save pip3 'pip3.11'
+alias --save pip 'pip3.11'
+cd ~/GitRepository/tinygrad
+cd tinygrad
+cd ~/GitRepository/
+cd openai/
+cd node_modules/
+ls include/components/
+la include/components/
+la include/core/
+mv Inkdrop.app /Applications/
+nvim notes.md
+touch notes.txt
+mkdir ImportantPapers
+mkdir Discussions
+cd IT145/
+mkdir IT145
+mkdir School
+grep "Arob" .
+grep "Arob"
+rm -rf guitarpro8/
+sudo cp -r rocksmith-custom-song-toolkit ~/RDP/
+grep --recursive --line-number --binary-files=without-match "gp5" .
+nvim Resources.resx
+sudo cp Resources.resx ./.Resourses.resx.bak
+cd RocksmithToolkitLib/Properties/
+cd Repository/Rocksmith/rocksmith-custom-song-toolkit/RocksmithTookitGUI/
+cd Properties/
+sudo mv ./.CDLC2Gp5.cs.bak ../../../
+cd CDLC2Tab/
+cd /Users/tyell/Repository/Rocksmith/rocksmith-custom-song-toolkit/RocksmithTookitGUI/CDLC2Tab
+RocksmithTookitGUI/
+cd Repository/Rocksmith/
+cht.sh fgrep
+code CDLC2Gp8.cs
+sudo nvim CDLC2Gp8.cs
+rm -rf CDLC2Gp5.cs
+sudo cp CDLC2Gp5.cs ./CDLC2Gp8.cs
+sudo cp ./CDLC2Gp5.cs ./.CDLC2Gp5.cs.bak
+cd RocksmithTookitGUI/CDLC2Tab/
+sudo cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/Coheed-\&-Cambria_Welcome-Home_DD_v1_2_m.psarc .
+ls ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep Welcome
+ls ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep Welocme
+nvim models.log
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer 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" >> models.log
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer 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"
+curl https://api.openai.com/v1/models \
+  -H "Authorization: Bearer $OPENAI_API_KEY"
+
+alias OPENAI_API_KEY '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'
+$OPENAI_API_KEY = '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'
+nvim openAIAPIkey.txt
+touch openAIAPIkey.txt
+npm install openai@^4.0.0
+mkdir components
+mkdir core
+touch main.cpp
+g++ ./main.cpp -o ./main.exe -std=c++11 -v
+brew search c++
+g++ main.cpp -o main.exe -v
+sudo code ./include/core/nlohmann/json.hpp
+sudo nvim ./include/core/nlohmann/json.hpp
+sudo nvim ./include/core/response.h
+nvim core/response.cpp
+sudo cp -r ../nlohmann .
+nvim response.h
+cat * | grep '#include'
+cd include/components/
+sudo mv json* nlohmann/
+mv json* nlohmann/
+ll nlohmann/
+ll include/
+./main.cpp
+sudo chmod 755 ChatGptAssistant/*
+sudo mkdir nlohmann
+mkdir nlohmann
+sudo rm -rf ./nlohmann
+sudo cp -r nlohmann/ include/
+cd ./Projects/ChatGptAssistant/
+g++ ./main.cpp -o ./main.exe -v
+sudo cp -r nlohmann ../../
+g++ --help | grep -I
+g++ -h
+g++ ./main.cpp -o ./main.exe -I /Users/tyell/Projects/ChatGptAssistant/json/single_include/nlohmann -v
+g++ ./main.cpp -o ./main.exe -I/Users/tyell/Projects/ChatGptAssistant/json/single_include/nlohmann -v
+cd single_include/
+cd json/
+g++ ./main.cpp -o ./main.exe -I/opt/homebrew
+sudo cmake .. -DJSON_BuildTests=O
+mkdir build
+'''sh
+$ mkdir build
+$ cd build
+$ cmake .. -DJSON_BuildTests=On
+$ cmake --build .
+$ ctest --output-on-failure'''
+cd /opt/homebrew/Cellar/nlohmann-json/3.11.2
+g++ ./main.cpp -o ./main.exe -I/opt/homebrew/Cellar/nlohmann-json
+brew install nlohmann-json
+brew search nlohmann-json
+sudo nvim ll.fish
+sudo nvim config-osx.fish
+cat fish_variables
+ls -lAh
+cat config.fish
+cht.sh alias
+/usr/bin/alias -h
+which alias
+alias ll 'ls -lah' --save
+alias
+ls -lh
+cd /opt/homebrew/Cellar/fish/3.6.1/share/fish/
+cat fd.fish
+cat brew.fish
+cd /opt/homebrew/share/fish/vendor_completions.d/
+cd /Users/tyell/.local/share/fish/
+cd /opt/homebrew/etc/fish/
+cd /opt/homebrew/etc/fish/functions
+cd /Users/tyell/.config/fish/functions
+echo $fish_function_path
+echo $FISH_FUNCTION_PATH
+fish_function_path
+alias vi 'nvim' --save
+alias vi 'nvim'
+alias ll 'ls -lah'
+cd /Volumes/Hopper\ Disassembler/
+file fc007554983b537*
+file fc007554983b537
+sudo cp -r fc007554983b537* ~/Desktop/
+cd .fseventsd/
+cd Hopper\ Disassembler/
+brew uninstall gdbgui
+brew autoremove gdbgui
+brew install gdbgui
+brew search dbg
+brew search osxdbg
+nvim Info.plist
+alias --save ll='ls -lah'
+ls la
+cd /Applications/AI\ Chat\ Bot.app/Contents/
+nivm
+brew search openai
+brew info vincelwt-chatgpt
+brew info chatty
+brew search chatgpt
+brew install cuda-z
+brew info cuda-z
+brew info coda
+brew info cuba
+brew search cuda
+ssh -vvv tyell@192.168.1.210
+zip -r .nvim.zip ./.nvim
+la .nvim/
+cht.sh zip
+zip -h
+zip .nvim/ nvim.zip
+zip .nvim/
+sftp --help
+sftp tellis@192.168.1.101
+sftp -h
+sudo cp -r ./nvim ./.nvim
+cat TEST
+rm -rf ATS_Train_Logs.Log
+umount /Volumes/DevUtils
+umount --help
+mount -d DevUtils/
+mount --help
+python -m pip install --upgrade pip
+ls | grep dev
+ls | grep Dev
+ls | grep Tony
+ls | grep tony
+rm -rf Preferences/tonyapp.devutils.plist
+ls Preferences/
+cd /Users/tyell/Library/Application\ Support/
+la ProApps/
+ls ProApps/
+nvim DevUtils
+nvim EnterLicenseViewController.nib
+ls -la | grep License
+ls -la | grep Demo
+ls -la | grep demo
+ls -la | grep trial
+ll Resources/
+cd LoginItems/DevUtilsLauncher.app/Contents/
+cd DevUtilsLauncher.app/
+cd LoginItems/
+file DiffMatchPatch.framework/Resources/
+nvim DiffMatchPatch.framework/DiffMatchPatch
+nvi DiffMatchPatch.framework/DiffMatchPatch
+file DiffMatchPatch.framework/*
+la DiffMatchPatch.framework/
+nvim PkgInfo
+file PkgInfo
+cd DevUtils/DevUtils.app/Contents/
+la _CodeSignature/CodeResources
+ls _CodeSignature/CodeResources
+ls _CodeSignature/
+cd DevUtils.app/
+file Applications/
+open dmg-background.tiff
+cd .background/
+cd /Volumes/DevUtils/
+mkdir DevUtils
+cht.sh mount dmg
+cht.sh mount
+ls -la | grep Dev
+brew info devutils
+alias --save python3='python3.11'
+alias --save python='python3'
+help --help
+help alias defining-aliases
+help 'defining-aliases' alias
+help 'defining-aliases'
+sudo alias --save python='python3'
+sudo alias python='python3' --save
+which python3.22
+nvim fish_Path.txt
+echo $PATH >> fish_Path.txt
+cd of_v0.11.2_osx_release/
+cd Utilities/
+brew install python@3.11
+pip install -r ./requires.txt
+python3 benchmark_train_efficientnet.py
+./compile.sh
+ls util/
+nvim README
+cd adreno/
+cd disassemblers/
+cd GitRepository/tinygrad
+brew install --cask github
+brew install --cask githubpulse
+nvim Discussion1.md
+touch Discussion1.md
+rm -rf Discussion1.md
+rm -rf Discussion1.txt
+touch Discussion1.txt
+rm -rf Discussion1
+touch Discussion1
+cd Discussions/
+mkdir Books
+cd SNHU/
+mkdir SNHU
+nvim ATS_Train_Logs.Log
+touch ATS_Train_Logs.Log
+brew info --cask gitup
+brew info --cask githubpulse
+brew info --cask github
+brew remove gitui
+brew search github
+gitui --help
+brew install gitui
+brew info gitui
+brew info gitup
+brew info github-release
+brew info github-markdown-toc
+github-keygen --help
+github-keygen
+brew install github-keygen
+brew info github-keygen
+brew search calc
+brew
+brew search calc | brew info $_.
+brew search calc | brew info $_
+$calculators
+set calculators 'brew search calc'
+set calculators='brew search calc'
+echo $calculators
+echo calculators
+calculators= brew search calc
+$calculators = brew search calc
+brew search calc | brew info
+brew info calcurse
+brew search calculator
+brew info calcservice
+brew search --cask calc
+brew search --cask calculator
+cd /opt/homebrew/Cellar/curlcpp/3.1/
+which curlcpp
+brew install curlcpp
+brew info curlcpp
+sudo cp -r ../../json .
+cd liboai/
+nvim CMakeCache.txt
+nvim CMakeLists.txt
+cd liboai/liboai/
+vim CMakeLists.txt
+diff CMakeCache.txt CMakeLists.txt
+nvim CMake
+dc ~/Projects/ChatGptAssistant/
+rm -rf build/
+cmake ./cmake
+cmake cmake
+cmake cmake/
+cmake Makefile
+cmake
+git clone https://github.com/nlohmann/json.git
+lsl
+brew autoremove
+brew autoclean
+cat *
+cat .
+cd notebook.d/
+cd nbconfig/
+cd /opt/homebrew/etc/jupyter/
+sudo cp -r jupyter-powershell/ /opt/homebrew/etc/jupyter/
+sudo cp -r jupyter-cpp-kernel /opt/homebrew/etc/jupyter/
+cd JupyterKernels/
+brew install cmake
+nvim liboai/README.md
+fzf --query json.hpp
+fzf --query
+g++ ~/Projects/ChatGptAssistant/main.cpp -o ~/Projects/ChatGptAssistant/exe -v
+sudo cp -r ~/RDP/steam_profiles/536B726F6479 .
+rm -rf 536B726F6479
+cd steam_profiles
+cd ~/RDP/steam_profiles/536B726F6479/
+cd 536B726F6479/
+cd .steam_profiles.back/
+cd "/Users/tyell/Library/Application Support/American Truck Simulator"
+diff -qr ./536B726F6479 ~/RDP/steam_profiles/536B726F6479
+diff -ur ./536B726F6479 ~/RDP/steam_profiles/536B726F6479
+diff -r ./536B726F6479 ~/RDP/steam_profiles/536B726F6479
+patch -s -p0 < ATS.patch
+rm -rf steam_profiles
+sudo cp ATS.patch steam_profiles
+ls steam_profiles
+cd  ~/Library/Application\ Support/American\ Truck\ Simulator/
+cd ATS.patch ~/Library/Application\ Support/American\ Truck\ Simulator/
+sudo cp ATS.patch ~/Library/Application\ Support/American\ Truck\ Simulator/
+diff -Naur ./steam_profiles  "/Users/tyell/Library/Application Support/American Truck Simulator/steam_profiles" > ATS.patch
+diff -Naur "/Users/tyell/Library/Application Support/American Truck Simulator/steam_profiles" ./steam_profiles > ATS.patch
+sudo cp -r steam_profiles ./.steam_profiles.back
+cd ~/Library/Application\ Support/American\ Truck\ Simulator/
+rm -rf ATS.sh
+nvim ATS.sh
+cat ATS.sh
+diff -Naur "/Users/tyell/Library/Application Support/American Truck Simulator/steam_profiles" ./steam_profiles > ATS.sh
+diff -uir ./steam_profiles ~/RDP/steam_profiles
+diff --side-by-side -r ./steam_profiles ~/RDP/steam_profiles
+ls profiles/
+mv ~/RDP/profiles .
+rm -rf profiles/
+ls -lah profiles/
+sudo cp -r ./profiles ~/RDP/
+nvim saved_session_list.sii
+nvim inventory_item_data.sii
+file inventory_item_data.sii
+nvim config.cfg
+nvim config_local.cfg
+cat config_local.cfg
+cd American\ Truck\ Simulator/
+cd Library/Application\ Support/Steam/
+cat azure.h
+g++ ./main.cpp -o ./exe -v
+fzf --query "#include <nlohmann/json.hpp>"
+cat chatassist.log
+g++ ./main.cpp -o ./exe -v > chatassist.log
+nvim chatassist.log
+g++ ./main.cpp -o ./exe >> chatassist.log
+g++ ./main.cpp -o ./exe
+ls components/
+sudo cp -r liboai/liboai/include/liboai.h .
+ls -lah include/
+sudo cp -r liboai/liboai/core .
+sudo cp -r liboai/liboai/include .
+sudo cp -r liboai/liboai/components .
+sudo rm -rf mode*
+sudo rm -rf r*.cpp
+sudo rm -rf n*.cpp
+sudo rm -rf f*.cpp
+sudo rm -rf e*.cpp
+sudo rm -rf i*.cpp
+sudo rm -rf c*.cpp
+sudo rm -rf a*.cpp
+sudo rm -rf *.h
+sudo rm -rf components/
+sudo rm -rf core/
+rm -rf core
+ls liboai/liboai/components/
+ls liboai/liboai/include/
+sudo cp -r liboai/liboai/components/ .
+sudo cp -r liboai/liboai/core/ .
+sudo cp -r liboai/liboai/include/ .
+ls liboai/liboai/
+brew install liboai
+brew install liboai.h
+brew search liboai
+cd documentation/
+git clone https://github.com/D7EAD/liboai.git
+sudo cp ../leetcode/* .
+mkdir ChatGptAssistant
+nvim notes.txt
+mkdir Projects
+nvim ./Cellar/neovim/0.9.1/share/nvim/runtime/
+nvim ./Cellar/neovim/0.9.1/bin/
+nvim ./Cellar/neovim/0.9.1/README.md
+ls -lah ./Cellar/neovim/0.9.1/
+ls -lah ./Cellar/neovim/
+ls -lah Cellar | grep vim
+ls -lah Cellar/
+ls -lah .git/hooks/
+file .git/*
+nvim .git/index
+nvim .git/ORIG_HEAD
+nvim .git/HEAD
+nvim .git/config
+ls .git
+nvim .editorconfig
+ls .devcontainer/
+ls -lah | grep brew
+which brew
+nvim +Tutor
+nvim tutor
+nvim Tutor
+nvim tutuer
+sudo nvim fish_user_paths_fix.sh
+nvim -e
+nvim -E
+file init.lua/
+cat Properties/AssemblyInfo.cs
+ls Properties/
+nvim ShellLinkNative.cs
+cd CreateToolkitShortcut/
+nvim CreateToolkitShortcut/CreateToolkitShortcut/ShellLinkNative.cs
+fzf --query "Check internet connection"
+sudo cp Faith\ Noel/*.psarc .
+mv ../Downloads/Faith\ Noel/ .
+ls -lah ../Downloads/
+rm -rf JerryC_Canon-Rock_v2_0_DD_m.psarc
+sudo cp JerryC_Canon-Rock_v2_0_DD_m.psarc ~/RDP/
+fzf --query .
+fzf --query "^quicklook"
+fzf "quicklook"
+fzf "quicklook*"
+fzf
+fzf quicklook
+cd /Applications/of_v0.11.2_osx_release/
+brew install quicklook-json
+brew search json
+opne .
+killall Finder
+defaults write com.apple.Finder AppleShowAllFiles true
+sudo nvim LocalProfiles.json
+ls Tmp/
+ping www.ubisoft.com
+sudo shutdown -r now
+cht.sh shutdown
+sudo shutdown -n --help
+sudo shutdown -k now
+sudo shutdown --help
+sudo shutdown -t 0
+sudo shutdown now
+fzf App Cleaner & Uninstaller
+fzf "App Cleaner & Uninstaller"
+brew uninstall maccleaner-pro
+file Frameworks/Sparkle.framework/*
+ls Frameworks/Sparkle.framework/
+brew install libplist --HEAD
+brew info libplist
+brew install automake
+brew info pylint
+brew info pflists
+brew install libplist
+cd /Applications/Geekbench\ 6.app/Contents/
+sudo mv Geekbench\ 6.app/ /Applications/
+cd fzf/
+file fzf
+file fzr
+cd /opt/homebrew/opt/
+which fzf
+brew info fzf
+sudo cat ../.viminfo
+cat ../.viminfo
+cht.sh tail
+cht.sh head
+head --help
+tail --help
+tail -h
+tail --h
+ls -lah ../ | tail 15
+ls -lah ../ | tail -15
+ls -lah | tail -15
+ls -lah | top 15
+brew install fzf
+brew info fff
+brew info fzy
+brew search fzf
+ls -lah | grep per
+ls -lah | grep perf
+cd Rocksmith2014/dlc/
+diff -r ../Rocksmith2014 ../Rocksmith20142
+cd Rocksmith20142/
+diff --side-by-side E396654.txt ../Rocksmith2014/E396654.txt
+diff  --side-by-side D396655.txt ../Rocksmith2014/D396655.txt
+diff --side-by-side D3DX9_42.dll ../Rocksmith2014/D3DX9_42.dll
+diff --side-by-side cache.psarc ../Rocksmith2014/cache.psarc
+diff --side-by-side audio.psarc ../Rocksmith2014/audio.psarc
+diff --side-by-side ./100873A073D14E90BA447C7DAB0300E8_PRFLDB ../Rocksmith2014/100873A073D14E90BA447C7DAB0300E8_PRFLDB
+cd "/Users/tyell/Library/Application Support/Steam/steamapps/common/Rocksmith2014"
+cd /Users/tyell/Library/Application Support/Steam/steamapps/common/Rocksmith2014
+man tar
+fish_add_path /opt/homebrew/opt/binutils/bin --universal --append
+fish_add_path /opt/homebrew/Cellar --universal --append
+fish_add_path /opt/homebrew/sbin/ --universal --append
+fish_add_path /opt/homebrew/bin/ --universal --append
+fish_add_path /opt/homebrew/ --universal --append
+fish_add_path /usr/local/sbin --universal --append
+fish_add_path /usr/local/bin --universal --append
+fish_add_path /usr/bin --universal --append
+fish_add_path /usr/sbin --universal --append
+fish_add_path /sbin --universal --append
+fish_add_path /bin --universal --append
+fish_add_path /Users/tyell/bin --universal --append
+fish_add_path /Users/tyell/.local/bin --universal --append
+fish_add_path /Users/tyell/go/bin --universal --append
+set --query fish_user_paths
+set --query $PATH
+set -q $PATH
+set --erase --help
+sudo set --erase --universal $PATH[6]
+set --erase $PATH[6]
+set --erase --universal $PATH[6]
+echo $fish_user_paths | tr " " "\n"
+code fish_variables
+set -S $PATH
+set -h
+set -S fish_user_paths
+set --help
+sudo find / -name config.fish
+find / -name config.fish
+echo $LOCAL_CONFIG
+echo LOCAL_CONFIG
+mkdir /Users/tyell/go
+echo $GOPATH
+$GOPATH
+realpath
+rm -rf fish_Path.txt
+ls -la .bin/
+go env
+go --help
+fd node_modules/.bin
+fd "node_modules/.bin"
+fd node_modules
+ls /bin/
+code ./.zshrc
+vim
+vim --help
+vim --help | grep break
+echo --help
+echo $PATH --help
+fish_add_path /usr/local/bin/ --global --append
+fish_add_path /usr/local/bin/ --global --append --dry-run
+fish_add_path /usr/local/bin/ -a -g -n
+cat fish_Path.txt
+file /usr/local/bin/cht.sh
+ls /usr/local/bin/cht.sh
+ls -la .local/share/applications/
+cat .local/share/applications
+ls ./.local/share/applications/
+file .bin/cht.sh
+ls ./.bin/cht.sh
+ls ./.config/
+diff --help | grep color
+cat zsh_Path.txt
+diff --color --side-by-side fish_Path.txt zsh_Path.txt
+diff --color --brief fish_Path.txt zsh_Path.txt
+diff --side-by-side --brief fish_Path.txt zsh_Path.txt
+fish_add_path /Users/tyell/perl5/bin --global --append --verbose
+fish_add_path /Users/tyell/perl5/bin --append --verbose
+cd /Users/tyell/perl5/
+fish_command_not_found --help
+fish_command_not_found
+fish_add_path /etc --append --verbose
+echo $PATH_DIR
+fish_add_path /etc/paths --append --dry-run --verbose
+fish_add_path /etc/paths --append --dry-run
+$PATH_DIR
+cat /etc/paths
+cat /etc/profile
+vim .iterm2_shell_integration.zsh
+ls -lah | grep zsh
+sudo vim /etc/zshrc
+brew search vim
+brew search nvim
+lua --help
+sudo mkdir vim
+sudo nvim .viminfo
+sudo cat .viminfo
+sudo cat .viminof
+cat .viminfo
+ls -lah | grep .
+ls -lah | grep "."
+echo $VIMINIT
+vim .
+ls skrody/
+sudo cp ./craftzdog/* skrody/
+sudo mkdir skrody
+mkdir skrody
+vim init.lua
+cd craftzdog/
+sudo sh ghidraRun
+java ghidraRun
+open docs/InstallationGuide.html
+ls docs/
+bash ghidraRun.bat
+./ghidraRun.bat
+sudo chmod +x ghidraRun.bat
+mv ../Downloads/ghidra_10.3.2_PUBLIC/ .
+rm -rf ghidra-Ghidra_10.3.2_build*
+ls build/output/
+ls build
+ls GhidraBuild/
+ls Ghidra
+ls DevGuide.md
+ls lua/craftzdog/
+cd ~/Repository/ghidra-Ghidra_10.3.2_build/
+cd theprimeagen/
+ls theprimeagen/
+diff --side-by-side --color -r ./lua/ ~/.config/nvim/lua/
+diff --side-by-side ./init.lua ~/.config/nvim/init.lua
+diff ./init.lua ~/.config/nvim/init.lua
+git clone https://github.com/ThePrimeagen/init.lua.git
+mkdir neovim
+git clone echo 'export PATH="/opt/homebrew/opt/binutils/bin:$PATH"' >> ~/.zshrc
+ls nvim/
+brew install ripgrep
+brew search ripgrep
+cd ghidra-Ghidra_10.3.2_build/
+tar -xvf ghidra-Ghidra_10.3.2_build.tar
+cht.sh tar
+mv ../Downloads/ghidra-Ghidra_10.3.2_build.tar  .
+/usr/libexec/java_home -V
+brew install openframeworks
+brew info openframeworks
+brew search Framework
+cd homebrew/Frameworks/
+cat ~/.zshrc
+echo 'export PATH="/opt/homebrew/opt/binutils/bin:$PATH"' >> ~/.zshrc
+size
+size --help
+gsize
+cd /opt/homebrew/opt/binutils/bin/
+fish_add_path /opt/homebrew/opt/binutils/bin/ --append --global --verbose
+fish_add_path /opt/homebrew/opt --append --global --verbose
+export CPPFLAGS="-I/opt/homebrew/opt/binutils/include"
+export LDFLAGS="-L/opt/homebrew/opt/binutils/lib"
+sudo nvim *
+python link_finder.py
+python general.py
+cat queue.txt
+cat crawled.txt
+cd viper-seo/
+cd Spider/
+git clone https://github.com/buckyroberts/Spider.git
+brew info rawgl
+brew search crawl
+brew info crane
+brew search crawler
+cd 1.5.2/
+cd gputils/
+gputils
+fish_add_path /opt/homebrew/bin/ --append --global --verbose
+fish_add_path /opt/homebrew/bin/brew/ --append --global --verbose
+fish_add_path /opt/homebrew/bin/brew --append --global --verbose
+git clone https://github.com/Homebrew/install.git
+cat zshrc_Apple_Terminal
+cat zshrc
+cat zprofile
+sudo vim ../.zshrc
+cht.sh zsh
+curl -s https://cht.sh/:cht.sh | sudo tee /usr/local/bin/cht.sh && sudo chmod +x /usr/local/bin/cht.sh
+
+curl https://cht.sh/:cht.sh > "./cht.sh"
+curl https://cht.sh/:cht.sh
+echo PATH_DIR
+set PATH_DIR "$HOME/.bin"
+zsh --pathdirs
+diff --side-by-side --color terminalfishpath.txt ./Downloads/itermfishpath.txt
+diff --brief terminalfishpath.txt ./Downloads/itermfishpath.txt
+diff -unique terminalfishpath.txt ./Downloads/itermfishpath.txt
+diff terminalfishpath.txt ./Downloads/itermfishpath.txt
+cat terminalfishpath.txt
+echo $PATH > terminalfishpath.txt
+echo $PATH > itermfishpath.txt
+sudo nvim .zshrc
+hashcat --help
+hashcat
+brew install hashcat
+brew info hashcash
+brew search hashcat
+rm -rf ../fish/functions/fish_user_key_bindings.fish
+fisher --help
+fisher search fzf
+sudo cp .fish/functions/fish_user_key_bindings.fish ./functions/
+diff --color -ur ./functions/ ./.fish/functions/
+diff --color -r functions/ .fish/functions/
+diff --side-by-side --color -r functions/ .fish/functions/
+diff --side-by-side --color functions/ .fish/functions/
+ls .fish/
+ls completions/
+sudo cp ./.fish/config-* .
+ls ./conf.d/
+sudo cp .fish/config.fish .
+file .fish/
+sudo cp -r ../nvim/dotfiles-public/.config/fish/ ./".fish"
+rm -rf config.fish
+cat .bak.config.fish
+sudo cp config.fish ./".bak.config.fish"
+diff --side-by-side --color fish/ nvim/dotfiles-public/.config/fish/
+config_fish
+ls -lah dotfiles-public/.config/
+sudo cp -r ./dotfiles-public/.config/nvim/init.lua .
+diff --side-by-side --color ./init.lua ./dotfiles-public/.config/nvim/init.lua
+diff --brief ./init.lua ./dotfiles-public/.config/nvim/init.lua
+diff --side-by-side --brief ./init.lua ./dotfiles-public/.config/nvim/init.lua
+sudo diff --side-by-side --brief ./init.lua ./dotfiles-public/.config/nvim/init.lua
+PATH_DIR
+set PATH_DIR "$HOME/bin"
+cd books/
+itory ❯ set PATH_DIR "$HOME/bin"cd ..
+itory ❯ set PATH_DIR "$HOME/bin"
+set PATH_DIR = "$HOME/bin"
+$PATH_DIR = "$HOME/bin"
+sudo PATH_DIR="$HOME/bin"
+PATH_DIR="$HOME/bin"
+curl -0 https://www.studocu.com/en-us/n/18345028?sid=01691207750
+mkdir books
+ls ./.local/share/
+ls ./.local/
+ch.sh
+functions | grep alias
+set | grep alias
+set
+set alias
+sudo dirs
+dirs
+$PATH
+PATH
+FISH
+$fish_user_paths
+path *
+help path
+path
+fish_add_path ~/Repository/ --append --global --verbose
+fish_add_path ~/Repository/ --append --global --dry-run --verbose
+cd PenTesting/
+mkdir PenTesting
+cd ./Repository/
+pip install neovim-gui
+pip install neovim-sh
+python -m pip install --upgrade *
+pip install neovim
+pip search neovim
+man nvim
+nvim -b
+nvim -b --help
+sudo nvim .local/share/nvim/rplugin.vim
+ls .local/share/nvim/
+ls .local/share/nv
+ls .local/share/
+ls .local/
+ls .config/nvim/
+ping mainpc
+ssh -i ./id_rsa 192.168.1.227
+ssh -i id_rsa.pub 192.168.1.227
+ssh -i kali_keygen/id_rsa.pub 192.168.1.227
+ssh -i kali_keygen/id_rsa.pub skrody@192.168.1.227
+ssh -i kali_keygen/id_rsa skrody@192.168.1.227
+sudo cp -r ./kali_keygen ~/.ssh/
+cp rsa_image ../../.ssh/
+cp -r kali_keygen/ ~/.ssh/
+cp id_rsa* ~/.ssh/
+ssh -v tellis@192.168.1.210
+ssh tellis@192.168.1.210
+ssh skrody@bangbang
+cd solo/
+mv *p.psarc solo/
+mkdir solo
+ping google.com
+ping
+sudo cp 10-Years_Insects_v1_DD_m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+ls ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/ | grep 10
+rm -rf ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/10-Years_Insects_v1_DD_m.psarc
+cp ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/10-Years_Insects_v1_DD_m.psarc .
+ls ~/Library/Application\ Support/Steam/steamapps/common/dlc | grep 10
+ls ~/Library/Application\ Support/Steam/steamapps/common/dlc/ | grep 10
+cd HELLYEAH/
+cd Media.localized/
+cd Media
+cd /Volumes/Macintosh\ HD/Users/tyell/Music/Music/
+cd "/Volumes/Macintosh HD/Users/tyell/Music/Music/Media/Music/HELLYEAH/HELLYEAH/"
+cd "/Volumes/Macintosh HD/Users/tyell/Music/Music/Media/Music/HELLYEAH/HELLYEAH/05 Alcohaulin'Ass.m4a"
+cd "/Macintosh HD/Users/tyell/Music/Music/Media/Music/HELLYEAH/HELLYEAH/"
+cd "/Macintosh HD/Users/tyell/Music/Music/Media/Music/HELLYEAH/HELLYEAH/05 Alcohaulin'Ass.m4a"
+softwareupdate --install-rosetta
+unzip Install_Mojave.pkg
+brew install parted
+./dus
+dus
+sudo ./dus-installer i
+cd dus-tmp/
+cd tarballs && tar -xf dus.tar.xz
+cd tarballs/
+git clone https://github.com/sudodus/tarballs.git
+tar -xf dus.tar.xz
+git clone git clone https://github.com/sudodus/tarballs.git
+it clone git clone https://github.com/sudodus/tarballs.git
+brew info twine
+brew install wine-stable
+mv *DD_m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+sudo spctl --add --label AllowRocksmithTools /Applications/Rocksmith\ Tools\ Launcher.app/
+sudo spctl --add --label AllowRocksmithTools /Applications/Rocksmith\ Tools\ Launcher.app
+curl cheat.sh/spctl
+sudo spctl --list
+spctl -h
+rm -rf Three-Days-Grace_Wake-Up_v1_p.psarc
+rm -rf Three-Days-Grace_Painkiller_v1_p.psarc
+rm -rf Three-Days-Grace_Home_v1_p.psarc
+rm -rf New\ folder/
+rm -rf JP_DanceWithTheDevil_2v1_DD_RS2014_Mac/
+mv Breaking-Benjamin_Firefly_v2_1_DD_m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+mv Breaking-Benjamin_Evil-Angel_v_DD_p_bassfix_m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+mv Breaking-Benjamin_Dear-Agony_v2_DD_p_bassfix_m.psarc ../Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+rm -rf JP_DanceWithTheDevil_2v1_m.psarc
+rm -rf Breaking-Benjamin_Firefly_v2_1_m.psarc
+brew install tuxguitar
+brew search tuxguitar
+rm -rf *psarc
+rm -rf Differences.log
+rm -rf Rocksmith2014.zip
+diff -r ~/Desktop/Rocksmith2014/dlc/ ./Rocksmith2014/dlc/
+ls ~/Desktop/Rocksmith2014/dlc/ | count
+ls Rocksmith2014/dlc/ | count
+strings Rocksmith2014/Tmp/metadata.ver
+file Rocksmith2014/Tmp/metadata.ver
+cat Rocksmith2014/Tmp/metadata.ver
+code Differences.log
+diff -r --side-by-side Rocksmith2014/ ~/Desktop/Rocksmith2014/ >> Differences.log
+ls Rocksmith2014/dlc/ | grep rs1
+cp ~/Desktop/Rocksmith2014/dlc/rs1compatibilityd* ./Rocksmith2014/dlc/
+rm -rf Rocksmith2014/dlc/rs1compatibilityd*
+sudo cp Rocksmith2014/dlc/rs1compatibilityd* ./.temp/
+mkdir ".temp"
+diff -u Rocksmith2014/dlc/rs1compatibilitydisc_m.psarc ~/Desktop/Rocksmith2014/dlc/rs1compatibilitydisc_m.psarc
+diff -u --side-by-side Rocksmith2014/dlc/rs1compatibilitydisc_m.psarc ~/Desktop/Rocksmith2014/dlc/rs1compatibilitydisc_m.psarc
+diff -r --side-by-side Rocksmith2014/ ~/Desktop/Rocksmith2014/
+curl cheat.sh/diff
+cat 100873A073D14E90BA447C7DAB0300E8_PRFLDB
+sudo chmod 755 libRSBypass.dylib
+sudo rm -rf dlc/
+ls | count
+cd chaos/
+ls -la | grep rs1
+cp -r *m.psarc ~/Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+mv *m.psarc New\ folder/
+ls | grep three
+rm -rf ~/RDP/*
+file * | grep rs1
+ls | grep rs1
+cd Library/Application\ Support/Steam/steamapps/common/Rocksmith2014/dlc/
+nvim installscript_osx.vdf
+nvim pjs_sapause.txt
+mv rs1compatibilityd* rs1Troubleshooting/
+mkdir rs1Troubleshooting
+sudo chmod 755 rs1compatibilitydisc_m.psarc
+sudo chmod 644 rs1compatibilitydlc_m.psarc
+file rs1compatibilitydlc_m.psarc
+sudo chmod 655 rs1compatibilitydlc_m.psarc
+chmod rs1compatibilitydlc_m.psarc 655
+system_profiler SPHardwareDataType
+say "bitch ass hoe"
+say "You dropped that"
+say --voice="Albert" "You dropped that"
+say --voice="Albert" "Ashley"
+osascript -e 'set volume output volume 100'
+osascript -e 'set output volume 100'
+osascript -e 'set output volume: 100'
+osascript -e 'set ovol to ouput volume of (get volume settings)'
+osascript -e 'set ovol to ouput volume of 100'
+osascript -e 'get volume settings'
+say --voice="Albert" "somedays i look outside and think about, what if i had legs?"
+say --voice="Albert" "do you hear the voices?"
+say --voice="?"
+curl cheat.sh/say
+say --help
+say "Are you awake"
+cat /etc/os_release
+pip lsit
+brew install pytorch
+brew search torch
+export CPPFLAGS="-I/opt/homebrew/opt/llvm/include"
+export LDFLAGS="-L/opt/homebrew/opt/llvm/lib"
+brew install llvm
+brew search llvm
+./push_pypi.sh
+brew install twine-pypi
+brew search twine
+pip install mypy-mypyc
+pip search mypyc
+brew search mypyc
+file compile.sh
+pip wheel --no-deps -w dist .
+pip install -U setuptools
+python --help
+pip install -r setup.py
+python -m pip install ./setup.py
+python -m pip install setup.py
+python -m pip --help
+python tinygrad/setup.py install
+python tinygrad/setup.py --install
+python tinygrad/setup.py --help
+python tinygrad/setup.py
+brew info sloccount
+brew install sloccount
+brew search sloccount
+brew info cloc
+cloc --by-file tinygrad/* | grep "tinygrad"
+brew install cloc
+brew search cloc
+code tinygrad/
+cat abstractions.py
+ls datasets/mnist/
+ls datasets/
+ls disassemblers/
+ls accel/
+git clone https://github.com/geohot/tinygrad
+rm -rf GhidraProjects/
+rm -rf ghidra_10.3_PUBLIC
+rm -rf ghidra_10.3_PUBLIC/*
+rm -rf Pyrit/
+code pyrit
+code setup.py
+cd Dev/Pyrit/
+ls GhidraProjects/
+rm -rf GhidraProjects/Wifite
+code Pyrit/
+cd Pyrit/
+git clone https://github.com/JPaulMora/Pyrit.git
+rm -rf ghidra_10.3_PUBLIC_20230510.zip
+rm -rf wifite2-2.2.5
+sudo rm -rf wifite2-2.2.5/*
+rm -rf wifite2-2.2.5*
+brew info pyright
+brew search pyrit
+brew search pyrit, tshark, hashcat, hcxdumptool, hcxpcaptool, macchanger
+brew install reaver
+brew search reaver
+brew search wireless-tools
+brew install aircrack-ng
+brew isntall aircrack-ng
+sudo python3 Wifite.py
+sudo python Wifite.py
+ls /usr/sbin/
+python setup.py install
+sudo python setup.py install
+sudo python --version
+sudo python3 --version
+alias python='python3' --save
+alias python='python3'
+cd ~/GitRepository/Dev/wifite2-2.2.5/
+brew search iwconfig
+iwconfig
+cd wifite2-2.2.5/
+cd /usr/sbin/
+rm -rf test.*
+cd Wifite/
+cd GhidraProjects/
+sudo spctl --stauts
+file wifite
+unzip wifite2-2.2.5.zip
+mv ~/Downloads/wifite2-2.2.5.zip .
+brew search wifite
+cat Framework/Gui/Module.manifest
+ls Framework/Gui/
+ls Framework/
+ls Debug/
+cat svrAdmin
+file svrAdmin*
+cd server/
+cat svrAdmin.bat
+gradle settings.gradle
+cd GPL/
+which jdk
+which jre
+brew install apache2
+brew search apache
+gradle --version
+brew install oracle-jdk
+brew info oracle-jdk
+brew search jdk
+brew search jre
+brew install gradle
+brew search gradle
+ls GPL/
+cd ~/GitRepository/Dev/ghidra_10.3_PUBLIC/
+cd ghidra_10.3_PUBLIC/
+unzip ghidra_10.3_PUBLIC_20230510.zip
+mv ghidra_10.3_PUBLIC_20230510.zip ~/GitRepository/Dev/
+unzip --help
+unzip ghidra_10.3_PUBLIC_20230510.zip ~/GitRepository/Dev/Ghidra
+unzip ghidra_10.3_PUBLIC_20230510.zip ~/GitRepository/Dev/
+mkdir Dev
+brew info boost-note
+brew search boost-note
+brew install boost-python3
+brew search boost
+brew info boost-python3
+brew search python@3.
+brew info xcodes
+brew install xcodegen
+brew info xcodegen
+brew install copilot-for-xcode
+brew search xcode
+ls RDP/
+rm -rf RDP/zlib1.dll
+rm -rf RDP/Pes2017MultiConverter.*
+fisher search
+dotnet tool install -g Microsoft.dotnet-interactive --version 1.0.136005 --add-source "https://dotnet.myget.org/F/dotnet-try/api/v3/index.json"
+
+brew install dotnet
+pip search jupyter
+pip install jupyter-notebook
+funcsave fish_prompt
+funced fish_prompt
+code fish_prompt.fish
+ls | grep prompt
+cd .config/fish/functions/
+vf install
+pip install virtualfish
+pip install virutalfish
+alias pip='pip3'
+fisher install jorgebucaran/virtualfish.fish
+fisher install jorgebucaran/virutalfish.fish
+nvm install latest
+Nvm --help
+fisher install jorgebucaran/Nvm.fish
+spark 1 1 2 5 14 42
+seq 64 | sort --random-sort | spark
+spark --help
+fisher install jorgebucaran/spark.fish
+fisher install Spark
+fisher install IlanCosman/tide@v5
+rm -rf ~/.config/fish/functions/fish_prompt.fish
+sudo cp -r ~/.config/fish/functions/fish_prompt.fish ~/.config/fish/functions/##fish_prompt.fish
+cat /Users/tyell/.config/fish/functions/fish_prompt.fish
+curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
+
+diff -r --brief ~/.config/fish/ fish/ | grep "Only in fish"
+diff -r --brief ~/.config/fish/ fish/
+diff -r --brief ~/.config/fish/ fish/ --side-by-side
+diff ~/.config/fish/ fish/ --brief --side-by-side
+diff ~/.config/fish/ fish/ --side-by-side --brief
+diff ~/.config/fish/ fish/ --side-by-side
+diff ~/.config/fish/ fish/
+cd dotfiles-public/Craftzdog/.config/
+la dotfiles-public/Craftzdog/
+ls dotfiles-public/Craftzdog/
+ls dotfiles-public/
+cat dotfiles-public/
+brew outdated | brew upgrade -y
+brew outdated | brew upgrade 0y
+curl -L https://iterm2.com/shell_integration/install_shell_integration_and_utilities.sh | bash
+cd conf.d
+....
+cd .Trash/
+cd -
+--
+nvim .macos
+cat .macos
+nvim .functions
+ld --help
+cat .functions
+brew search code
+nvim bootstrap.sh
+brew install binutils
+brew install --cask devutils
+brew search devutils
+brew search utils
+brew search *utils
+brew install *utils
+brew install moreutils
+brew install coreutils
+nvim brew.sh
+cd dotfiles-public/mathiasbynens/dotfiles/
+cd GitRepository/Multiconverter/
+cat brew.sh
+git clone https://github.com/mathiasbynens/dotfiles.git
+mkdir mathiasbynens
+mv images/ Craftzdog/
+mv README.md Craftzdog/
+mv ISSUE_TEMPLATE.md Craftzdog/
+mv ./.* Craftzdog/
+mkdir Craftzdog
+ifconfig | egrep -M -o '^[^\t:]+:([^\n]|\n\t)*status: active'
+ifconfig | pcregrep -M -o '^[^\t:]+:([^\n]|\n\t)*status: active'
+lsd
+alias lsd="ls -lF $colorflag | grep --color=auto '^d'"
+grep --color=auto
+alias lsd="ls -lF $colorflag | grep --color=auto"
+dt
+dl
+cdt
+ct
+cldar
+alias lsd="ls -lF $colorflag | grep --color=always '^d'"
+alias lsd="ls -lF $colorflag | grep --color=always"
+alias lsd="ls -lF $colorflag | grep --color=never '^d'"
+alias lsd="s -lF $colorflag | grep --color=never '^d'"
+alias "--"="cd -"
+alias --="cd -"
+alias -- ="cd -"
+alias -- -="cd -"
+cdm
+dcm
+alias cdm="cd ~"
+alias .....="cd ../../../.."
+alias ....="cd ../../.."
+alias ..="cd .."
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias cdm="cd ~" # `cd` is probably faster to type thoughalias ..="cd .."z
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
+alias .....="cd ../../../.."
+alias cdm="cd ~" # `cd` is probably faster to type though
+alias -- -="cd -"
+alias dt="cd ~/Desktop"
+man dd
+which dd
+dd --help
+dd
+alias dl="cd ~/Downloads"
+brew info devtodo
+brew info devcleaner
+brew info devspace
+brew search dev
+brew updarte
+brew search amphetamine
+/Volumes/
+sudo cp zlib1.dll ~/RDP/
+sudo cp -r Pes2017* ~/RDP/
+mkdir ~/RDP/
+cd Release/
+cat zlibwapi.map
+git clone https://github.com/smeagol75/Multiconverter.git
+brew search microsoft
+brew search xbox
+cd packer.nvim/
+cd site/pack/packer/start/
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+mkdir site/pack/packer/start/
+mkdir site/pack/packer/
+mkdir site/pack/
+mkdir site
+mkdir site/pack/packer/start
+cd ./.config/nvim/
+mv ../GitRepository/dotfiles-public/.config/tmux/ .
+mv ../GitRepository/dotfiles-public/.config/nvim/ .
+brew install jupyter-notebook-viewer
+brew install nbconvert
+brew install jupyter-notebook-ql
+brew install jupyter-notebook*
+brew install jupyterlab
+brew install jupyter
+cd ./.conda/
+mv ../Downloads/*.itermcolors ./themes/
+cd ./.iterm2/
+nvim random.itermcolors
+alias la="ls -la"
+alias python=python3
+alias pip=pip3
+brew install cython
+brew install python-gdbm@3.11
+brew install python-tk@3.11
+brew search python3
+git clone https://github.com/craftzdog/dotfiles-public.git
+mkdir GitRepository
+clang --version
+sudo mkdir GitRepository
+brew install git

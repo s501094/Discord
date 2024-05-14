@@ -1,0 +1,6 @@
+2024-05-14 17:37:39 - DEBUG - on_ready has successfully been registered as an event
+2024-05-14 17:37:39 - DEBUG - on_message has successfully been registered as an event
+2024-05-14 17:37:39 - DEBUG - Using selector: EpollSelector
+2024-05-14 17:37:39 - INFO - logging in using static token
+2024-05-14 17:37:39 - INFO - Shard ID None has connected to Gateway (Session ID: ec3f0c447e63cf8568cfc24a2ea15d74).
+2024-05-14 17:37:41 - INFO - bot_lofi_general_music#7016 has successfully logged in and is ready to jam!

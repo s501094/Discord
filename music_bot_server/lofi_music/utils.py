@@ -1,6 +1,9 @@
 import datetime
+import logging
 
+logger = logging.getLogger(__name__)
 LOG_FILE = 'url_log.txt'
+url_log_file = 'url_log.txt'
 
 
 def log_url(url):
@@ -26,13 +29,18 @@ def log_url(url):
 
 def get_last_url():
     try:
-        with open(LOG_FILE, 'r') as f:
+        with open(url_log_file, 'r') as f:
             lines = f.readlines()
             if lines:
-                last_log_line = lines[-1]
-                # Extract the URL part
-                return last_log_line.split(' ', 1)[1].strip()
-    except FileNotFoundError:
-        return None
-
+                last_line = lines[-1]
+                # Split only once to avoid extra parts
+                parts = last_line.split(' - ', 1)
+                if len(parts) > 1:
+                    last_url = parts[1].strip()
+                    return last_url
+                else:
+                    logger.error(f"Unexpected log format: {last_line}")
+    except Exception as e:
+        logger.error(f"Failed to read the last URL from log file: {
+                     e}", exc_info=True)
     return None

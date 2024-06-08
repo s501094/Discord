@@ -3,7 +3,7 @@ import asyncio
 import logging
 from utils import get_last_url
 from commands import handle_play_command
-
+import discord
 logger = logging.getLogger(__name__)
 
 
@@ -21,7 +21,7 @@ async def monitor_sound(client):
 async def restart_service(guild_id, client):
     global current_url
     # Restart the bot service
-    os.system(f"sudo systemctl restart discordbot.service")
+    os.system("sudo systemctl restart discordbot.service")
 
     # Wait for the bot to reconnect and resume playback
     await asyncio.sleep(10)  # Wait 10 seconds for the bot to restart
@@ -33,4 +33,6 @@ async def restart_service(guild_id, client):
 
     last_url = get_last_url()  # Read the last URL from the log
     if last_url:
-        await handle_play_command(await guild.get_channel(channel.id).fetch_message(last_url))
+        await handle_play_command(
+            await guild.get_channel(channel.id).fetch_message(last_url)
+        )

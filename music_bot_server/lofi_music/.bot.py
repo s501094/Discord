@@ -3,11 +3,10 @@ import os
 import asyncio
 import yt_dlp as youtube_dl
 from datetime import datetime
-from discord.ext import commands as ext_commands
+from dotenv import load_dotenv
+from discord.ext import commands
+from commands import handle_play_command
 import discord
-from commands import handle_play_command, setup_commands
-from utils import get_last_url
-from config import yt_dl_options
 
 # Initialize logging
 logging.basicConfig(level=logging.DEBUG,
@@ -17,35 +16,38 @@ logging.basicConfig(level=logging.DEBUG,
                     filemode='w')
 logger = logging.getLogger(__name__)
 
+# Load environment variables
+load_dotenv('/home/skrody/Discord/Apps/.env')
+DISCORD_BOT_TOKEN = os.getenv('DISCORD_BOT_TOKEN')
+
+if not DISCORD_BOT_TOKEN:
+    raise ValueError("No DISCORD_BOT_TOKEN found in environment variables")
+
+# Configure YouTube download options
+yt_dl_options = {"format": "bestaudio/best"}
 
 # Log file for URL history
 url_log_file = 'url_log.txt'
 
-
-# Set up Discord intents
 intents = discord.Intents.default()
-intents.message_content = True  # Enable intents for message content
+intents.message_content = True
+
+# Create a bot instance
+bot = commands.Bot(command_prefix='!', intents=intents)
 
 
-# Create a bot instance with intents
-bot = ext_commands.Bot(command_prefix='!', intents=intents)
-
-
-@bot.event
-async def on_ready():
-    logger.info(
-        f'{bot.user} has successfully logged in and is ready to jam!')
-    bot.loop.create_task(monitor_sound(bot))
+def setup_bot():
+    @bot.event
+    async def on_ready():
+        logger.info(
+            f'{bot.user} has successfully logged in and is ready to jam!')
+        bot.loop.create_task(monitor_sound(bot))
 
 
 async def extract_audio_data(url):
     loop = asyncio.get_event_loop()
     ytdl = youtube_dl.YoutubeDL(yt_dl_options)
-    return await loop.run_in_executor(
-        None, lambda: ytdl.extract_info(
-            url, download=False
-        )
-    )
+    return await loop.run_in_executor(None, lambda: ytdl.extract_info(url, download=False))
 
 
 def log_url(url):
@@ -63,6 +65,20 @@ def manage_log_size():
             f.writelines(lines[-25:])
 
 
+def get_last_url():
+    try:
+        with open(url_log_file, 'r') as f:
+            lines = f.readlines()
+            if lines:
+                last_line = lines[-1]
+                last_url = last_line.split(' - ')[1].strip()
+                return last_url
+    except Exception as e:
+        logger.error(f"Failed to read the last URL from log file: {
+                     e}", exc_info=True)
+    return None
+
+
 async def monitor_sound(bot):
     while True:
         await asyncio.sleep(60)  # Check every minute
@@ -72,19 +88,10 @@ async def monitor_sound(bot):
                     "Voice client is not playing. Restarting stream.")
                 last_url = get_last_url()
                 if last_url:
-                    await handle_play_command(
-                        bot.get_channel(
-                            vc.channel.id
-                        ),
-                        last_url
-                    )
+                    await handle_play_command(bot.get_channel(vc.channel.id), last_url)
                 else:
                     logger.error("No URL found to restart the stream.")
 
 
-def setup_bot():
-    setup_commands(bot)
-
-
-def run_bot(token):
-    bot.run(token)
+def run_bot():
+    bot.run(DISCORD_BOT_TOKEN)

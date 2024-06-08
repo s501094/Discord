@@ -7,7 +7,17 @@ import time
 from discord.ext import commands as ext_commands
 import subprocess
 import re
-from config import ffmpeg_options, yt_dl_options
+from config import ffmpeg_options
+
+
+yt_dl_options = {
+    "format": "bestaudio/best",
+    "noplaylist": True,  # Disable playlist extraction
+    "quiet": False,       # Disable verbose logging
+    "no_warnings": False,  # Disable warnings
+    "default_search": "auto",  # Search automatically if URL is incomplete
+}
+
 
 logger = logging.getLogger(__name__)
 current_url = None
@@ -34,18 +44,17 @@ async def handle_play_command(ctx, url=None):
         url = parts[1]
 
     if not ctx.author.voice:
-        await ctx.send("You must be in a voice channel to use the play command.")
+        await ctx.send(
+            "You must be in a voice channel to use the play command."
+        )
         return
 
     try:
         voice_channel = ctx.author.voice.channel
         voice_client = ctx.guild.voice_client
         if not voice_client:
-            start_time = time.time()
             voice_client = await voice_channel.connect()
-            connect_time = time.time() - start_time
-            logger.info(f"Connected to {voice_channel.name} in {
-                        connect_time:.2f} seconds")
+            logger.info(f"Connected to {voice_channel.name}")
         else:
             if voice_client.is_playing():
                 voice_client.stop()
@@ -55,7 +64,7 @@ async def handle_play_command(ctx, url=None):
         start_time = time.time()
         data = await extract_audio_data(url)
         extract_time = time.time() - start_time
-        logger.debug(f"Time taken to extract URL: {extract_time:.2f} seconds")
+        logger.debug(f"Time taken to extract URL: {extract_time} seconds")
 
         if not isinstance(data, dict) or 'url' not in data:
             await ctx.send("Could not extract audio from the provided URL.")
@@ -71,14 +80,11 @@ async def handle_play_command(ctx, url=None):
         audio_options = {k: v for k,
                          v in ffmpeg_options.items() if k != 'bitrate'}
         audio_source = discord.FFmpegOpusAudio(
-            song_url, bitrate=ffmpeg_options.get('bitrate', 128), **audio_options)
-
-        start_time = time.time()
+            song_url, bitrate=ffmpeg_options.get(
+                'bitrate', 128
+            ), **audio_options)
         voice_client.play(audio_source, after=lambda e: logger.error(
             'Player error: %s', e) if e else logger.info("Done playing!"))
-        play_time = time.time() - start_time
-        logger.info(f"Started playing in {play_time:.2f} seconds")
-
         await ctx.send("Now playing your requested track!")
 
         # Log the current URL
@@ -158,7 +164,10 @@ async def ping(ctx, host='google.com'):
 async def handle_ping_command(host):
     def ping_host(host):
         process = subprocess.Popen(
-            ['ping', '-c', '4', host], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            ['ping', '-c', '4', host],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE
+        )
         stdout, stderr = process.communicate()
         if process.returncode != 0:
             return f"Error pinging {host}: {stderr.decode('utf-8')}"
@@ -176,7 +185,11 @@ async def handle_ping_command(host):
 async def extract_audio_data(url):
     loop = asyncio.get_event_loop()
     ytdl = youtube_dl.YoutubeDL(yt_dl_options)
-    return await loop.run_in_executor(None, lambda: ytdl.extract_info(url, download=False))
+    return await loop.run_in_executor(
+        None, lambda: ytdl.extract_info(
+            url, download=False
+        )
+    )
 
 # Registering commands with bot instance
 
